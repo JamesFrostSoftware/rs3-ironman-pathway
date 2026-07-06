@@ -1,0 +1,6 @@
+{
+  "rsn": "Farm Rat",
+  "gameMode": "ironman",
+  "bundleDir": "../bundle",
+  "cacheDir": ".cache"
+}

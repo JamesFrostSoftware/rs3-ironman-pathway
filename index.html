@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RS3 Ironman Pathway</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://runescape.wiki" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="page-wrap">
+    <div class="app-shell">
+      <aside class="sidebar sidebar-left" id="sidebar">
+        <div class="sidebar-brand">
+          <div class="logo-mark">⚔</div>
+          <div>
+            <h1>Ironman Pathway</h1>
+            <p>Efficient route tracker</p>
+          </div>
+        </div>
+
+        <section class="sidebar-card sync-card">
+          <div class="card-head">
+            <h2>Live stats</h2>
+            <button type="button" class="icon-btn has-tip" id="sync-btn" data-tip="Refresh skills from Jagex hiscores and quests from RuneMetrics (requires public profile).">↻</button>
+          </div>
+          <div class="sync-form">
+            <input type="text" id="rsn-input" class="has-tip" placeholder="RuneScape name" autocomplete="off" data-tip="Your exact RuneScape name. Saved locally in this browser." />
+            <select id="game-mode" class="has-tip" data-tip="Which hiscores table to read: Ironman, Hardcore, or Normal.">
+              <option value="ironman">Ironman</option>
+              <option value="hardcore">Hardcore</option>
+              <option value="normal">Normal</option>
+            </select>
+          </div>
+          <p class="sync-status" id="sync-status"></p>
+          <div class="hero-stats" id="hero-stats"></div>
+          <div class="skills-section">
+            <h3 class="skills-heading has-tip" data-tip="All 29 skills from hiscores. Hover any skill for your current level.">Skills</h3>
+            <div id="skill-grid" class="skill-grid"></div>
+          </div>
+          <div class="qp-display has-tip" id="qp-display" data-tip="Quest points from RuneMetrics completed quests. Enable public profile: Settings → Account → Privacy in-game.">
+            <span>Quest Points</span>
+            <strong id="qp-value">—</strong>
+          </div>
+          <p class="fine-print">Auto-sync every 15 min · <a href="https://runescape.wiki/w/Application_programming_interface" target="_blank" rel="noopener">API docs</a></p>
+        </section>
+      </aside>
+
+      <div class="center-column">
+        <header class="topbar">
+          <div class="topbar-search">
+            <input type="search" id="search-input" class="has-tip" placeholder="Search quests, training, PoF…" autocomplete="off" data-tip="Filter pathway steps by title, notes, tags, or training methods." />
+          </div>
+          <div class="topbar-actions">
+            <label class="chip-toggle has-tip" data-tip="Select multiple steps, then bulk mark complete or incomplete.">
+              <input type="checkbox" id="multi-select-toggle" />
+              Multi-select
+            </label>
+            <button type="button" id="mark-selected-done" class="btn btn-accent has-tip" hidden data-tip="Mark all selected steps as complete.">Complete selected</button>
+            <button type="button" id="mark-selected-undone" class="btn btn-ghost has-tip" hidden data-tip="Uncheck all selected steps.">Undo selected</button>
+            <select id="part-filter" class="select-compact has-tip" data-tip="Show only one part of the pathway guide (Part 1–6 and miniguides).">
+              <option value="all">All parts</option>
+            </select>
+            <label class="chip-toggle has-tip" data-tip="Hide steps you have already checked off.">
+              <input type="checkbox" id="hide-completed" />
+              Hide done
+            </label>
+            <label class="chip-toggle has-tip" data-tip="Only show steps where your current stats meet all level requirements.">
+              <input type="checkbox" id="ready-only" />
+              Ready only
+            </label>
+          </div>
+        </header>
+
+        <section class="next-up-banner has-tip" id="next-up-banner" data-tip="Your first unchecked step in guide order. It is highlighted below and scrolls into view when you open the page.">
+          <p class="next-up-text" id="next-up-text">Loading…</p>
+        </section>
+
+        <main class="guide-main" id="guide-panel">
+          <div id="guide-sections"></div>
+        </main>
+
+        <footer class="site-footer">
+          <p>
+            Progress saved locally ·
+            <a href="https://runescape.wiki/w/Ironman_Mode/Guide/Efficient_Ironman_Pathway_Guide" target="_blank" rel="noopener">Wiki pathway guide</a>
+            · Not affiliated with Jagex
+          </p>
+        </footer>
+      </div>
+
+      <aside class="sidebar sidebar-right" id="repeatables-sidebar">
+        <section class="sidebar-card repeatables-card">
+          <div class="card-head">
+            <h2>Repeatables</h2>
+            <span class="badge has-tip" id="repeatables-available" data-tip="Number of daily/weekly/monthly tasks ready to do right now.">0 ready</span>
+          </div>
+          <p class="card-hint">Daily 00:00 UTC · Weekly Wed 00:00 UTC · Monthly 1st</p>
+          <div id="repeatables-list" class="repeatables-list"></div>
+        </section>
+      </aside>
+    </div>
+  </div>
+
+  <button type="button" class="agent-chat-fab has-tip" id="agent-chat-toggle" data-tip="Ask the pathway assistant (Composer 2.5) — does not change your checklist." aria-label="Open pathway assistant">
+    <span aria-hidden="true">💬</span>
+  </button>
+
+  <aside class="agent-chat-panel" id="agent-chat" aria-label="Pathway assistant">
+    <header class="agent-chat-head" title="Drag to move">
+      <div class="agent-chat-head-title">
+        <h2>Pathway assistant</h2>
+        <p class="agent-chat-sub">Composer 2.5 · Q&amp;A only</p>
+      </div>
+      <div class="agent-chat-head-actions">
+        <button type="button" class="icon-btn has-tip" id="agent-new-chat" data-tip="Start a fresh conversation.">↺</button>
+        <button type="button" class="icon-btn" id="agent-chat-close" aria-label="Close assistant">✕</button>
+      </div>
+    </header>
+
+    <details class="agent-chat-settings-wrap" id="agent-chat-settings-wrap">
+      <summary>Connection settings</summary>
+      <div class="agent-chat-settings" id="agent-chat-settings-panel">
+        <label>
+          Proxy URL
+          <input type="url" id="agent-proxy-url" placeholder="Leave blank for same origin (npm run dev)" />
+        </label>
+        <label>
+          Proxy access token
+          <input type="password" id="agent-proxy-token" placeholder="Only if AGENT_PROXY_TOKEN is set on server" autocomplete="off" />
+        </label>
+        <p class="agent-chat-settings-note">Your Cursor API key stays in server <code>.env</code> only — never in the browser.</p>
+        <button type="button" class="btn btn-accent btn-sm" id="agent-save-settings">Save</button>
+      </div>
+    </details>
+
+    <p class="agent-chat-status" id="agent-chat-status">Checking agent…</p>
+    <div class="agent-chat-messages" id="agent-chat-messages" role="log" aria-live="polite"></div>
+    <form class="agent-chat-form" id="agent-chat-form">
+      <textarea id="agent-chat-input" rows="2" placeholder="Ask about the pathway, training, quests…" required></textarea>
+      <button type="submit" class="btn btn-accent">Send</button>
+    </form>
+    <div class="agent-chat-resize-handle" aria-hidden="true" title="Drag to resize"></div>
+  </aside>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "name": "rs3-ironman-pathway",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server/dev-server.mjs",
+    "agent-proxy": "node server/dev-server.mjs",
+    "preview": "node server/dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

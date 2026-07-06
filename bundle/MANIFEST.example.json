@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "generated_unix": 1782984410,
+  "source": "https://runescape.wiki/",
+  "readme": "Read RULES.md first. No other dependencies required.",
+  "files": {
+    "rules": "RULES.md",
+    "index": "data/wiki.rs3wi",
+    "graph": "data/wiki.rs3wg",
+    "nav": "data/wiki.rs3nav"
+  },
+  "stats": {
+    "pages": 910390,
+    "graph_nodes": 307014,
+    "graph_edges": 43179,
+    "nav_signals": 77872,
+    "nav_paths": 13816,
+    "index_bytes": 482011072,
+    "graph_bytes": 13953198,
+    "nav_bytes": 13979063
+  }
+}

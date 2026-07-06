@@ -1,0 +1,2731 @@
+The purpose of '''this guide is to give Ironmen a direct pathway towards bossing''' only, and to do it in as short a time as possible. This guide is Hardcore Ironman friendly, but you may find that some sections take you longer to complete.
+
+=Main guide=
+
+==Part 1: Starting off==
+This first section of the guide aims to unlock as many of the repeatable activities as fast as possible. In addition, you will complete a lot of subquests, making the transition into late game quests a lot easier.
+
+You should try and complete the following repeatable activities whenever they are available. It is recommended to add [[notes]] in-game for all of your repeatable tasks.
+
+It is recommended to start each monthly task from when the guide specifies to.
+{| class="wikitable lighttable align-center-1"
+! Order
+! Task
+! Group Ironman
+! Competitive Group Ironman
+|-
+|1
+|Daily Challenges
+| Yes 
+| Yes 
+|-
+|2
+|[[Guthixian Cache]] (opens after depositing 800 memories at a rift — no longer hourly)
+| Yes 
+| Yes 
+|-
+|3
+|Nemi Forest
+| Yes 
+| Yes 
+|-
+|4
+|Reaper Task (no daily cap; up to 300 [[Reaper points]] per week; also earns [[Slayer reward points]])
+| Yes 
+| Yes 
+|-
+|5
+|Player-Owned Farm (Beehives)
+| Yes 
+| Yes 
+|-
+|6
+|[[Bloodwood tree]] (Wilderness)
+| Yes 
+| No 
+|}
+
+As of November 17th, 2025, all types of Ironman accounts start in [[Lumbridge]].
+
+'''HEADS UP!:''' Sometimes, the green completion boxes can disappear, so it is highly recommended to track your progress using the in-game notes!
+
+{|class="wikitable lighttable static-row-numbers static-row-numbers-center static-row-header-step " data-tableid="EIP1"
+! style="width:45%;" | Activity !! style="width:50%;" | Notes !! style="width:5%;" | Minimum levels after step (If following guide step by step)
+|- data-rowid = "Start Female"
+| Create an account.
+| 
+* Start as a female character ([[Recruitment Drive]])
+| {{NA}}
+|- data-rowid = "Tutorial Island"
+| Skip Tutorial Island 
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Find Circus"
+| Open the minigames tab in the adventures screen to locate [[Balthazar Beauregard's Big Top Bonanza|The Circus]]. When you reach the circus, complete the agility minigame to unlock [[Surge]] and [[Escape]].  
+| 
+* Start with the lowest level activity and work your way up.
+* You will not get XP for failing an activity.
+* You will not get XP for doing an already successfully completed level activity.
+* Add [[surge]] to your ability bar. 
+|
+* {{sc|Agility}} 5 <!--388 xp in agility-->
+|- data-rowid = "Skip Basic Challenges"
+| Talk to [[Challenge Mistress Fara]] and skip all of the basic challenges.
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Dwarven Army Axe"
+|Obtain the [[Dwarven army axe]] by speaking to [[Major Mary Rancour]]
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Wicked Hood"
+| Obtain the [[wicked hood]] from [[Tam McGrubor]].
+|
+* Equip and activate it to teleport to the Mind Altar.
+* Leave the altar and run east to activate the Edgeville lodestone.
+* '''Note:''' As of the [[DailyScape Overhaul]] (16 March 2026), the Wicked Hood no longer provides free daily essence, runes, or teleport charges. It functions purely as a Runecrafting altar teleport tool when you have the appropriate runes.
+|
+|- data-rowid = "Back to Burthorpe"
+|Teleport to the [[Burthorpe lodestone]].
+|To make things easier in future steps, fulfil the following whilst in burthorpe:
+* Pick 28 flax from the [[Astram Farm]] to the south.
+* Spin the flax into bowstrings.
+* Sell the bowstrings to [[Jack Oval]].
+* Mine 2 copper and 2 tin ore.
+* Smelt 2 bronze bars.
+* Smith a bronze ore box.
+* Mine 20 copper and 20 tin ore.
+* Smelt 20 bronze bars
+* Smith 4 bronze wires (for later use in the [[Shilo Village]] and [[Creature of Fenkenstrain]] quests).
+* Save these bronze bars (for later for use in the [[Water filtration system|Water Filtration]] weekly and [[Easy Underworld achievements|Underworld achievements]]).
+* Deposit the bronze bars into your [[metal bank]].
+* Purchase a bag of salt from the Burthorpe slayer master [[Turael]].
+| 
+* {{sc|Crafting}} 5 <!--420 xp in crafting-->
+* {{sc|Mining}} 6 <!-- Approx 644 xp in mining-->
+* {{sc|Smithing}} 2 <!-- 112 xp in smithing -->
+|- data-rowid = "Activate Taverley"
+| Activate the [[Taverley lodestone]].
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Go to Daemonheim"
+| Sail to Daemonheim. 
+|
+* To get there, talk to [[Bryll Thoksdottir]] on the docks southwest of Taverley{{Chat options|1}}
+** Speak to the [[Dungeoneering tutor]] for a [[Ring of kinship]].
+| {{NA}}
+|- data-rowid = "Go to Al Kharid"
+| Talk to the [[Fremennik shipmaster]] {{Chat options|1}} to sail to [[Al Kharid]].
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Activate Al Kharid"
+| Activate the [[Al Kharid lodestone]].
+| {{NA}}
+| {{NA}}
+|- data-rowid = "One Piercing Note"
+| {{QuestIcon|One Piercing Note}} <sup>([[One Piercing Note/Quick guide|Quick Guide]])</sup>
+| Unlocks the [[transfigure]], [[sacrifice]], and [[devotion]] abilities.
+|
+* {{sc|Prayer}} 3 <!--250 Prayer xp-->
+|- data-rowid = "Activate Lumbridge"
+| Activate the [[Lumbridge lodestone]].
+| {{NA}}
+| {{NA}}
+|- data-rowid = "The Blood Pact"
+| {{QuestIcon|The Blood Pact}} <sup>([[The Blood Pact/Quick guide|Quick Guide]])</sup>
+| 
+* Keep [[Caitlin's staff]] and [[Kayle's chargebow]].
+| 
+* {{sc|Attack}} 2 <!-- 100 xp in Attack-->
+* {{sc|Strength}} 2 <!-- 100 xp in Strength-->
+* {{sc|Defence}} 2 <!-- 100 xp in Defence-->
+* {{sc|Ranged}} 2 <!-- 100 xp in Ranged-->
+* {{sc|Magic}} 2 <!-- 100 xp in Magic-->
+|- data-rowid = "The Restless Ghost"
+| {{QuestIcon|The Restless Ghost}} <sup>([[The Restless Ghost/Quick guide|Quick Guide]])</sup>
+| Keep the [[ghostspeak amulet]].
+|
+* {{sc|Prayer}} 11 <!-- +1125 xp in Prayer, 1375 total xp-->
+|- data-rowid = "Cook's Assistant"
+| {{QuestIcon|Cook's Assistant}} <sup>([[Cook's Assistant/Quick guide|Quick Guide]])</sup>
+| 
+* Activate the [[Draynor lodestone]] when gathering the [[Pot of flour]] during the quest.
+* Keep the 20 Sardine reward.
+|
+* {{sc|Cooking}} 4 <!-- 300 xp in Cooking-->
+|- data-rowid = "15 Crafting"
+| Level your crafting to 15.
+|
+* Mine clay south-west of the [[Burthorpe lodestone]]. 
+* Make the clay wet across the path to the east of the [[Potter's Wheel]].
+* Use the [[Potter's Wheel]] to craft the highest pottery item you can and then use the item's on the pottery oven next to the wheel.
+* You can sell these items in the [[Burthorpe Supplies|Burthorpe Supplies.]]
+** Crafting a [[clay ring]], having a clay ring blessed by [[Father Aereck]] and selling a clay ring to [[Morgan]] are requirements for the [[easy lumbridge tasks]].
+* Craft and save an [[unfired bowl]] for [[Dragon Slayer]] quest.
+| 
+* {{sc|Crafting}} 15 <!--2411 xp in crafting-->
+|- data-rowid = "Go shopping Lumbridge GS"
+| Purchase the following items from the [[Lumbridge general store]]:
+* 6 Buckets
+* 2 Pots
+* 2 Tinderbox
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Go shopping Beefy Bill"
+| Purchase the following items from [[Beefy Bill]]:
+* 10 Redberries ([[The Knight's Sword]])
+* 1 Pie dish ([[The Knight's Sword]])
+* 1 Jug of water ([[Monk's Friend]])
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Get Milk"
+| Fill 4 buckets with milk from the cows next to Beefy Bill.
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Activate Varrock"
+| Activate the [[Varrock lodestone]].
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Go to Arch Guild"
+| Head east to the [[Archaeology Guild]]
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Arch Tutorial"
+| Complete the [[Archaeology tutorial]] at the [[Varrock Dig Site]].
+| {{NA}}
+| 
+* {{sc|Archaeology}} 5  <!-- 446 xp in Archaeology--> 
+|- data-rowid = "Anachronia start"
+| Travel to Anachronia on [[The Stormbreaker]].
+* Complete the [[Anachronia base camp]] <sup>([[Anachronia/Quick guide|Quick Guide]])</sup> tutorial.
+* In the base camp interface, set 10 workers to gather clay.
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Herby Werby"
+|Complete a run of [[Herby Werby]].
+* Focus on stopping the Zygomites holding ancient herbs with green particles, but stop the ones with purple particles to make them grab the next herb faster.  
+|You should do this activity every week.
+|
+* {{sc|Herblore}} 13  <!-- 1833 xp in Herblore--> 
+|- data-rowid = "Activate Anachronia"
+|Build the [[Anachronia lodestone]].
+| 
+* You are now responsible for managing the Anachronia base camp yourself - keep your workers busy and upgrade buildings as soon as you can.
+| {{NA}}
+|- data-rowid = "Return to Taverley"
+| Return to Taverley.
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Violet is Blue"
+| {{QuestIcon|Violet is Blue}} <sup>([[Violet is Blue/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP lamps on {{sc|Farming}} Farming'''
+|
+* {{sc|Farming}} 16<!-- 3000 xp in Farming (each lamp is worth 3000 XP.)-->
+|- data-rowid = "Violet is Blue Too"
+| {{QuestIcon|Violet is Blue Too}} <sup>([[Violet is Blue Too/Quick guide|Quick Guide]])</sup>
+|
+* '''1 XP lamp on {{sc|Archaeology}} Archaeology''' 
+* '''1 XP lamp on {{sc|Construction}} Construction'''
+* '''1 XP lamp on {{sc|Summoning}} Summoning'''
+|
+* {{sc|Archaeology}} 19 <!-- 4446 xp in Archaeology--> 
+* {{sc|Construction}} 19 <!-- 4000 xp in Construction--> 
+* {{sc|Summoning}} 19 <!-- 4000 xp in Summoning--> 
+|- data-rowid = "Wolf Whistle"
+| {{QuestIcon|Wolf Whistle}} <sup>([[Wolf Whistle/Quick guide|Quick Guide]])</sup>
+| {{NA}} 
+| {{NA}} <!-- 4276 xp in Summoning--> 
+|- data-rowid = "Druidic Ritual"
+| {{QuestIcon|Druidic Ritual}} <sup>([[Druidic Ritual/Quick guide|Quick Guide]])</sup>
+|
+* After the quest, collect the free supplies from [[Jatix]] and buy 20 vials of water.
+| 
+* {{sc|Herblore}} 14
+|- data-rowid = "Death Plateau"
+| {{QuestIcon|Death Plateau}} <sup>([[Death Plateau/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP lamps on {{sc|Smithing}} Smithing.'''
+| 
+* {{sc|Smithing}} 5 <!-- 412 xp in Smithing-->
+|- data-rowid="Supply and Demand"
+| Complete 5 [[Supply and Demand]] deliveries.
+|
+* Use 1 lamp on {{sc|Farming}} 7 lamps on {{sc|Fletching}} and 7 on {{sc|Agility}}.
+|
+* {{sc|Fletching}} 11<!--1260 xp in Fletching-->
+* {{sc|Agility}} 12<!--1648 xp in agility-->
+* {{sc|Farming}} 17<!--180 xp in farming-->
+|- data-rowid = "Whats mine is Yours"
+|{{QuestIcon|What's Mine is Yours}} <sup>([[What's Mine is Yours/Quick guide|Quick Guide]])</sup>
+|
+* Activate the Falador lodestone during the quest.
+* '''[[Gofannon amulet]] XP reward on {{sc|Smithing}} Smithing'''
+| 
+* {{sc|Mining}} 12 <!-- 1644 xp in mining-->
+* {{sc|Smithing}} 10 <!-- 1230 xp in Smithing-->
+|- data-rowid = "lvl 10 cooking"
+| Catch and cook 50 [[raw shrimp]].
+* Or do [[Once Upon a Slime]] <sup>([[Once Upon a Slime/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| 
+* {{sc|Fishing}} 5 <!-- 500 xp in fishing-->
+* {{sc|Cooking}} 11 <!-- 1500 Xp in cooking-->
+|- data-rowid = "Bake pies"
+| Bake one [[redberry pie]] and smelt two [[iron bars]] for [[The Knight's Sword]].
+Bake an additional six [[redberry pie]]s for all quests and achievements in the future.
+| {{NA}} 
+| {{NA}} <!-- 1234 xp in Smithing, 1700 xp in Mining, and 1578 Xp in cooking-->
+|- data-rowid = "Stronghold of Security"
+| Complete the first three floors of the [[Stronghold of Security]] for 10,000 coins.
+| 
+* The fourth floor chest, the [[Cradle of Life]], does not give coins. It does, however, reward the player with a choice of [[fancy boots]] or [[fighting boots]], and the ability to use the [[stomp emote]].
+| {{NA}}
+|- data-rowid = "Get Ashes"
+|Cut and burn 20 logs and pick up the [[Ashes]]
+| {{NA}}
+|
+* {{sc|Woodcutting}} 5 <!-- 500 xp in Woodcutting-->
+* {{sc|Firemaking}} 7 <!-- 800 xp in Firemaking-->
+|- data-rowid = "Necromancy quest"
+|{{QuestIcon|Necromancy!}} <sup>([[Necromancy!/Quick guide|Quick Guide]])</sup>
+|
+* Talk to [[Sostratus]] after the quest for a set of [[Necromancer robes]].
+* Talk to [[Lupe]] after the quest and buy 1400 [[weak necroplasm]], 500 [[basic ghostly ink]], and 100 [[basic ritual candle]]s.
+|
+* {{sc|Necromancy}} 5<!-- 414 xp in Necromancy-->
+|- data-rowid = "Get 24 Necro"
+|Train your Necromancy to level 24 inside the [[City of Um troll cave]].
+
+|
+* Bank the big bones for rituals later on.
+|{{sc|Necromancy}} 24<!-- 7028 xp in Necromancy-->
+|- data-rowid = "Lesser necroplasm"
+| Perform 7 [[lesser necroplasm ritual]]s 
+You will need:
+* 1400 [[Weak necroplasm]]
+* 12 [[Basic ghostly ink]]
+
+| This will give the required materials for [[Lesser unensouled bar]]s later.
+| {{NA}}
+|- data-rowid = "Kili Row"
+|{{QuestIcon|Kili Row}} <sup>([[Kili Row/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Rune Mythos"
+|{{QuestIcon|Rune Mythos}} <sup>([[Rune Mythos/Quick guide|Quick Guide]])</sup>
+|
+* Save at least one [[impure essence]] for the [[Easy Underworld achievements]]; the [[spirit rune]]s you craft during the quest do not count.
+|
+* {{sc|Necromancy}} 25 <!-- 8528 xp in Necromancy-->
+* {{sc|Runecrafting}} 3 <!-- 250 xp in Runecrafting-->
+|- data-rowid = "Gunnars Ground"
+| {{QuestIcon|Gunnar's Ground}} <sup>([[Gunnar's Ground/Quick guide|Quick Guide]])</sup>
+|
+* '''1 XP lamp on {{sc|Construction}} Construction'''
+|
+* {{Sc|Crafting}} 7 <!--720 xp in crafting--><!-- 4200 xp in Construction-->
+|- data-rowid = "Demon Slayer"
+| {{QuestIcon|Demon Slayer}} <sup>([[Demon Slayer/Quick guide|Quick Guide]])</sup>
+|
+* 3 XP lamp on {{sc|Ranged}} Ranged
+| {{NA}}
+<!-- 64547 xp in Ranged-->
+|- data-rowid="Ernest the Chicken"
+| {{QuestIcon|Ernest the Chicken}} <sup>([[Ernest the Chicken/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+|- data-rowid="Swept Away"
+| {{QuestIcon|Swept Away}} <sup>([[Swept Away/Quick guide|Quick Guide]])</sup>
+<br>
+'''During the quest:'''
+<br>
+* Activate the [[Port Sarim lodestone]]
+* Purchase 10 sardines from [[Gerrant's Fishy Business]]
+* Purchase 1 chocolate bar from [[Wydin's Food Store]]
+|
+* '''10 XP bowl on {{sc|Herblore}} Herblore'''
+|
+* {{sc|Herblore}} 17<!--3453 xp in Herblore-->
+|- data-rowid = "QP die 25"
+| Claim your 25 Quest Points reward from [[May's Quest Caravan]]
+* Repeat this step every 25 QP
+| {{NA}}
+|
+|- data-rowid="Buy 3 hatchets"
+|Purchase a [[steel hatchet]], [[mithril hatchet]], and [[adamant hatchet]] from [[Bob's Brilliant Axes]]
+|
+* Add the hatchets to your toolbelt when you reach the level to use it.
+* The mithril hatchet can later be re-used during the [[Animal Magnetism]] quest
+| {{NA}}
+|- data-rowid="Gather planks and limestone bricks"
+|Gather 116 [[Plank|wooden planks]], 120 [[Oak plank|oak planks]], and 386 [[Limestone brick|limestone bricks]]
+|[[Planks]] can be created at the [[Workshop (Fort Forinthry)|Forinthry Workshop]] after rescuing [[Bill]] during [[New Foundations]] by either sawing them yourself or paying Bill to do so.
+'''Limestone Option 1:'''
+Mine the [[limestone]] at [[Silvarea quarry]], depositing your mined Limestone at the deposit box right outside the building directly south of the mine, next to [[Maria]] of Broken Home.
+Craft it into [[limestone brick]] at the [[stonecutter]], next to the bank chest at the Fort, by interacting with the Stonecutter with the Limestone in your inventory. 
+
+''You can also use a Chisel from your toolbelt to cut the limestone yourself, however this has a failure chance if you are below level 40 in Crafting, therefore not recommended.''
+
+'''Limestone Option 2:'''  
+''This option requires 2 days of preparation as you need to purchase supplies from [[Construction Supplies (Fort Forinthry)]]. The store only sells a daily limit of 250 limestone bricks''
+* 386 limestone bricks
+# Buy and bank 250 limestone bricks
+# Continue on with the rest of the guide
+# Resume this quest on the second day
+
+You may mine the rest of the Limestone using "Option #1", or visit the [[Keldagrim Stonemason]] to buy them there.
+
+|
+* {{sc|Woodcutting}} 26<!-- 7900xp in Woodcutting-->
+|- data-rowid="New Foundations"
+|{{QuestIcon|New Foundations}} <sup>([[New Foundations/Quick guide|Quick Guide]])</sup>
+|
+|{{sc|construction}} 41<!-- 44520 xp in Construction-->
+|- data-rowid = "FF Lodestone"
+|Build the [[Fort Forinthry lodestone|Fort Forinthry Lodestone]] by interacting with the building table ([[Fort Forinthry blueprints]]) and selecting "Miscellaneous" from the drop-down menu.
+|
+* Use materials gathered earlier
+
+|{{sc|construction}} 41<!-- 45620 xp in Construction-->
+|- data-rowid = "Town Hall T1"
+| Build your Town Hall (Tier 1) for rested experience.
+|
+* Do any possible AFK skilling within the Fort and check back on your rested experience every day or two.
+|
+* {{sc|construction}} 42<!-- 51,020 xp in Construction-->
+|- data-rowid="Magic 55"
+| Train your Magic to level 55 in the [[Shattered Worlds]] minigame.
+|
+* On the way to shattered worlds pick up some [[Swamp tar]]
+
+How to train effectively:
+* Use Revolution combat.
+* Disable Defence XP.
+* Do not select the Feeling Pumped mutator as this will significantly lower your xp gain.
+* You can complete slayer tasks within shattered worlds.
+|
+* {{sc|Magic}} 55<!-- 166636 xp in Magic-->
+|- data-rowid="Ranged 45"
+| Train your Ranged to level 45 in the [[Shattered Worlds]] minigame. 
+| How to train effectively:
+* Use Revolution combat.
+* Disable Defence XP.
+* Do not select the Feeling Pumped mutator as this will significantly lower your xp gain.
+* You can complete slayer tasks within shattered worlds.
+|
+* {{sc|Ranged}} 45<!-- 61512 xp in Ranged-->
+|- data-rowid="The Knights Sword"
+| {{QuestIcon|The Knight's Sword}} <sup>([[The Knight's Sword/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|smithing}} 30<!-- 13959 xp in Smithing-->
+|- data-rowid="Mining for Necro"
+| Mine 42 [[iron ore]] and 14 [[coal ore]], then smelt fourteen [[iron bar]]s and [[steel bar]]s ([[Death Skull equipment]] upgrades).
+|
+* Both iron and coal can be found at the Lumbridge South-West mine.
+* Deposit the bars into your metal bank.
+|
+* {{sc|Mining}} 20<!-- 4470 xp in Mining-->
+|-data-rowid = "Lesser communion"
+| Perform 25 [[Lesser communion rituals]] with [[big bones]] for 50 souls.
+You will need:
+* 25 Big bones
+* 46 [[Basic ghostly ink]]
+| 4 big bones spawns can be found at the [[Boneyard]] in level 23 Wilderness. Alternatively, kill [[hill giant]]s for a 100% big bones drop, or the lower levelled [[ghostly troll bruiser]]s, which have a 1/10 big bones drop chance.
+
+'''Note:''' [[Ivar, King of Bones]] on [[Havenhythe]] (unlocked by completing [[Visions of Havenhythe]], started at the Rusty Anchor Tavern in [[Port Sarim]]) always drops a [[Colossal bone]], which grants significantly more Prayer XP on burial than big bones. If you have begun the Havenhythe quest series, farming Ivar is one of the fastest early Prayer training methods available and can replace or supplement this step.
+|
+* {{sc|Necromancy}} 30 <!-- 13528 xp in Necromancy-->
+|- data-rowid = "Skellington"
+| Unlock the [[Command Skeleton Warrior]] talent from the [[Talent tree]].
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Lesser Ensoul"
+| Complete 14 [[lesser ensoul material]] rituals to obtain [[lesser ensouled bar]]s to upgrade your necromancy weapons.
+You will need:
+*14 [[lesser unensouled bars]]
+*17 [[Basic ghostly ink]]
+*5 [[Regular ghostly ink]]
+*5 [[Ashes]]
+*5 [[Vial of water]]
+| This will give you enough ensouled bars to upgrade your equipment up until level 50.
+| 
+* {{sc|Necromancy}} 32 <!-- 17848 xp in Necromancy-->
+|- data-rowid = "Lesser Ensoul 2"
+| Complete 38 [[lesser ensoul material]] rituals to obtain 28 [[Lesser ensouled cloth]] and 10 [[Lesser ensouled thread]].
+You will need:
+*36 Basic ghostly ink 
+*15 Regular ghostly ink
+*15 Ashes
+*15 Vial of water
+*10 [[Thread]]
+*28 pieces of [[spider silk equipment]]
+|
+* Spider silk equipment can be bought from [[Zaff]] in [[Varrock]].
+** This will give you enough ensouled cloth and thread to upgrade your equipment through level 50.
+|
+* {{sc|Necromancy}} 37 <!-- 29628 xp in Necromancy-->
+|- data-rowid = "Necro gear 20"
+| Upgrade your necromancy armour and weapons to level 20.
+| 
+* Before upgrading the next tier of necromancy gear ensure the next tier of "[[Kili's Knowledge]]" is completed.
+| {{NA}}
+|- data-rowid = "Easy Um"
+|[[Easy Underworld achievements|Underworld achievements]] <sup>([[Easy Underworld achievements|Quick Guide]])</sup>
+|
+* Wearing the [[Underworld Grimoire 1]] allows you to bank bones automatically.
+* use the XP lamp on {{sc|Smithing}} Smithing.
+|
+* {{sc|smithing}} 31 <!-- 15959 xp in Smithing-->
+|- data-rowid="Go to Ardougne"
+| Travel to Ardougne
+|
+#Pull the [[Edgeville lever]] to teleport you into the Wilderness.
+#Pull the [[Wilderness lever]] to teleport you to Ardougne Castle.
+* There is no PvP in the Wilderness unless you toggle it on manually and are skulled.
+| {{NA}}
+|- data-rowid="Activate Ardougne"
+| Activate the [[Ardougne lodestone]].
+| {{NA}}
+| {{NA}}
+
+|- data-rowid="Beehives"
+| Complete the Player-owned farm tutorial<sup>([[Player-owned_farm_tutorial/Quick_guide|Quick Guide]])</sup> at the [[Manor Farm]].
+| {{NA}}
+| {{NA}}
+
+|- data-rowid="POF Start"
+| You can now start to work on your farm.
+|
+* Check out the efficient [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Player-owned farm|Player-Owned Farm]] section for a guide.
+* You should do this activity every day 
+| {{NA}}
+|- data-rowid="Activate Seers Village"
+| Activate the [[Seers' Village lodestone]]
+| {{NA}}
+| {{NA}}
+|- data-rowid="Activate Catherby"
+| Activate the [[Catherby lodestone]]
+|
+* Whilst here, fulfil the following:
+# Pick up an [[insect repellent]] from the easternmost house in Catherby
+# Add the insect repellent to your toolbelt
+# Buy a big fishing net from the fishing shop at Catherby.
+# Buy one noted [[seaweed]] from [[Arhein]] (ingredient for [[molten glass]] for use in the [[Observatory Quest]])
+| {{NA}}
+|- data-rowid = "Gather FF materials 1"
+|Obtain the following:
+*96 [[Log]]s
+*120 [[Oak Log]]s
+*288 [[Willow Logs]]
+*480 [[Teak logs|Teak Logs]]
+*432 [[Maple log]]s
+*192 [[Limestone brick]]s
+|Recommended: 
+* Buy limestone bricks at [[Bill]]
+* Chop [[Logs|Regular,]] [[Oak logs|Oak]], and [[Willow logs]] at [[Draynor Village]]
+* Chop [[Teak logs|Teak Logs]] southwest of [[Castle Wars]]
+* Chop [[Maple logs]] at [[Catherby]]
+Optional:
+
+* Train {{sc|Fletching}}Fletching while gathering these in order to fletch the corresponding [[Wood box|wood box.]]
+|
+* {{sc|Woodcutting}}50 if only gathering for Forinthry<!-- 111,440 xp in Woodcutting-->
+|- data-rowid = "FF Command Center and Chapel"
+|Go to [[Fort Forinthry]] and build the following:
+* [[Workshop (Fort Forinthry)|Workshop]] (Tier 2)
+* [[Command Centre]] (Tier 1 )
+* [[Chapel (Fort Forinthry)]] (Tier 1 )
+* [[Town Hall (Fort Forinthry)|Town Hall]] (Tier 2)
+| 
+| {{sc|construction}} 51<!-- 119060 xp in Construction-->
+|- data-rowid = "Murder On the Border"
+|{{QuestIcon|Murder on the Border}} <sup>([[Murder on the Border/Quick guide|Quick Guide]])</sup>
+|Assassin scales to combat level, use Necromancy
+'''You will build the following during the quest'''
+* [[Kitchen (Fort Forinthry)]] (Tier 1 )
+|
+* {{sc|construction}} 52<!-- 136,420 xp in Construction-->
+* Bank Prismatic Lamp for 30 Herblore
+|- data-rowid = "Unwelcome Guests"
+|{{QuestIcon|Unwelcome Guests}} <sup>([[Unwelcome Guests/Quick guide|Quick Guide]])</sup>
+|'''You will build the following during the quest'''
+* [[Guardhouse]](Tier 1 )
+|
+* {{sc|construction}} 54<!-- 156,580 xp in Construction-->
+* Train Slayer at the [[The Raptor|Raptor]] unless doing [[Soul Reaper|Reaper tasks]] post {{sc|slayer}}45 
+|- data-rowid="FF Grove"
+|Build the following while at Fort Forinthry:
+
+* [[Eastern border wall|Eastern border Wall]]
+* [[Grove|Grove Cabin]] (Tier 1)
+* [[Grove|Grove Cabin]] (Tier 2)
+|
+|
+* {{sc|construction}} 54<!-- 184,420 xp in Construction-->
+|- data-rowid = "Get Reaper"
+|Get a reaper assignment from [[Death]] inside of [[Death's office]]
+* Before 60 combat will always be a [[Croesus]] assignment, therefore if you play as a competitive group ironman, only start this step at combat level 60.
+* '''Complete your reaper assignments for Slayer XP. You can earn up to 300 [[Reaper points]] per week. Tasks also award [[Slayer reward points]] with no cap. Requires level 45 {{sc|Slayer}} Slayer and 50 Combat.'''
+|'''How to get Croesus kills effectively at a low level:'''
+* World 68 (Public Instance)
+* Bring 15 logs to free yourself from the Sticky Fungus attack
+* Purchase [[super restore]]s from [[Mazcab Emergency Merchants]]
+<br>
+'''If Death will not assign you a task:'''
+# Open your settings
+# Skills & Experience menu
+# Slayer menu
+# Tick "Enable group assignments" & "Enable skilling assignments"
+|
+* {{sc|Slayer}} 23 <!-- 7000 xp in Slayer-->
+|- data-rowid = "Get Onions"
+| Collect 6 onions from behind Draynor bank
+| {{NA}}
+
+|- data-rowid = "Buy some leaf"
+| Purchase 1010 [[woad leaf|woad leaves]] from [[Wyson the gardener]] in the Falador Garden.
+| {{NA}}
+| {{NA}}
+
+|- data-rowid = "Die to Aggie"
+|
+Talk to [[Aggie]] and make the following dyes:
+* 1 Red dye (3 [[Redberries]])
+* 1 Yellow dye (2 [[Onions]])
+* 1 Blue dye (2 [[Woad Leaves]])
+| {{NA}}
+
+|- data-rowid = "Goblin Diplomacy"
+| {{QuestIcon|Goblin Diplomacy}} <sup>([[Goblin Diplomacy/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}} <!--2611 xp in crafting-->
+
+
+|- data-rowid = "Monks Friend"
+|{{QuestIcon|Monk's Friend}} <sup>([[Monk's Friend/Quick guide|Quick Guide]])</sup>
+|
+* After you complete the quest, pop one of the balloons on the ground for an achievement.
+|
+* {{sc|Woodcutting}}51<!-- 113,440 xp in Woodcutting-->
+
+
+|- data-rowid = "Earth Talisman"
+| Run south and enter the [[Clock Tower (building)|Clocktower]] using the north door, then go down the ladder in the north room.
+* Go to the east room and kill the level 2 giant spiders for an earth talisman.
+* Use the earth talisman on your Wicked hood to add it to the hood.
+|The drop rate for an earth talisman from a giant spider is 1/10.
+| {{NA}}
+|- data-rowid = "Go Shopping Aubury"
+|
+Purchase the following from [[Aubury's Rune Shop]]:
+* 300 Fire rune
+* 300 Water rune
+* 300 Air rune
+* 300 Earth rune
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Go Shopping Brian"
+|
+Purchase the following from [[Brian's Archery Supplies]]:
+* 1 Yew shortbow
+* 20 Adamant arrows
+* 50 Mithril arrows
+| 
+* Recommended: Use this as your main weapon until you unlock the mystic wand and orb
+| {{NA}}
+|- data-rowid = "Go Shopping Void Mage"
+|
+Purchase the following from the [[Void Knight Magic Store]]:
+* 1000 Fire rune
+* 1000 Water rune
+* 1000 Air rune
+* 1000 Earth rune
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Runecrafting 50"
+| Train your Runecrafting to level 50
+|
+* Do this at [[Runespan]]
+* If there is a [[runesphere]] avaliable on the bottom floor (or middle floor after level 33) do it as it will be faster.
+| 
+*{{sc|runecrafting}} 50 <!-- 101333 xp in Runecrafting-->
+|- data-rowid = "Missing Presumed Deaths"
+|{{QuestIcon|Missing, Presumed Death}} <sup>([[Missing, Presumed Death/Quick guide|Quick Guide]])</sup>
+* '''Can be dangerous for low level hardcore ironmen.'''
+|
+* 1 XP lamp on {{sc|Strength}} Strength.
+|
+* {{sc|Prayer}} 13 <!-- + 500, 1875 xp in Prayer-->
+* {{sc|Strength}} 12 <!-- 1600 xp in Strength-->
+* {{sc|Agility}} 15 <!--2648 xp in agility-->
+|- data-rowid = "Gertrudes Cat"
+| {{QuestIcon|Gertrude's Cat}} <sup>([[Gertrude's Cat/Quick guide|Quick Guide]])</sup>
+|
+*Start growing your cat, you can feed your cat using the following food from your bank:
+**Sardines
+**Raw Sardines
+| {{NA}}
+|- data-rowid = "Priest in Peril"
+| {{QuestIcon|Priest in Peril}} <sup>([[Priest in Peril/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| 
+* {{sc|Prayer}} 17 <!-- +1406, 3281 xp in Prayer-->
+|- data-rowid = "Activate Canifis"
+| Activate the [[Canifis lodestone]]
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Sheep Herder"
+| {{QuestIcon|Sheep Herder}} <sup>([[Sheep Herder/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Join Cult"
+| {{QuestIcon|Hazeel Cult}} <sup>([[Hazeel Cult/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|thieving}} 11 <!--1500 xp in Thieving-->
+|- data-rowid = "Obtain food legally"
+| Steal and bank 2 inventories of food from the [[Baker's stall (Ardougne)|Ardougne Bakery Stalls]]
+|
+* Recommended: Use the cake as your main quest food until step 135 (Trout/Salmon obtained)
+|
+* {{sc|thieving}} 14 <!--2396 xp in Thieving-->
+|- data-rowid = "Waterfall Quest"
+| {{QuestIcon|Waterfall Quest|default=yes}} <sup>([[Waterfall Quest/Quick guide|Quick Guide]])</sup>
+|
+* Start the Tree Gnome Village quest to unlock Elkoy's guidance to skip the maze in the future. 
+|
+* {{sc|Attack}} 30 <!-- 13850 xp in Attack-->
+* {{sc|Strength}} 31 <!-- 15350 xp in Strength-->
+|- data-rowid = "Get clean water"
+|Repair the [[Water filtration system]] at [[Het's Oasis]]
+|
+* When gathering Silver bars, smelt extra for future quests.
+* Teleport to [[Al kharid]] and run north.
+* You can now start completing the [[Water filtration system]] weekly.
+| {{NA}}
+|- data-rowid = "Merlins Crystal"
+| {{QuestIcon|Merlin's Crystal}} <sup>([[Merlin's Crystal/Quick guide|Quick Guide]])</sup>
+|
+During the quest:
+* Use two empty buckets on an [[Evergreen]] to obtain two buckets of sap (one for now, one for later).
+** An [[Evergreen tree]] can be found east of Catherby.
+| {{NA}}
+|- data-rowid = "Holy Grail"
+| {{QuestIcon|Holy Grail}} <sup>([[Holy Grail/Quick guide|Quick Guide]])</sup>
+
+|
+During the quest:
+** Whilst on Entrana, complete the Glassblowing tutorial by talking to [[Fritz the Glassblower]]
+** While running to Galahad stop by [[McGrubor's Wood]] and collect 3 [[Red vine worm]]s and 2 [[Dwellberries]].
+** Before heading to the area where you blow the whistle, activate the [[Karamja lodestone]].
+|
+* {{sc|Prayer}} 30 <!-- +11000,  14281 xp in Prayer-->
+* {{sc|Defence}} 31 <!-- 15400 xp in Defence-->
+|- data-rowid = "Nemi Forest daily"
+| You can now start to complete the [[Nemi Forest]] daily
+| 
+* You should do this activity every day
+* Competitive Group Ironman accounts can complete Nemi forest for XP but cannot complete Supply Runs.
+| {{NA}}
+|- data-rowid = "God statues monthly"
+| 
+You can now start to complete the [[God Statues]] monthly
+| 
+* You should do this activity every month
+| {{NA}}
+|- data-rowid = "Stolen Hearts"
+| {{QuestIcon|Stolen Hearts}} <sup>([[Stolen Hearts/Quick guide|Quick Guide]])</sup>
+|
+* 1 XP lamp on {{sc|Strength}} Strength
+| 
+<!-- 15600 xp in Strength-->
+* {{sc|thieving}} 15 <!--2646 xp in Thieving-->
+* {{sc|Agility}} 16 <!--2898 xp in agility-->
+|- data-rowid = "Diamon in the Rough"
+| {{QuestIcon|Diamond in the Rough}} <sup>([[Diamond in the Rough/Quick guide|Quick Guide]])</sup>
+|
+* 1 XP lamp on {{sc|Strength}} Strength
+| 
+<!-- 15850 xp in Strength-->
+* {{sc|thieving}} 16 <!--2896 xp in Thieving-->
+* {{sc|Agility}} 17 <!--3148 xp in agility-->
+|- data-rowid="Rune Hatchet"
+|Go to the [[Champions' Guild|Champion's Guild]] and buy a [[rune hatchet]] from [[Scavvo's Rune Store]]
+|
+|
+|- data-rowid = "Jack of Spades"
+| {{QuestIcon|The Jack of Spades}} <sup>([[The Jack of Spades/Quick guide|Quick Guide]])</sup>
+|
+During the quest:
+* Activate the [[Menaphos lodestone]]
+| 
+* {{sc|dungeoneering}} 5 <!-- 500 xp in Dungeoneering--> 
+* {{sc|thieving}} 17 <!--3396 xp in Thieving-->
+* {{sc|Agility}} 18 <!--3648 xp in agility-->
+<!-- 46420 xp in Construction--> 
+|- data-rowid = "Pingu"
+| You can now start completing [[Penguin Hide and Seek]] weekly
+| 
+* You should do this activity every week
+| {{NA}}
+|- data-rowid="Gather Acadia in Menaphos"
+|While in Menaphos Imperial District gather 768 [[Acadia logs|Acadia Logs]] giving reputation to Imperial Faction
+|'''Make sure to right click Imperial faction (overlay in Menaphos) and set active!'''
+|{{sc|Smithing}}55<!-- 174,880 xp in Woodcutting-->
+|- data-rowid="Dead and Buried"
+|{{QuestIcon|Dead and Buried}} <sup>([[Dead and Buried/Quick guide|Quick Guide]])</sup>
+|Enemies scale to combat level, use Necromancy
+'''You will build the following during the quest'''
+* [[Ranger's Workroom]] (Tier 1 )
+|{{sc|construction}} 57<!-- 218,460 xp in Construction-->
+|- data-rowid="FF Kitchen and Chapel T2"
+|While in [[Fort Forinthry]] build:
+
+* [[Kitchen (Fort Forinthry)|Kitchen]] (Tier 2)
+* [[Chapel (Fort Forinthry)|Chapel]] (Tier 2)
+| Requires:
+* 552 [[Acadia plank|Acadia planks]]
+* 12 [[Stone wall segment]]
+|{{sc|construction}} 61<!-- 304,020 xp in Construction-->
+|- data-rowid="Firemaking 35"
+|
+Train your Firemaking to 35
+|
+* Do this by chopping 290 oak logs next to the Seers' Village lodestone
+** Burn all of the logs that you obtain
+|
+* {{sc|woodcutting}} 56<!--185,755 xp in Woodcutting-->
+* {{sc|Firemaking}} 35<!-- 24625 xp in Firemaking-->
+|- data-rowid = "Choppy chop willow"
+| Obtain 5 [[Willow logs]] by chopping [[Willow|Willow trees]]
+| 
+* Willow trees can be found behind the Seers' Village bank
+| {{NA}} <!-- 24962 xp in Woodcutting-->
+|- data-rowid = "Icthlarins Little Helper"
+| {{QuestIcon|Icthlarin's Little Helper}} <sup>([[Icthlarin's Little Helper/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Agility}} 24 <!--7648 xp in agility-->
+* {{sc|thieving}} 25 <!--7896 xp in Thieving-->
+* {{sc|woodcutting}} 56<!-- 189,755 xp in Woodcutting-->
+|- data-rowid = "Once Upon a Slime"
+|{{QuestIcon|Once Upon a Slime}} <sup>([[Once Upon a Slime/Quick guide|Quick Guide]])</sup>
+| 
+* Purchase a Sickle Mould from [[Rommik's Crafty Supplies]]. 
+** Optional: get a Snape grass from the peninsula west of the Crafting Guild for Plague City. The hobgoblins may be dangerous for low-level accounts.
+|
+* {{sc|cooking}} 19 <!-- 4078 Xp in cooking-->
+|- data-rowid = "Tribal Totem"
+| {{QuestIcon|Tribal Totem}} <sup>([[Tribal Totem/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|thieving}} 26 <!--9671 xp in Thieving-->
+|- data-rowid = "Jungle Potion"
+| {{QuestIcon|Jungle Potion}} <sup>([[Jungle Potion/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Herblore}} 19 <!--4228 xp in Herblore-->
+|- data-rowid = "Recruitment Drive"
+| {{QuestIcon|Recruitment Drive}} <sup>([[Recruitment Drive/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Herblore}} 21 <!--5228 xp in Herblore-->
+* {{sc|Agility}} 25 <!--8648 xp in agility-->
+* {{sc|Prayer}} 31 <!-- 15060 xp in Prayer-->
+|- data-rowid = "Dig Site"
+| {{QuestIcon|The Dig Site}} <sup>([[The Dig Site/Quick guide|Quick Guide]])</sup>
+| 
+* Turn in your [[Level 3 certificate]] to [[Seth Minas]], in the [[Archaeology Guild]], to obtain a Fruit blast (something to drink)
+|
+* {{sc|Herblore}} 24 <!--7228 xp in Herblore-->
+* {{sc|Mining}} 32 <!-- 17728 xp in Mining-->
+|- data-rowid = "Witchs House"
+| {{QuestIcon|Witch's House}} <sup>([[Witch's House/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Lost Tribe"
+| {{QuestIcon|The Lost Tribe}} <sup>([[The Lost Tribe/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Mining}} 34 <!-- 20728 xp in Mining-->
+|- data-rowid = "Tourist Trap"
+| {{QuestIcon|The Tourist Trap}} <sup>([[The Tourist Trap/Quick guide|Quick Guide]])</sup>
+|
+* Use both XP lamps on {{sc|Agility}} Agility
+|
+* {{sc|Agility}} 32 <!--17948 xp in agility-->
+|- data-rowid = "Circus weekly"
+| You can now start completing the [[Circus]] weekly
+| 
+* You should do this activity every week.
+| {{NA}}
+|- data-rowid = "Murder Mystery"
+| {{QuestIcon|Murder Mystery}} <sup>([[Murder Mystery/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| 
+* {{sc|crafting}} 19 <!--4017 xp in crafting-->
+|- data-rowid = "Plague City"
+| {{QuestIcon|Plague City}} <sup>([[Plague City/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| 
+* {{sc|Mining}} 35 <!-- 23153 xp in Mining-->
+|- data-rowid = "Biohazard"
+| {{QuestIcon|Biohazard}} <sup>([[Biohazard/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|thieving}} 26 <!--9146 xp in Thieving-->
+|- data-rowid = "Fight Arena"
+| {{QuestIcon|Fight Arena}} <sup>([[Fight Arena/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|thieving}} 28 <!--11321 xp in Thieving-->
+* {{sc|Attack}} 36 <!-- 26025 xp in Attack-->
+|- data-rowid = "Activate Yanille"
+| Activate the [[Yanille lodestone]]
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Tree Gnome Village"
+| {{QuestIcon|Tree Gnome Village}} <sup>([[Tree Gnome Village/Quick guide|Quick Guide]])</sup>
+|
+* Kill a member of the battlefield for the [[Dukes of Khazard]] achievement
+|
+* {{sc|Attack}} 40 <!-- 37475 xp in Attack-->
+|- data-rowid = "Grand Tree"
+| {{QuestIcon|The Grand Tree}} <sup>([[The Grand Tree/Quick guide|Quick Guide]])</sup>
+|
+* Use the XP lamp on {{sc|Attack}} Attack
+|
+* {{sc|Agility}} 36 <!--25848 xp in agility-->
+* {{sc|Attack}} 44 <!-- 55875 xp in Attack-->
+<!-- 168786 xp in Magic-->
+
+|- data-rowid = "Go Shopping Funch"
+|If you did not get a fruit blast at the end of The Dig Site,
+Purchase the following from [[Funch's Fine Groceries]]:
+* 2 Lemon
+* 1 Orange
+* 1 Pineapple
+* 1 Cocktail glass
+* 1 Cocktail shaker
+* 1 Vodka
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Observatory Quest"
+| {{QuestIcon|Observatory Quest}} <sup>([[Observatory Quest/Quick guide|Quick Guide]])</sup>
+| Optional: Use the noticeboard in the quest start area to complete [[Star Seeker|Star Seeker achievement]]
+Note: To make [[Molten Glass]] combine one [[Soda Ash]] and one [[bucket of sand]]. 
+| 
+* {{sc|crafting}} 22<!--6267 xp in crafting-->
+|- data-rowid = "RFD 1"
+|{{QuestIcon|Recipe for Disaster: Another Cook's Quest|default=yes}} <sup>([[Recipe for Disaster: Another Cook's Quest/Quick guide|Quick Guide]])</sup>
+| 
+* [[Greenman's ale]] can be obtained from [[Rasolo the Wandering Merchant]] south of [[Baxtorian Falls]].
+* Also buy [[Swamp paste]] for use in the [[Sea slug]] quest. 
+| {{NA}}
+|- data-rowid = "Nature Spirit"
+| {{QuestIcon|Nature Spirit}} <sup>([[Nature Spirit/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|crafting}} 26 <!--9267 xp in crafting-->
+<!--* {{sc|Defence}} 31 <!-- 16400 xp in Defence-->
+
+|- data-rowid = "Creature of Fenkenstrain"
+|{{QuestIcon|Creature of Fenkenstrain}} <sup>([[Creature of Fenkenstrain/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|thieving}} 29 <!--12321 xp in Thieving-->
+
+|- data-rowid = "EWW 1"
+|{{QuestIcon|Elemental Workshop I}} <sup>([[Elemental Workshop I/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|crafting}} 30 <!--14267 xp in crafting-->
+* {{sc|smithing}} 34 <!-- 20959 xp in Smithing-->
+|- data-rowid = "EWW 2"
+| {{QuestIcon|Elemental Workshop II}} <sup>([[Elemental Workshop II/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|crafting}} 34 <!--21767 xp in crafting-->
+* {{sc|smithing}} 37 <!-- 28459 xp in Smithing-->
+|- data-rowid = "Sea Slug"
+| {{QuestIcon|Sea Slug}} <sup>([[Sea Slug/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|
+* {{sc|Fishing}} 24 <!-- 7675 xp in fishing-->
+|- data-rowid = "Fishing Contest"
+| {{QuestIcon|Fishing Contest}} <sup>([[Fishing Contest/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Fishing}} 27 <!-- 10112 xp in fishing-->
+|- data-rowid = "Shilo Village"
+| {{QuestIcon|Shilo Village}} <sup>([[Shilo Village/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|crafting}} 36 <!--25642 xp in crafting-->
+|- data-rowid = "Fishing 53"
+| Train your Fishing to level 53
+|
+* Fish inside of Shilo Village 
+| 
+* {{sc|fishing}} 53 <!--136594 xp in fishing-->
+|- data-rowid = "Cook many fish"
+| Cook all of your Trout and Salmon
+|
+Cook at the [[Bonfire]] in [[Yeti Town]] by travelling through the [[Land of Snow portal]] {{Chat options|3 Yeti Town! (Violet is Blue).}}
+| 
+* {{sc|cooking}} 55 <!-- 174078 Xp in cooking-->
+|- data-rowid = "Shades of Morton"
+|{{QuestIcon|Shades of Mort'ton}} <sup>([[Shades of Mort'ton/Quick guide|Quick Guide]])</sup>
+|
+* World 88 is not always active, so you may possibly need to either use alts to help with the minigame or find others to help you. 
+* Make 20 [[Flamtaer bracelet]]s to speed up building the walls. 
+* Make an extra [[Sacred oil]] for [[Legacy of Seergaze]].
+|
+* {{sc|Herblore}} 24 <!--7228 xp in Herblore-->
+* {{sc|Crafting}} 37 <!--27642 xp in crafting-->
+|- data-rowid = "Big Bird Hunter"
+| {{QuestIcon|Big Chompy Bird Hunting}} <sup>([[Big Chompy Bird Hunting/Quick guide|Quick Guide]])</sup>
+| 
+* Get 3 extra [[Raw chompy]] for [[As a First Resort]] and [[Recipe for Disaster]] 
+|
+* {{sc|Fletching}} 12 <!--1702 xp in Fletching-->
+<!-- 175548 Xp in cooking-->
+<!-- 62247 xp in Ranged-->
+|- data-rowid = "Activate Ooglog"
+| Activate the [[Oo'glog lodestone]]
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Zogre Flesh Eaters"
+| {{QuestIcon|Zogre Flesh Eaters}} <sup>([[Zogre Flesh Eaters/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Fletching}} 16 <!--3702 xp in Fletching-->
+* {{sc|Herblore}} 26 <!--9228 xp in Herblore-->
+<!-- 64247 xp in Ranged-->
+|- data-rowid = "Troll invasion run"
+| Complete an easy run of [[Troll Invasion]]
+|
+* You should complete this activity every month
+* 1 Reward book on {{sc|Herblore}} Herblore
+|
+* {{sc|Herblore}} 31 <!--15020 xp in Herblore-->
+
+|- data-rowid = "Home ownership"
+| Purchase a house from the Varrock [[Estate Agent]]
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Varrock Museum Quiz"
+| Complete the [[Varrock Museum Quiz]]
+| {{NA}}
+|
+* {{sc|Slayer}} 28 <!-- 11000 xp in Slayer-->
+* {{sc|Hunter}} 9 <!-- 1000 xp in Hunter-->
+|- data-rowid = "The Golem"
+| {{QuestIcon|The Golem}} <sup>([[The Golem/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}} 
+<!--13321 xp in Thieving-->
+<!--28642 xp in crafting-->
+|- data-rowid = "Shadow of the Storm"
+| {{QuestIcon|Shadow of the Storm}} <sup>([[Shadow of the Storm/Quick guide|Quick Guide]])</sup>
+|
+* 1 XP lamp on {{sc|Attack}} Attack
+|
+* {{sc|Attack}} 45 <!-- 65875 xp in Attack-->
+|- data-rowid = "RFD Dave"
+|{{QuestIcon|Recipe for Disaster: Freeing Evil Dave|default=yes}} <sup>([[Recipe for Disaster: Freeing Evil Dave/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}  <!-- 182548 Xp in cooking-->
+|- data-rowid = "Daves day out"
+| {{QuestIcon|Evil Dave's Big Day Out}} <sup>([[Evil Dave's Big Day Out/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Herblore}} 39 <!--35020 xp in Herblore-->
+* {{sc|Agility}} 42 <!--45848 xp in agility-->
+* {{sc|Cooking}} 56 <!-- 202548 Xp in cooking-->
+* {{sc|magic}} 57 <!-- 218786 xp in magic-->
+|- data-rowid = "Beneath Cursed Tides"
+| {{QuestIcon|Beneath Cursed Tides}} <sup>([[Beneath Cursed Tides/Quick guide|Quick Guide]])</sup>
+|
+* 1 XP lamp on {{sc|Herblore}} Herblore
+|
+* {{sc|Herblore}} 41 <!--45020 xp in Herblore-->
+* {{sc|Cooking}} 57 <!-- 207548 Xp in cooking-->
+<!--141594 xp in fishing-->
+|- data-rowid = "Giant Oyster monthly"
+| Complete the [[Giant Oyster]].
+| 
+* You should do this activity every month
+| {{NA}}
+|- data-rowid = "Go Shopping Marvellous Mysticism"
+|
+Purchase the following items from [[Marvellous Mysticism]]:
+* 1 Mystic wand
+* 1 Mystic orb
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Dragon almost Slayer"
+| Complete [[Dragon Slayer]] up until the point you have the [[Anti-dragon shield]]
+| Steps to obtain the shield:
+# Talk to the [[Guildmaster]] in the [[Champions' Guild]] ({{Chat options|2|Accept}})
+# Talk to [[Oziach]] in the house directly north of the Edgeville lodestone ({{Chat options|1|1|1|1}})
+# Go back and talk to the Guildmaster in the [[Champions' Guild]] ({{Chat options|2|1|1|1|2|3|2|3}})
+# Talk to Duke Horacio on the {{FloorNumber|2}} of Lumbridge Castle ({{Chat options|1|1|1|2}})
+| {{NA}}
+|- data-rowid = "Prayer 37"
+| Train your prayer to level 37
+|
+* You will need 50 [[dragon bones]].
+** Obtain dragon bones by killing [[green dragon]]s or [[blue dragon]]s if you are a HCIM. Remember to equip your [[anti-dragon shield]].
+*** Offer bones at the altar within the [[Chaos Temple]] in the Wilderness
+|
+* {{sc|Prayer}} 37 <!-- 27473 xp in Prayer-->
+|- data-rowid="Dragon Slayer actually this time"
+| {{QuestIcon|Dragon Slayer}} <sup>([[Dragon Slayer/Quick guide|Quick Guide]])</sup>
+| To make the Elvarg fight as easy and safe as possible:
+* Purchase a rune battleaxe from [[Scavvo's Rune Store]]
+* Purchase adamant armour from [[Horvik's Armour Shop]]
+<br>
+|
+|- data-rowid="Slayer 35"
+|Train Slayer to 35
+|
+* Train with the Raptor at Fort Forinthry
+* Use Magic
+* While at a slayer master, buy [[Earmuffs]] and [[Face mask|Face Mask]]
+|{{sc|Slayer}} 35<!-- 22,406 xp in Slayer-->
+|- data-rowid="Smoking Kills"
+|{{QuestIcon|Smoking Kills}} <sup>([[Smoking Kills/Quick guide|Quick Guide]])</sup>
+|
+|{{sc|Slayer}} 36<!-- 27,224 xp in Slayer-->
+|- data-rowid="Magic 60"
+| Train Slayer to 40
+|
+* Use Magic, need at least {{sc|Magic}}60<!-- 273,742 xp in Slayer-->
+* Will need to train to {{sc|Magic}} 66 Magic later.
+|
+* {{sc|Slayer}} 40<!-- 37,224 xp in Slayer-->
+|- data-rowid="Mage Arena mini"
+| Complete the [[Mage Arena]] miniquest
+| Use a [[Lever]] for quick access to the mage arena and to avoid running past the monsters in the wilderness.
+| {{NA}}
+|- data-rowid="Guthix Cape"
+| Enter the [[Sparkling Pool]] and claim the [[Guthix cape]] and [[Guthix staff]]
+|
+* Pray at the [[Statue of Guthix]] for the Guthix cape
+** Talk to the [[Chamber guardian]] for the Guthix staff
+| {{NA}}
+|- data-rowid="Go Shopping Lundail"
+|
+Purchase the following items from [[Lundail's Arena-side Rune Shop]]:
+* 100 Law runes
+* 100 Cosmic runes
+* 500 Air runes
+| {{NA}}
+| {{NA}}
+|- data-rowid="Divine Storming"
+| Cast [[Divine Storm]] spell 100 times on Battle mage inside of the mage arena (Wilderness).
+|
+* Switch to '''Full Manual''':
+# Equip Mystic wand and Mystic orb
+# Withdraw 500 Air runes and food
+# Set your magic to autocast the Divine Storm spell on both weapons
+# Attack [[Battle mage]] until you run out of runes.
+| {{NA}}
+|- data-rowid="Shadow over Ashdale"
+|{{QuestIcon|A Shadow over Ashdale}} <sup>([[A Shadow over Ashdale/Quick guide|Quick Guide]])</sup>
+|
+* Use 1 [[black pearl]] on {{sc|Herblore}} Herblore.
+| {{NA}}
+|- data-rowid="Agoroth weekly"
+| You can now start completing [[Agoroth]] weekly.
+|
+* You should do this activity every week
+|- data-rowid="In Search of the Myreque"
+| {{QuestIcon|In Search of the Myreque}} <sup>([[In Search of the Myreque/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+<!-- 101933 xp in Defence-->
+<!-- 66475 xp in Attack-->
+<!--29242 xp in crafting-->
+|- data-rowid="In Aid of the Myreque"
+| {{QuestIcon|In Aid of the Myreque}} <sup>([[In Aid of the Myreque/Quick guide|Quick Guide]])</sup>
+|
+* Create another [[Silvthril rod]] at the end of the quest, to make an [[Ivandis flail]].
+|
+* {{sc|Attack}} 46<!-- 68475 xp in Attack-->
+* {{sc|Strength}} 32<!-- 17850 xp in Strength-->
+* {{sc|Crafting}} 38<!--31242 xp in crafting-->
+<!-- 103933 xp in Defence-->
+|- data-rowid="Buyers and Cellars"
+|{{QuestIcon|Buyers and Cellars}} <sup>([[Buyers and Cellars/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Thieving}} 30<!--13821 xp in Thieving-->
+|- data-rowid="From Tiny Acorns mini"
+| {{QuestIcon|From Tiny Acorns (miniquest)}} <sup>([[From Tiny Acorns (miniquest)/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}} <!--14821 xp in Thieving-->
+|- data-rowid="The Feud"
+| {{QuestIcon|The Feud}} <sup>([[The Feud/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Thieving}} 37<!--29821 xp in Thieving-->
+|- data-rowid = "Hets flowers"
+| Build all 4 [[flower basket]]s at [[Het's Oasis]]
+| To obtain the materials:
+* Chop 20 Teak logs south-west of Castle Wars
+* Make 40 [[steel nail]]s
+* Turn them into planks at Fort Forinthry
+| {{NA}}
+|- data-rowid = "Thieving 41"
+| Train your Thieving to level 41
+| 
+* Open the Northern Cell Doors in the [[Thieves' Guild]]
+** World hop once all doors are open
+*** Repeat
+| 
+* {{sc|Thieving}} 41 <!--41171 xp in Thieving-->
+|- data-rowid = "Lost Her Marbles mini"
+| {{QuestIcon|Lost Her Marbles (miniquest)}} <sup>([[Lost Her Marbles (miniquest)/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Thieving}} 43 <!--50971 xp in Thieving-->
+|- data-rowid = "Thieving 53"
+| Train your Thieving to level 53
+| Method:
+* Opening the northern and southern Cell Doors in the [[Thieves' Guild]]
+** To obtain a lockpick for the southern doors: Purchase from [[Dodgy Derek]].
+|
+* {{sc|Thieving}} 53 <!--136694 xp in Thieving-->
+|- data-rowid = "Carnillean Rising"
+| {{QuestIcon|Carnillean Rising}} <sup>([[Carnillean Rising/Quick guide|Quick Guide]])</sup>
+|
+* Bank the 10 Mahogany planks reward
+* Use the 2 XP lamps on {{sc|Crafting}} Crafting
+| 
+* {{sc|Crafting}} 39 <!--34242 xp in crafting-->
+|- data-rowid = "DoD Coining"
+|{{QuestIcon|Dimension of Disaster: Coin of the Realm|default=yes}} <sup>([[Dimension of Disaster: Coin of the Realm/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+|- data-rowid = "DoD Demon Slaying"
+|{{QuestIcon|Dimension of Disaster: Demon Slayer|default=yes}} <sup>([[Dimension of Disaster: Demon Slayer/Quick guide|Quick Guide]])</sup>
+| To make the Agrith Naar fight as easy and safe as possible:
+* Purchase 10 iron ore from [[Sani]]
+* Smith 1 off-hand iron warhammer
+* Smith 1 iron platelegs
+* Equip them both, along with your silverlight
+* Purchase 10 chocolate cake from [[Gertrude]]
+<br>
+To obtain [[Zemomark]]s: 
+* kill Zombies and sell their loot to the general store
+|
+* {{sc|Crafting}} 40 <!--39242 xp in crafting-->
+|- data-rowid = "Divination 20"
+|Complete the [[Memorial to Guthix]] tutorial
+|
+* You may have to train your divination here
+# Collect 450 [[Bright energy]]
+# Collect and charge the [[Sword of Edicts engram]] 
+# Activate the echo.
+* Activating the echo will allow you to collect [[Memory shard]]s while training Hunter. These can be used to create [[Sign of the porter IV]].
+* 400-800 shards can be obtained per hour, equivalent to 25-50 Sign of the porter IV when weaved (500-1000 porter charges).
+|
+* {{sc|Divination}} 20 <!--4,470 xp in Divination-->
+|- data-rowid = "Hunter 29"
+| Train your Hunter to level 29
+|
+* Buy [[Bird snare|bird snares]] from [[Ayleth Beaststalker's Hunting Supplies Shop]]
+* Hunt [[Crimson swift|Crimson Swift]] in [[Taverley|Taverly]] until level 11.
+* Hunt [[Cerulean twitch|Cerulean Twitch]] in Relekka until level 19.
+* Hunt [[Tropical Wagtail]] north of Oo'glog until level 29.
+|
+* {{sc|Hunter}} 29 <!-- 12031 xp in Hunter-->
+|- data-rowid = "Eagles' Peak"
+| {{QuestIcon|Eagles' Peak}} <sup>([[Eagles' Peak/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|
+* {{sc|Hunter}} 30 <!-- 13363 xp in Hunter-->
+|- data-rowid = "Hunter 45"
+| Train your Hunter to level 45
+|
+* Use this [[Hunter training]] page for the best method
+|
+* {{sc|Hunter}} 45 <!-- 61512 xp in Hunter-->
+|- data-rowid = "Cold War"
+| {{QuestIcon|Cold War}} <sup>([[Cold War/Quick guide|Quick Guide]])</sup>
+|
+* Mahogany planks and Swamp Tar can be found in your bank.
+* Make an extra clockwork suit during the quest
+* During the quest unlock the [[Fremennik Province lodestone]].
+|- data-rowid = "Hunt For Red Raktuber"
+| {{QuestIcon|Hunt for Red Raktuber}} <sup>([[Hunt for Red Raktuber/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Fletching 25"
+| Train your Fletching to level 25
+<br>
+'''Recommended:''' Chop Oak logs and fletch them into Oak shortbow (u)
+| {{NA}}
+|
+* {{sc|Fletching}} 25<!--7,842 xp in Fletching-->
+|- data-rowid = "Fremennik Trials"
+| {{QuestIcon|The Fremennik Trials}} <sup>([[The Fremennik Trials/Quick guide|Quick Guide]])</sup>
+| You can get the raw shark from [[Temple Trekking]] or the [[Swarm]] fishing spot (requires 68 Fishing)
+|- data-rowid = "Monkey Madness"
+| {{QuestIcon|Monkey Madness}} <sup>([[Monkey Madness/Quick guide|Quick Guide]])</sup>
+# Pick up two Monkey Dentures instead of one during the quest
+# Obtain three [[Monkey Talisman]]s during the quest.
+| HCIM with low [[Constitution]] levels can buy [[antipoison]] potions from the [[survival shop]] on [[Anachronia]], or alternatively, from [[Jiminua]]'s general store on [[Karamja]].
+|- data-rowid = "Gnome XPP"
+|
+# Talk to [[King Narnode]] and then [[Daero]] about being enrolled into the royal guard
+# Choose experience in Attack & Defence
+| {{NA}}
+|- data-rowid = "Haunted Mine"
+|{{QuestIcon|Haunted Mine}} <sup>([[Haunted Mine/Quick guide|Quick Guide]])</sup>
+|Using [[Glowing fungus]] and the [[Underworld Grimoire 1]] is a great way to [[Ashes#Obtaining ashes|obtain ashes]].
+|- data-rowid = "Lair of Tarn"
+|{{QuestIcon|Lair of Tarn Razorlor (miniquest)}} <sup>([[Lair of Tarn Razorlor (miniquest)/Quick guide|Quick Guide]])</sup>
+| Use [[Tarn's diary]] on your [[Salve amulet]], this will now be your best necromancy necklace item against all [[undead]] creatures. 
+|- data-rowid = "Darkness of Hallowvale"
+| {{QuestIcon|The Darkness of Hallowvale}} <sup>([[The Darkness of Hallowvale/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP Tome on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Firemaking 50"
+| Train your Firemaking to level 50
+'''Recommended:''' Chop willow logs and burn them
+| {{NA}}
+|- data-rowid = "Troll Stronghold"
+| {{QuestIcon|Troll Stronghold}} <sup>([[Troll Stronghold/Quick guide|Quick Guide]])</sup>
+|
+* '''2 XP lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Troll Romance"
+| {{QuestIcon|Troll Romance}} <sup>([[Troll Romance/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Go Shopping Nurmof"
+|
+Purchase the following items from [[Nurmof's Pickaxe Shop]]:
+* 1 Adamant pickaxe
+* 1 Rune pickaxe
+| {{NA}}
+|- data-rowid = "Dung Tokens 2000"
+| Obtain 2000 [[Dungeoneering token]]s by training Dungeoneering
+'''Recommended:''' High complexity small floors with a group
+| {{NA}}
+|- data-rowid = "Go Shopping Gem bag"
+| Purchase a [[Gem bag]] from the [[Dungeoneering/Rewards|Dungeoneering rewards shop]] for 2000 Dungeoneering tokens
+| {{NA}}
+|- data-rowid = "Mining 60"
+| <br>
+* Train your Mining to level 60
+* Train your Crafting to level 61
+| '''Method to train Mining:'''
+# Mine uncommon gem rock in the [[Al Kharid mine]]
+# Store all of the uncut gems inside your [[Gem bag]]
+# Bank using the [[War's Retreat Teleport]] or the [[Archaeology journal]] teleport
+# Repeat
+<br>
+'''Method to train Crafting:'''
+# Cut the uncut gems
+|- data-rowid = "Shield of Arrav"
+| {{QuestIcon|Shield of Arrav}} <sup>([[Shield of Arrav/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Lost City"
+| {{QuestIcon|Lost City}} <sup>([[Lost City/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Heroes Quest"
+| {{QuestIcon|Heroes' Quest}} <sup>([[Heroes' Quest/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Throne of Miscellania"
+| {{QuestIcon|Throne of Miscellania|default=yes}} <sup>([[Throne of Miscellania/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Royal Trouble"
+|{{QuestIcon|Royal Trouble}} <sup>([[Royal Trouble/Quick guide|Quick Guide]])</sup>
+|
+|- data-rowid = "Managing Miscellania weekly"
+|You can now start completing the [[Managing Miscellania]] weekly
+<br>
+Distribute your workers like so:
+# Mahogany (Full bar of workers)
+# Maple (Your leftover workers)
+| {{NA}}
+|- data-rowid = "Tears of Guthix quest"
+| {{QuestIcon|Tears of Guthix (quest)}} <sup>([[Tears of Guthix (quest)/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Tears of Guthix weekly"
+| You can now start completing the [[Tears of Guthix]] weekly
+| You should do this activity every week
+|- data-rowid = "Pirates Treasure"
+| {{QuestIcon|Pirate's Treasure}} <sup>([[Pirate's Treasure/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Prayer 47"
+| Train your prayer to level 47
+* Use the [[Calculator:Prayer|Prayer calculator]] to find out how many dragon bones you require
+| Obtain [[dragon bones]] by killing [[green dragon]]s or [[blue dragon]]s (HCIM). Remember to equip your [[anti-dragon shield]]
+* Offer bones at the altar inside the [[Chaos Temple]] in the Wilderness
+|- data-rowid = "Ghosts Ahoy"
+| {{QuestIcon|Ghosts Ahoy}} <sup>([[Ghosts Ahoy/Quick guide| Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid="Rum Deal"
+| {{QuestIcon|Rum Deal}} <sup>([[Rum Deal/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid="Smithing 50"
+| Train your Smithing to level 50
+| '''Recommended:''' Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Mining_and_Smithing_training|Efficient Mining and Smithing training]] section for guidance
+|- data-rowid="Necromancy 60"
+|Train your Necromancy to level 60.
+* Upgrade your Necromancy armour and weapons every 10 levels. 
+|You can choose to train at [[Banshee]]s, [[Fetid zombie]]s, [[Flesh crawler]]s or [[Ghosts]] until level 60.
+|- data-rowid = "Vessel of the Harbinger"
+| {{QuestIcon|Vessel of the Harbinger}} <sup>([[Vessel of the Harbinger/Quick guide| Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Cabin Fever"
+| {{QuestIcon|Cabin Fever}} <sup>([[Cabin Fever/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Legacy of Seergaze"
+| {{QuestIcon|Legacy of Seergaze}} <sup>([[Legacy of Seergaze/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP Tome on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Underground pass"
+| {{QuestIcon|Underground Pass}} <sup>([[Underground Pass/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Death to the Dergeshuun"
+| {{QuestIcon|Death to the Dorgeshuun}} <sup>([[Death to the Dorgeshuun/Quick guide|Quick Guide]])</sup>
+|
+* '''1 XP lamp on {{sc|Ranged}} Ranged'''
+|- data-rowid = "Giant Dwarf"
+| {{QuestIcon|The Giant Dwarf}} <sup>([[The Giant Dwarf/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Another Slice of HAM"
+| {{QuestIcon|Another Slice of H.A.M.}} <sup>([[Another Slice of H.A.M./Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Land of the Goblins"
+| {{QuestIcon|Land of the Goblins}} <sup>([[Land of the Goblins/Quick guide|Quick Guide]])</sup>
+| '''How to obtain clean toadflax:'''
+* Purchase from Brimhaven [[Agility Arena Ticket Exchange]] for 1 ticket
+* Kill Croesus
+|- data-rowid = "Chosen Commander"
+| {{QuestIcon|The Chosen Commander}} <sup>([[The Chosen Commander/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Family Crest"
+| {{QuestIcon|Family Crest}} <sup>([[Family Crest/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Temple of Ikov"
+| {{QuestIcon|Temple of Ikov}} <sup>([[Temple of Ikov/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Thieving 62"
+| Train your Thieving to level 62
+| '''Method to train Thieving: Low-level pickpocket targets. See [[Thieving training#Pickpocketing target progression|thieving training]] page for pickpocketing target progression. This is substantially faster than thieves guild doors since the thieving rework.'''
+|- data-rowid = "A Guild of Our Own mini"
+| {{QuestIcon|A Guild of Our Own (miniquest)}} <sup>([[A Guild of Our Own (miniquest)/Quick guide|Quick Guide]])</sup>
+| '''To obtain grimy irit:'''
+* Item spawn in [[Edgeville Dungeon chaos druids dungeon]]
+* Kill Croesus
+|- data-rowid = "Thieving 90"
+| Train your Thieving to level 90
+|
+* Train Thieving by [[Safecracking]]'''
+* Consider spending Plunder Points on the [[Master thief's lockpick]] for Desert Treasure
+
+
+|- data-rowid="Ports daily"
+| '''You can now start completing the [[Player-Owned Ports]] daily'''
+| '''You should do this activity every day'''
+|- data-rowid = "One Small Favour"
+| {{QuestIcon|One Small Favour}} <sup>([[One Small Favour/Quick guide|Quick Guide]])</sup>
+| 
+* '''2 XP lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = kings ransom 
+| {{QuestIcon|King's Ransom|default=yes}} <sup>([[King's Ransom/Quick guide|Quick Guide]])</sup>
+| 
+* Obtain as many [[hair clip]]s for Desert Treasure as you can at the end of the quest by dropping the ones you have and talking to Merlin for another 
+|- data-rowid = "Desert Treasure"
+| {{QuestIcon|Desert Treasure}} <sup>([[Desert Treasure/Quick guide|Quick Guide]])</sup>
+
+|'''To obtain Magic Logs:'''
+* Kill Croesus
+* Kill King Black Dragon
+* Catch Nature implings in Puro-Puro
+|- data-rowid = "Magic 65"
+| Train your Magic to level 65. (66 for Magic Guild Weekly Rune shop stock.)
+<br>
+|'''Recommended: Do this by killing Ogres located west of the Yanille lodestone'''
+| {{NA}}
+|- data-rowid = "AA"
+| {{QuestIcon|Ancient Awakening}} <sup>([[Ancient Awakening/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+| {{NA}}
+|- data-rowid = "Fort T1 cont"
+| Build the following:
+* [[Botanist's Workbench]] (Tier 1 )
+|
+|{{sc|construction}} 61 <!--311,460 xp in Construction-->
+|- data-rowid = "Lunar Diplomacy"
+| {{QuestIcon|Lunar Diplomacy}} <sup>([[Lunar Diplomacy/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Ports rep 6000"
+| Get 6000 Menaphos reputation in the Port district
+| '''Make sure to right click port faction (overlay in Menaphos) and set active!'''
+The quickest way to gain reputation is to join "Soulobby" friends chat and interact with soul obelisks
+|- data-rowid = "Fishing 68"
+| Train your Fishing to level 68
+| Do this in the Menaphos Port district. Deposit fish in the deposit box.
+
+'''Optional:''' at 63{{sc|Construction}} (61{{sc|Construction}} with a [[Cup of tea (white)]] boost) you can build a [[Prawn broker]] in your house and get Baitless Fishing perk so you do not have to buy bait
+
+'''Optional:''' Set active faction to Imperial district while fishing to unlock deposit box for later use
+|- data-rowid = "Cook many more fish"
+| Cook all the raw food that you obtained whilst getting 68 Fishing
+| '''Remember to use [[Cooking gauntlets]] + [[Dwarven Army Axe]]''' 
+Note: Menaphos fish do not benefit from the 10% xp boost from cooking on a player-made bonfire.
+|- data-rowid="Housing of Parliament"
+| {{QuestIcon|Housing of Parliament}} <sup>([[Housing of Parliament/Quick guide| Quick Guide]])</sup>
+|
+|- data-rowid = "Some like it Cold"
+| {{QuestIcon|Some Like It Cold}} <sup>([[Some Like It Cold/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Back to the Freezer"
+| {{QuestIcon|Back to the Freezer}} <sup>([[Back to the Freezer/Quick guide|Quick Guide]])</sup>
+| '''Come back for the Invention lamp after completing the Invention Tutorial'''
+|- data-rowid = "Rune Mysteries"
+| {{QuestIcon|Rune Mysteries}} <sup>([[Rune Mysteries/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid="Rune Memories"
+| {{QuestIcon|Rune Memories}} <sup>([[Rune Memories/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Enter the Abyss mini"
+| {{QuestIcon|Enter the Abyss (miniquest)}} <sup>([[Enter the Abyss (miniquest)/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Agility 56"
+| Train your Agility to level 56
+<br>
+|'''Recommended:''' Train at the [[Wilderness Agility Course]]. Remember to bring a [[Demonic Skull]]
+* If are not 52 Agility, train on the Northern Anachronia Course [[Agility training#Levels 30-50: Northern Anachronia Agility Course]]
+* Hardcore Ironmen: train on the Northern Anachronia Course [[Agility training#Levels 30-50: Northern Anachronia Agility Course]]
+|- data-rowid = "Regicide"
+| {{QuestIcon|Regicide}} <sup>([[Regicide/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Hunter 50"
+| Train your Hunter to level 50
+| '''Method To train Hunter:'''
+<!-- Croseus trash runs were nerfed to 15k xp/hr back in Dec 2022 has the end of part 1 hunter training been reevaluated since then?-->
+* Complete solo Croesus Hunter trash runs (recommended):
+** Fill your inventory with 25 of any type of log
+** Farm the glowing Hunter node whilst in a solo Croesus encounter
+** Rot fungal spores as you receive them by binding them to a hotkey
+** Relog when the Hunter node is fully depleted
+** This method provides 30-50k XP per hour.
+* Catch [[Tropical wagtail]]
+* Catch [[Gliding whirligig]]s (see next step, using [[Roses (Het's Oasis)|roses]] instead of irises)
+|- data-rowid = "Hunter 62"
+|Train your Hunter to level 62
+|'''Method To train Hunter:'''
+* Catch [[Swift whirligig]]s at [[Het's Oasis]].
+** Collect 50 [[Irises]].
+** At one of the Hunter training locations in Het's Oasis, fill one [[Flower basket]] with 32 Irises, fill the second with 15 Irises.
+** Handle the crocodile. Catch one of the two [[Plain whirligig]]s in the pool.
+** While the crocodile is moving towards the Plain whirligig, chain three Swift whirligigs (may need to spam click).
+** After the crocodile deposits the [[Plain whirligig shell]] on the shore, repeat this process with the second Plain whirligig. Do not bother looting the shells.
+** The first Plain whirligig will have respawned by the time the crocodile fetches the second one.
+** Chaining swift whirligigs doesn't consume any flowers in the flower baskets, but if you accidentally catch one of the swift whirligigs directly (instead of chaining), it will use one of the flowers, and you may eventually need to fetch more.
+* This method provides 120-160k XP per hour, without upgrades from [[Dundee's Crocodile Upgrades]], or time to grow irises taken into account.
+|- data-rowid = "Hunter 63"
+|
+Train your Hunter to level 63
+* Train Hunter by catching [[Chinchompa|Grey chinchompas]] north of [[Eagles' Peak (location)|Eagles' Peak]]
+* Bank the Grey chinchompas (they will be used for Ranged training later).
+* Activate the Eagles Peak Lodestone whilst you're here
+| {{NA}}
+|- data-rowid = "Hunter 67"
+|
+Train your Hunter to level 70
+* Train Hunter by catching [[Red chinchompa]]s north of [[Oo'glog]]
+* Bank the Red chinchompas (they will be used for Ranged training later).
+* Alternatively, train at [[whirligig]]s.
+| {{NA}}
+|- data-rowid = "Hunter 90"
+| '''Recommended Optional:''' Train your Hunter to level 99
+| '''Method to train Hunter:'''
+* Catch the best [[whirligig]]s you can, using the guide found earlier in the training steps.
+* Big Game Hunter
+|- data-rowid = "Many sussy kills"
+| '''Optional: Get T70 Necromancy armour and weapons'''
+|  '''Full Set:''' 
+* [[Ensouled cloth]]:  12
+* [[Ensouled thread]] : 10
+* [[Flesh rune]]: 100
+|}
+
+==Part 2: Mid-game combat training==
+In this section you will be training your combat stats so that you meet all of the requirements for the quests in the Part 3: Mid Game Questing section.
+'''You can train however you want, however it is recommended that you train using one of the following methods:'''
+# [[Abyss/Combat training|Abyss combat training]] (Bring [[Underworld Grimoire]] to bank ashes)
+# [[Shattered Worlds]] (for [[Bladed Dive]]) — note that as of March 2026, [[Surge]] and [[Escape]] no longer share cooldowns outside of PvP, making movement between pulls faster
+# [[Contract|Arc contracts]]
+{|class="wikitable lighttable static-row-numbers static-row-numbers-center static-row-header-step" data-tableid="EIP2"
+! style="width:40%;" | Activity !! style="width:60%;" | Notes
+|- data-rowid = "Go Shopping Keldagrim"
+| Purchase the following items from the [[Crossbow Shop (Keldagrim)|Crossbow shop]] in [[Keldagrim]]
+* 1 Off-hand adamant crossbow
+* 1 Off-hand rune crossbow
+| {{NA}}
+|- data-rowid = "Go Shopping Quartermaster"
+| Purchase the following items from the [[Quartermaster's Stores]]
+* 1 Rune halberd
+* 1 Dragon halberd
+| {{NA}}
+|- data-rowid = "Get Vanquished"
+| Obtain [[Vanquish]] from [[May]].
+| {{NA}}
+|- data-rowid = "Magic 80"
+| Train your Magic to level 80
+| '''Method to train Magic:'''
+* Level 65-75: Guthix Staff
+* Level 75-80: Vanquish (Magic)
+<br>
+'''Recommended:''' Once {{Skillreq|Magic|75}} return to [[Terry Balando]], in The Dig Site Exam Center, to unlock the [[Codex Ultimatus|Tendril]] abilities
+|- data-rowid = "Defence 80"
+| Train your Defence to level 80
+| '''Method to train Defence:'''
+* Level 50-75: Guthix Staff
+* Level 75-80: Vanquish (Magic)
+|- data-rowid = "Ranged 80"
+| Train your Range to level 80
+| '''Method to train Range:'''
+* Level 45-55: Grey Chinchompa + Off-hand adamant crossbow
+* Level 55-80: Red Chinchompa + Off-hand rune crossbow
+|- data-rowid = "Attack 80"
+| Train your Attack to level 80
+| '''Method to train Attack:'''
+* Level 50-60: Rune Halberd
+* Level 60-75: Dragon Halberd
+* Level 75-80: Vanquish (Melee)
+|- data-rowid = "Stronk 80"
+| Train your Strength to level 80
+| '''Method to train Strength:'''
+* Level 50-75: Vanquish (Melee)
+* Level 75-80: Vanquish (Melee)
+|- data-rowid = "Summoning 37"
+| Train your Summoning to level 37
+* Use the [[Calculator:Summoning|Summoning calculator]] to find out how many charms you require
+| '''Method to obtain [[charms]]:'''
+* Killing [[Dagannoth (Waterbirth Island)|Dagannoths on Waterbirth Island]]
+* Slayer
+|- data-rowid = "Buy BD"
+| Obtain 63,000,000 Shattered anima and purchase the [[Bladed Dive]] ability from [[Shattered Worlds]]
+| {{NA}}
+|}
+
+==Part 3: Mid-game questing==
+In this section you will work through a number of subquests in preparation for a number of end game quests.
+
+You should complete the following repeatable activities whenever they are available.
+
+{| class="wikitable lighttable align-center-1"
+! Order
+! Type
+! Activity
+|-
+| 1
+| Daily
+| Daily Challenges
+|-
+| 2
+| Daily
+| [[Guthixian Cache]] (opens after depositing 800 memories at a rift — no longer hourly)
+|-
+| 3
+| Daily
+| Nemi forest
+|-
+| 4
+| Weekly
+| Reaper Task (no daily cap; up to 300 [[Reaper points]] per week; also earns [[Slayer reward points]])
+|-
+| 5
+| Daily
+| Player-Owned Farm (Beehives and Animals)
+|-
+| 6
+| Weekly
+| Shop Run (broad arrowheads and runes)
+|-
+| 7
+| Daily
+| Player-Owned Ports
+|-
+| 8
+| Weekly
+| Water Filtration System
+|-
+| 9
+| Weekly
+| Herby Werby
+|-
+| 10
+| Weekly
+| Penguin Hide and Seek
+|-
+| 11
+| Weekly
+| Tears of Guthix
+|-
+| 12
+| Weekly
+| Circus
+|-
+| 13
+| Weekly
+| Managing Miscellania
+|-
+| 14
+| Weekly
+| Agoroth
+|-
+| 15
+| Monthly
+| Troll Invasion
+|-
+| 16
+| Monthly
+| Giant Oyster
+|-
+| 17
+| Monthly
+| God Statues
+|-
+|}
+''Recommended: Add notes in game for all of your repeatable tasks.''
+
+This section should be completed before starting Section 4 of the guide.
+	
+{|class="wikitable lighttable static-row-numbers static-row-numbers-center static-row-header-step " data-tableid="EIP3"
+! style="width:40%;" | Activity !! style="width:60%;" | Notes
+|- data-rowid = "Visions of Havenhythe"
+| {{QuestIcon|Visions of Havenhythe}} <sup>([[Visions of Havenhythe/Quick guide|Quick Guide]])</sup>
+|
+* Start at the [[The Rusty Anchor|Rusty Anchor Tavern]] in [[Port Sarim]].
+* Available to all players (free-to-play accessible).
+* Unlocks the [[Havenhythe]] region and access to [[Ivar, King of Bones]].
+* Ivar always drops a [[Colossal bone]] on death — bury it immediately for significantly more Prayer XP than big bones. Farm him for Prayer training whenever passing through.
+|- data-rowid = "Hearts of Sanguine"
+| {{QuestIcon|Hearts of Sanguine}} <sup>([[Hearts of Sanguine/Quick guide|Quick Guide]])</sup>
+|
+* Sequel to Visions of Havenhythe. Available to all players (free-to-play accessible).
+* Unlocks [[Silverquill, the Dreadhog]] (members-only boss).
+* Silverquill drops [[silver spines]] and [[sanguine spines]] used to craft [[havensilver bolts]] — priority for Ranged-focused Ironmen.
+|- data-rowid = "Roving Elves"
+|{{QuestIcon|Roving Elves}} <sup>([[Roving Elves/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "MEP1"
+|{{QuestIcon|Mourning's End Part I}} <sup>([[Mourning's End Part I/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "MEP2"
+|{{QuestIcon|Mourning's End Part II}} <sup>([[Mourning's End Part II/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Impressing the Locals"
+| {{QuestIcon|Impressing the Locals}} <sup>([[Impressing the Locals/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Bringing Home the Bacon"
+|{{QuestIcon|Bringing Home the Bacon}} <sup>([[Bringing Home the Bacon/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+
+|- data-rowid = "Legends Quest"
+| {{QuestIcon|Legends' Quest}} <sup>([[Legends' Quest/Quick guide|Quick Guide]])</sup>
+| 
+* '''4 XP lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "RFD Goblins"
+| {{QuestIcon|Recipe for Disaster: Freeing the Goblin Generals|default=yes}} <sup>([[Recipe for Disaster: Freeing the Goblin Generals/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD Lumbridge"
+| {{QuestIcon|Recipe for Disaster: Freeing the Lumbridge Sage|default=yes}} <sup>([[Recipe for Disaster: Freeing the Lumbridge Sage/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD Dwarf"
+| {{QuestIcon|Recipe for Disaster: Freeing the Mountain Dwarf|default=yes}} <sup>([[Recipe for Disaster: Freeing the Mountain Dwarf/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD Pete"
+| {{QuestIcon|Recipe for Disaster: Freeing Pirate Pete|default=yes}} <sup>([[Recipe for Disaster: Freeing Pirate Pete/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD Skrach"
+| {{QuestIcon|Recipe for Disaster: Freeing Skrach Uglogwee|default=yes}} <sup>([[Recipe for Disaster: Freeing Skrach Uglogwee/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD Monkey"
+| {{QuestIcon|Recipe for Disaster: Freeing King Awowogei|default=yes}} <sup>([[Recipe for Disaster: Freeing King Awowogei/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD Amik Varze"
+| {{QuestIcon|Recipe for Disaster: Freeing Sir Amik Varze|default=yes}} <sup>([[Recipe for Disaster: Freeing Sir Amik Varze/Quick guide|Quick Guide]])</sup>
+| '''Note:''' You will have to farm a [[sweetcorn]]
+|- data-rowid = "Bar Crawl mini"
+| {{QuestIcon|Bar Crawl (miniquest)|default=yes}} <sup>([[Bar Crawl (miniquest)/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Horror from the Deep"
+| {{QuestIcon|Horror from the Deep}} <sup>([[Horror from the Deep/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "RFD End"
+| {{QuestIcon|Recipe for Disaster: Defeating the Culinaromancer|default=yes}} <sup>([[Recipe for Disaster: Defeating the Culinaromancer/Quick guide|Quick Guide]])</sup>
+| 
+* '''1 XP lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Eadgars Ruse"
+| {{QuestIcon|Eadgar's Ruse}} <sup>([[Eadgar's Ruse/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Dream Mentor"
+|{{QuestIcon|Dream Mentor}} <sup>([[Dream Mentor/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "My Arms Big Adventure"
+| {{QuestIcon|My Arm's Big Adventure}} <sup>([[My Arm's Big Adventure/Quick guide|Quick Guide]])</sup>
+| '''Note:''' You can make super compost from pineapples found just north of the Karamja lodestone
+|- data-rowid = "Smoking Kills"
+| If you didn't do it earlier
+{{QuestIcon|Smoking Kills}} <sup>([[Smoking Kills/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Eyes of Glouphrie"
+| {{QuestIcon|The Eyes of Glouphrie}} <sup>([[The Eyes of Glouphrie/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Path of Glouphrie"
+| {{QuestIcon|The Path of Glouphrie}} <sup>([[The Path of Glouphrie/Quick guide|Quick Guide]])</sup>
+|
+'''Note:''' You can farm a mith grapple from [[Dried zombie]]
+|- data-rowid = "Knight Waves"
+| {{QuestIcon|Knight Waves training ground|default=yes}}
+| {{NA}}
+|- data-rowid = "What Lies Below"
+|{{QuestIcon|What Lies Below}} <sup>([[What Lies Below/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Hunt for Surok mini"
+| {{QuestIcon|The Hunt for Surok (miniquest)}} <sup>([[The Hunt for Surok (miniquest)/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Hand in the Sand"
+|{{QuestIcon|The Hand in the Sand}} <sup>([[The Hand in the Sand/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Garden of Tranquillity"
+|{{QuestIcon|Garden of Tranquillity}} <sup>([[Garden of Tranquillity/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Tale of the Muspah"
+|{{QuestIcon|The Tale of the Muspah}} <sup>([[The Tale of the Muspah/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Missing My Mummy"
+|{{QuestIcon|Missing My Mummy}} <sup>([[Missing My Mummy/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Tail of Two Cats"
+|{{QuestIcon|A Tail of Two Cats}} <sup>([[A Tail of Two Cats/Quick guide|Quick Guide]])</sup>
+|
+* '''2 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Great Brain Robbery"
+|{{QuestIcon|The Great Brain Robbery}} <sup>([[The Great Brain Robbery/Quick guide|Quick Guide]])</sup>
+|
+* '''1 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Fairy Tale 1"
+|{{QuestIcon|A Fairy Tale I - Growing Pains}} <sup>([[A Fairy Tale I - Growing Pains/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Fairy Tale 2"
+|{{QuestIcon|A Fairy Tale II - Cure a Queen}} <sup>([[A Fairy Tale II - Cure a Queen/Quick guide|Quick Guide]])</sup>
+|
+* '''1 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Fairy Tale 3"
+|{{QuestIcon|A Fairy Tale III - Battle at Ork's Rift}} <sup>([[A Fairy Tale III - Battle at Ork's Rift/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Enakhras Lament"
+|{{QuestIcon|Enakhra's Lament}} <sup>([[Enakhra's Lament/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "All Fired Up"
+|{{QuestIcon|All Fired Up}} <sup>([[All Fired Up/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "World Wakes"
+|{{QuestIcon|The World Wakes}} <sup>([[The World Wakes/Quick guide|Quick Guide]])</sup>
+| Destroy all of the reward lamps (they can be reclaimed later)
+|- data-rowid = "Making History"
+|{{QuestIcon|Making History}} <sup>([[Making History/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Meeting History"
+|{{QuestIcon|Meeting History}} <sup>([[Meeting History/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Dishonour among Thieves"
+|{{QuestIcon|Dishonour among Thieves}} <sup>([[Dishonour among Thieves/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "You Are it"
+|{{QuestIcon|You Are It}} <sup>([[You Are It/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Needle Skips"
+|{{QuestIcon|The Needle Skips}} <sup>([[The Needle Skips/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Desperate Times"
+|{{QuestIcon|Desperate Times}} <sup>([[Desperate Times/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Imp Catcher"
+|{{QuestIcon|Imp Catcher}} <sup>([[Imp Catcher/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Wanted"
+|{{QuestIcon|Wanted!}} <sup>([[Wanted!/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Quiet Before the Swarm"
+|{{QuestIcon|Quiet Before the Swarm}} <sup>([[Quiet Before the Swarm/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Heart of Stone"
+|{{QuestIcon|Heart of Stone}} <sup>([[Heart of Stone/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Tai Bwo Wannai Trio"
+|{{QuestIcon|Tai Bwo Wannai Trio}} <sup>([[Tai Bwo Wannai Trio/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Dwarf Cannon"
+|{{QuestIcon|Dwarf Cannon}} <sup>([[Dwarf Cannon/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Death of Chivalry"
+|{{QuestIcon|The Death of Chivalry}} <sup>([[The Death of Chivalry/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|}
+
+==Part 4: Endgame combat training==
+This section will conclude your combat training. This section is not a requirement, however is recommended before starting [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Part 5: End Game Skilling & Quests|Part 5: End Game Skilling & Quests]] section.
+It is recommended that you train using one of the following methods:
+* [[Slayer training|Slayer]]
+* [[Abyss/Combat training|Abyss combat training]] (Bring [[Underworld Grimoire]] to bank ashes)
+* [[Shattered Worlds]]
+* [[Contract|Arc contracts]]
+
+'''Note:''' As of April 2026, all [[Aura|auras]] have been removed from the game. For combat sustain during this section, use [[Vampyrism]] from the [[Ancient Magicks]] spellbook (requires 69 {{sc|Magic}}) or [[Penance]] in place of the former Vampyrism and Penance auras.
+
+{|class="wikitable lighttable static-row-numbers static-row-numbers-center static-row-header-step" data-tableid="EIP4"
+! style="width:40%;" | Activity !! style="width:60%;" | Notes
+|- data-rowid = "Dung token 143k"
+| Obtain 128,500 [[Dungeoneering token]] by training Dungeoneering
+'''Alternative method:''' Obtain the Dungeoneering tokens by [[Dungeoneering token/Strategies|ED1 token farming]]
+| {{NA}}
+|- data-rowid = "Go Shopping Dung"
+| Purchase the following from the [[Dungeoneering/Rewards|Dungeoneering rewards shop]]:
+* 1 [[Charming imp]]
+* 1 [[Bonecrusher]]
+* 1 [[Twisted bird skull necklace]]
+* 1 [[Gem bag (upgraded)]]
+| {{NA}}
+|- data-rowid = "Magic 90"
+| Train your Magic to level 90
+| {{NA}}
+|- data-rowid = "Defence 90"
+| Train your Defence to level 90
+| {{NA}}
+|- data-rowid = "Necromancy 90"
+| Train your Necromancy to level 90
+| '''Optional:''' Can level your Smithing and Crafting along the way to upgrade your Necromancy gear as you go
+|- data-rowid = "Range 90"
+| Train your Range to level 90
+| {{NA}}
+|- data-rowid = "Attack 90"
+| Train your Attack to level 90
+| {{NA}}
+|- data-rowid = "Stronk 90"
+| Train your Strength to level 90
+| {{NA}}
+|- data-rowid = "Summoning 75"
+| Train your Summoning to level 75
+* Use the [[Calculator:Summoning|Summoning calculator]] to find out how many charms you require
+| Method to obtain [[charms]]:
+* Killing [[Dagannoth (Waterbirth Island)|Dagannoths on Waterbirth Island]]
+* Slayer
+|- data-rowid = "Prayer 75"
+| Train your Prayer to level 75
+* Use the [[Calculator:Prayer|Prayer calculator]] to find out how many dragon bones you require
+| Obtain noted [[dragon bones]] by killing [[Vindicta & Gorvek]]
+* Regular Ironmen: Offer bones at the Chaos Temple Altar in the Wilderness
+* Hardcore Ironmen: Offer bones at the [[Ectofuntus]]
+|}
+
+==Part 5: End-game skilling & quests==
+In this section you will finish the remaining quests. Continue completing repeatable activities.
+
+{|class="wikitable lighttable static-row-numbers static-row-numbers-center static-row-header-step " data-tableid="EIP5"
+! style="width:40%;" | Activity !! style="width:60%;" | Notes
+|- data-rowid = "Woodcutting 61"
+| Train your Woodcutting to level 61
+| '''Method to train Woodcutting:'''
+* Chop Acadia trees in Menaphos
+* Bank using the Imperial district deposit box
+|- data-rowid = "As a First Resort"
+| {{QuestIcon|As a First Resort}} <sup>([[As a First Resort/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Fletching 52"
+| Train your Fletching to level 52
+| '''Method to train Fletching'''
+* Fletch 14250 [[arrow shaft]] using the Acadia logs in your bank
+* Fletch 14250 [[headless arrow]]
+* Smelt 190 [[steel bar]]
+* Smith 14250 [[steel arrowheads]]
+* Fletch 14250 steel arrows
+|- data-rowid = "Catapult Construction"
+|{{QuestIcon|Catapult Construction}} <sup>([[Catapult Construction/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "A Void Dance"
+|{{QuestIcon|A Void Dance}} <sup>([[A Void Dance/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Rexy time"
+| Obtain a [[Dragon hatchet]] by killing [[Dagannoth Rex]]
+| {{NA}}
+|- data-rowid = "Woodcutting 79"
+| Train your Woodcutting to level 79
+| '''Method to train Woodcutting:'''
+* Chop [[Acadia trees]] in Menaphos
+* Bank using the Imperial district deposit box
+'''Alternative:''' Gather logs to upgrade [[Fort Forinthry]] and [[Campfire|War's Retreat campfire]]
+|- data-rowid = "Firemaking 75"
+| Train your Firemaking to level 75
+| Do this by burning the Maple logs and Acadia logs from your bank
+|- data-rowid = "Smithing 80"
+| If you did not get it earlier,
+Train your Smithing to level 80
+|'''Recommended:''' Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Mining and Smithing training|Efficient Mining and Smithing training]] section for guidance
+|- data-rowid = "Defender of Varrock"
+|{{QuestIcon|Defender of Varrock}} <sup>([[Defender of Varrock/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Devious Minds"
+|{{QuestIcon|Devious Minds}} <sup>([[Devious Minds/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Crafting 76"
+| Train your Crafting to level 76
+| '''Method to train Crafting:'''
+# Mine Uncommon gem rock in the [[Al Kharid mine]]
+# Store all of the uncut gems inside your [[Gem bag (upgraded)]]
+# Bank using the [[War's Retreat Teleport]]
+# Repeat until you have 17,000 uncut gems in total
+# Cut the gems
+|- data-rowid = "Agility 77"
+| Train your Agility to level 77
+| '''Method to train Agility:'''
+* Regular Ironmen:
+** 56-77: Train on the [[Wilderness Agility Course]]. Remember to bring a [[Demonic Skull]]
+* Hardcore Ironmen:
+** 56-65: Train on the [[Agility training#Levels 30-50: Northern Anachronia Agility Course|Northern Anachronia course]]
+** 65-77: Train on the [[Het's Oasis Agility Course]]
+|- data-rowid = "Slayer 67"
+| Train your Slayer to level 67
+| '''Optional:''' Unlock [[Tuska's Wrath]] at [[Anima Islands]] minigame
+|- data-rowid = "Slayer points 300"
+| Obtain 300 [[Slayer points]]
+'''Recommended:''' Boost the slayer points by completing every 10th task in a row at your highest Slayer master, and every other task at [[Jacquelyn]]
+| {{NA}}
+|- data-rowid = "Broad arrow making"
+| Purchase the ability to craft [[broad arrows]] from a slayer master
+| {{NA}}
+|- data-rowid = "Fletching 75"
+| Train your Fletching to level 75
+| '''Method to train Fletching:'''
+* Fletch 68000 [[broad arrows]]
+|- data-rowid = "Easy Wildy cheevos"
+| Complete the Easy [[Wilderness achievements]]
+<br>
+''Hardcore Ironmen can skip this step''
+|
+* '''2 XP lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Medium Wildy cheevos"
+| Complete the Medium [[Wilderness achievements]]
+<br>
+''Hardcore Ironmen can skip this step''
+|
+* '''2 XP lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Branches of Darkmeyer"
+| {{QuestIcon|The Branches of Darkmeyer}} <sup>([[The Branches of Darkmeyer/Quick guide|Quick Guide]])</sup>
+| 
+* '''3 XP Tome on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Kindred Spirits"
+| {{QuestIcon|Kindred Spirits}} <sup>([[Kindred Spirits/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "While Guthix Sleeps"
+|{{QuestIcon|While Guthix Sleeps}} <sup>([[While Guthix Sleeps/Quick guide|Quick Guide]])</sup>
+|
+* '''4 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Spirit of Summer"
+|{{QuestIcon|Spirit of Summer}} <sup>([[Spirit of Summer/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Summers End"
+|{{QuestIcon|Summer's End}} <sup>([[Summer's End/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Hard Wildy Cheevos"
+| Complete the Hard [[Wilderness achievements]]
+<br>
+''Hardcore Ironmen can skip this step''
+| {{NA}}
+|- data-rowid = "Curse of Arrav"
+|{{QuestIcon|The Curse of Arrav}} <sup>([[The Curse of Arrav/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Temple at Senntisten"
+|{{QuestIcon|The Temple at Senntisten}} <sup>([[The Temple at Senntisten/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Rocking Out"
+|{{QuestIcon|Rocking Out}} <sup>([[Rocking Out/Quick guide|Quick Guide]])</sup>
+|'''Optional:''' Keepsake the Prisoner outfit while on the island if you wish to keep it
+|- data-rowid = "The Slug Menace"
+|{{QuestIcon|The Slug Menace}} <sup>([[The Slug Menace/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Ritual of the Mahjarrat"
+|{{QuestIcon|Ritual of the Mahjarrat}} <sup>([[Ritual of the Mahjarrat/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Guthix Lampage"
+| Reclaim the 3 [[Ancient lamp]] from [[Guthix's Cave]]
+|
+* '''1 XP Lamp on {{sc|Herblore}} Herblore'''
+* '''1 XP Lamp on {{sc|Summoning}} Summoning'''
+* '''1 XP Lamp on {{sc|Agility}} Agility'''
+|- data-rowid = "Construction 70"
+| Train your Construction to level 70
+| '''Method to train Construction:'''
+* Smelt 300 Steel bars
+* Smelt 60 Rune bars
+* Smith 4500 Rune nails
+* Purchase 200 white candles from the [[Candle Shop]]
+* Complete [[Construction Contracts]]
+'''Alternative:''' Upgrade [[Fort Forinthry]]
+|- data-rowid = "Construction 79"
+| Train your Construction to level 79
+| '''Method to train Construction:'''
+* Smelt 300 Adamant bars
+* Make 1900 Mahogany planks (you should have Mahogany logs from Kingdom)
+* Complete [[Construction Contracts]]
+'''Alternative:''' Upgrade [[Fort Forinthry]]
+|- data-rowid = "Within the Light"
+|{{QuestIcon|Within the Light}} <sup>([[Within the Light/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Dung 75"
+| Train your Dungeoneering to level 75
+'''Alternative method:''' Obtain Dungeoneering tokens by [[Dungeoneering token/Strategies|ED1 token farming]] and trade them in for XP at the [[Dungeoneering/Rewards|Dungeoneering rewards shop]]
+| {{NA}} 
+|- data-rowid = "Plagues End"
+|{{QuestIcon|Plague's End}} <sup>([[Plague's End/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Hunter 76"
+|Train your Hunter to level 76
+| '''Method to train Hunter:'''
+* Complete solo Croesus Hunter trash runs (recommended):
+** Fill your inventory with 25 of any type of log
+** Farm the glowing Hunter node whilst in a solo Croesus encounter
+** Rot fungal spores as you receive them by binding them to a hotkey
+** Relog when the Hunter node is fully depleted
+* Catch [[Black salamander (Hunter)|Black salamanders]]
+|- data-rowid = "One of a Kind"
+|{{QuestIcon|One of a Kind}} <sup>([[One of a Kind/Quick guide|Quick Guide]])</sup>
+|'''Post-Quest:''' Speak to the [[Submerged Statue]] on Entrana for 25,000 bonus XP.
+* '''1 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Slayer 78"
+|Train your Slayer to level 78
+'''Recommended:''' At 70 Slayer you can reclaim the [[Glossy lamp]] from [[Guthix's Cave]] for 111,000 Slayer XP
+| {{NA}}
+|- data-rowid = "Lord of Vampyrium"
+|{{QuestIcon|The Lord of Vampyrium}} <sup>([[The Lord of Vampyrium/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Sliske Lamping"
+| Reclaim the 30,000 experience lamp from Sliske inside of the [[Empyrean Citadel]].
+|
+* '''1 XP Lamp on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Herblore 80"
+| Train your Herblore to level 80
+| '''Method to train Herblore:'''
+* Penguin Points (recommended)
+* Kill [[Helwyr]] for [[Grimy lantadyme]] and make [[Antifire]] or [[Super magic potion]]
+|- data-rowid = "River of Blood"
+|{{QuestIcon|River of Blood}} <sup>([[River of Blood/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP Tomes on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Archaeology 74"
+| Train your Archaeology to level 74
+|Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Archaeology training|Efficient Archaeology training]] section for guidance
+|- data-rowid = "Vault of Shadows"
+|{{QuestIcon|The Vault of Shadows}} <sup>([[The Vault of Shadows/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Desperate Measures"
+|{{QuestIcon|Desperate Measures}} <sup>([[Desperate Measures/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Desperate Creatures"
+|{{QuestIcon|Desperate Creatures}} <sup>([[Desperate Creatures/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Raksha, the Shadow Colossus (quest)"
+|{{QuestIcon|Raksha, the Shadow Colossus (quest)}} <sup>([[Raksha, the Shadow Colossus (quest)|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Azzanadras Quest"
+|{{QuestIcon|Azzanadra's Quest}} <sup>([[Azzanadra's Quest/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Battle of the Monolith"
+|{{QuestIcon|Battle of the Monolith}} <sup>([[Battle of the Monolith/Quick guide|Quick Guide]])</sup>
+|You can skill during this miniquest using the bank inside of the Digsite Exam Centre
+|- data-rowid = "City of Senntisten"
+|{{QuestIcon|City of Senntisten}} <sup>([[City of Senntisten/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Eye of Het 1"
+|{{QuestIcon|Eye of Het I}} <sup>([[Eye of Het I/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Eye of Het 2"
+|{{QuestIcon|Eye of Het II}} <sup>([[Eye of Het II/Quick guide|Quick Guide]])</sup>
+|{{NA}}
+|- data-rowid = "Sins of the Father"
+|{{QuestIcon|Sins of the Father}} <sup>([[Sins of the Father/Quick guide|Quick Guide]])</sup>
+|This quest requires either 85 Smithing/Runecrafting/Invention or Crafting 
+Smithing will take the least amount of time but most likely is inefficient after Necromancy release
+|- data-rowid = "Extinction"
+|{{QuestIcon|Extinction}} <sup>([[Extinction/Quick guide|Quick Guide]])</sup>
+|
+* '''4 XP Lamps on {{sc|Herblore}} Herblore'''
+Acquire [[Ring of vigour]] (50,000 [[Dungeoneering token]]) and combine it with the [[warped gem]] reward to make its effect passive
+|- data-rowid = "Void Stares Back"
+|{{QuestIcon|The Void Stares Back}} <sup>([[The Void Stares Back/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Mighty Fall"
+|{{QuestIcon|The Mighty Fall}} <sup>([[The Mighty Fall/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Nomads Requiem"
+|{{QuestIcon|Nomad's Requiem}} <sup>([[Nomad's Requiem/Quick guide|Quick Guide]])</sup>
+|
+* '''70 Zeal on {{sc|Prayer}} Prayer'''
+|- data-rowid = "Nomads Elegy"
+|{{QuestIcon|Nomad's Elegy}} <sup>([[Nomad's Elegy/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Barbarian Training"
+| Complete [[Barbarian Training]]
+| {{NA}}
+|- data-rowid = "Heros Welcome"
+|{{QuestIcon|Hero's Welcome}} <sup>([[Hero's Welcome/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Fate of the Gods"
+|{{QuestIcon|Fate of the Gods}} <sup>([[Fate of the Gods/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Crafting 83"
+| Train your Crafting to level 83
+| Train by playing [[Harp]]s in [[Prifddinas]]
+|- data-rowid = "ToG Bowl upgrade"
+| Upgrade your [[Ornate bowl|Tears of Guthix bowl]]
+| {{NA}}
+|- data-rowid = "Agility 80"
+| Train your Agility to level 80
+| '''Method to train Agility:'''
+* Regular Ironmen: Train on the [[Wilderness Agility Course]]. Remember to bring a [[Demonic Skull]]
+* Hardcore Ironmen: Train on the [[Het's Oasis Agility Course]]
+|- data-rowid = "Prayer 80"
+|Train your Prayer to level 80
+| '''Methods to train Prayer:'''
+* Obtain noted [[dragon bones]] by killing [[Vindicta & Gorvek]]
+* Killing Vyres with a Sunspear
+* Offering [[cleansing crystal]]s in [[Prifddinas]]
+|- data-rowid = "Prayer Lamp Guthix"
+|Reclaim the 250,000 Prayer XP lamp from [[Guthixian High Druid]]
+|Requires level 80 Prayer to use
+|- data-rowid = "Slayer 80"
+| Train your Slayer to level 80
+| {{NA}}
+|- data-rowid = "The Light Within"
+|{{QuestIcon|The Light Within}} <sup>([[The Light Within/Quick guide|Quick Guide]])</sup>
+| {{NA}}
+|- data-rowid = "Children of Mah"
+|{{QuestIcon|Children of Mah}} <sup>([[Children of Mah/Quick guide|Quick Guide]])</sup>
+|
+* '''3 XP Tomes on {{sc|Herblore}} Herblore'''
+|- data-rowid = "Sliskes Endgame"
+|{{QuestIcon|Sliske's Endgame}} <sup>([[Sliske's Endgame/Quick guide|Quick Guide]])</sup>
+|
+* '''5 XP Lamps on {{sc|Herblore}} Herblore'''
+<br>
+If you do not have 85 Herblore to use the lamps, you can destroy them and reclaim them later from [[Relomia, Emissary of Sliske]]
+|}
+
+==Part 6: Final bossing preparation==
+This section of the guide is short and covers the last few unlocks for your account.
+{| class="wikitable lighttable align-center-1"
+! Order
+! width="50%" | Activity
+! width="50%" | Notes
+|-
+| 1
+|Complete the [[Invention Tutorial]]
+|Claim the 10,000 free [[Invention]] XP for having completed the [[Back to the Freezer]] quest by talking to [[Chuck]] at the [[Ardougne Zoo]].
+|-
+| 2
+| <div class="lighttable checklist">
+* Augment 2 Black salamanders
+* Level them to item level 5
+* Disassemble them
+</div>
+| {{NA}}
+|-
+| 3
+|Train your Prayer to level 95
+| '''Methods to train Prayer:'''
+* Obtain noted [[dragon bones]] by killing [[Vindicta & Gorvek]]
+* Killing Vyres with a Sunspear
+* Offering [[Cleansing crystal]]s in [[Prifddinas]]
+* Kill [[Ivar, King of Bones]] on [[Havenhythe]] (requires completing [[Visions of Havenhythe]]) — always drops a [[Colossal bone]], which grants significantly more Prayer XP on burial than dragon bones and can be combined with the above methods
+|-
+| 4
+| Train your Summoning to level 99
+* Use the [[Calculator:Summoning|Summoning calculator]] to find out how many charms you require
+| '''Method to obtain [[charms]]:'''
+* Killing 1-mechanic Arch-Glacor (Flurry only) (recommended)
+* Killing [[Dagannoth (Waterbirth Island)|Dagannoths on Waterbirth Island]]
+* Slayer
+* Croesus
+|-
+| 5
+| Obtain 2 [[dragon mattock]]s in [[Big Game Hunter]]
+<br>
+Recommended: Prioritise hunting [[Bagrada rex]] as you will need them later for your Player-Owned Farm (vuln bombs)
+| {{NA}}
+|-
+| 6
+|Create 3000 Sign of the porter IV
+| 
+|-
+| 7
+|Train your Archaeology to level 95
+|Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Efficient Archaeology training|Efficient Archaeology training]] section for guidance
+|-
+| Extra
+| Check out [[PvM unlock guide]]
+|-
+|}
+
+=Miniguides=
+This section contains a variety of miniguides.
+
+==Dailies, weeklies and monthlies==
+The following is a list of important repeatable activities that you should do on your Ironman account.
+===Dailies===
+{| class="wikitable lighttable"
+! Task
+! Notes
+|-
+|[[Player-owned ports]]
+|
+|-
+|[[Player-owned Farm]]
+|
+* [[Beehive (player-owned farm)|Beehives]]
+* Check POF animals (refer to the POF guide)
+|-
+| [[Nemi Forest]]
+|
+|-
+| [[Daily Challenges]]
+| All XP from combat challenges should be put into Ranged
+|-
+|[[Soul obelisk (Menaphos)|Soul Obelisk]]
+|
+|-
+|[[Guthixian Cache]]
+| No longer opens on the hour. A cache opens at a rift after depositing 800 memories. No daily cap — do these as part of normal Divination training. Requires 35 Divination to enter.
+|-
+|[[Rapid Growth|Rapid growth]]
+|[[Het's Oasis#Bushes|Het's Oasis bushes]] (4 bushes, 2x per bush) 88 Magic
+|}
+===Weeklies===
+{| class="wikitable lighttable"
+! Task
+!Notes
+|-
+| [[Herby Werby]]
+|
+|-
+| [[Penguin Hide and Seek]]
+|
+|-
+| [[Tears of Guthix]]
+|
+|-
+| [[Circus]]
+|
+|-
+| [[Managing Miscellania]] (Mahogany > Maple)
+|
+|-
+| [[Agoroth]]
+|
+|-
+| [[Familiarisation]] (Outfit > Double Charms)
+|
+|-
+|[[Fort Forinthry]] XP Claim
+|
+|-
+|[[Thalmund's Wares]]
+|Only on wednesday
+|-
+|[[Water filtration system]]
+|
+|-
+|[[Meg's questions|Meg's Questions]]
+|
+|-
+|[[Dream of Iaia]]
+|
+|-
+|[[Potato Cactus]]
+|
+|-
+|Shop Run
+|
+* [[Insulated Boots]]
+* Black, Mithril, Adamant [[scimitars]]
+* [[Broad arrowheads]] (until you have 400k broad arrowheads total)
+* [[Bloodweed seeds]] (start buying when you begin training Slayer)
+* Meat boxes from [[Oo'glog]]
+* Runes ([[Mage of Zamorak]]/[[Magic Guild]]/[[Lunar Isle]]/[[Pest Control]])
+* [[Vials of water]] + [[Herblore secondaries]] ([[Taverley]]/[[Prifddinas]]/[[Granny Rowan]])
+|-
+|[[Crystal tree blossom]]
+|94 Farming. Now accumulates up to 30 days of charges — check weekly rather than daily.
+|-
+|[[Geoffrey]] Flax
+|Seers achievements
+|-
+|City Of Um Free Supplies
+|Underworld diaries
+|-
+|[[Reaper]] Task
+|No daily cap. Up to 300 Reaper points per week. Tasks also award [[Slayer reward points]] with no cap. Requires 45 Slayer and 50 Combat. Reroll costs 30 Slayer points.
+|-
+|[[Advance Time]]
+|3 cast per week (93 magic)
+|}
+===Monthlies===
+{| class="wikitable lighttable"
+! Task
+|-
+| [[Troll Invasion]]
+|-
+| [[Giant Oyster]]
+|-
+| [[God Statues]]
+|-
+| [[Effigy Incubator]]
+|-
+|}
+
+==Player-owned farm==
+To efficiently do [[player-owned farm]] on an ironman, you need to purchase a lot of unlocks. This guide will help you do that as fast as possible.
+
+===Before level 64 Farming===
+* '''Breeding Pen'''
+** Breeding pair of [[Rellekkan cream rabbit]] in the breeding pen (can also use [[Common brown rabbit|normal rabbits]]).
+* '''Small Pen'''
+** Move rabbits that are bred into small pens.
+** Sell all rabbits except the breeding pair (preferably when adolescent).
+* '''Medium Pen'''
+** 4 [[Sheep (player-owned farm)|sheep]] in each medium pen
+** Sell all sheep (preferably when adolescent).
+* '''Large Pen'''
+** 3 [[bull]]s in each large pen
+** Sell all bulls (preferably when adolescent).
+''(You can also grow [[common green frog]]s on [[Anachronia]])''
+
+===After level 64 Farming===
+The objective now is to unlock the important POF rewards, in the following order:
+
+{| class="wikitable lighttable align-center-1"
+!Order
+!Unlocks
+|-
+| 1
+| [[Adam Antite]]
+|-
+| 2
+| Medium Pen Breeding
+|-
+| 3
+| Small Pen Breeding
+|-
+| 4
+| Large Pen Breeding
+|-
+| 5
+| [[Master farmer outfit blueprint]]
+|-
+| 6
+| [[Master farmer fragment pack]]
+|}
+''Make sure that you send off [[Adam Antite]] until you have a breeding pair of [[Carnivorous chinchompa (player-owned farm)|red chinchompas]], [[Yak (player-owned farm)|yaks]], and [[Dragon (player-owned farm)|dragons]]''.
+
+Pens should be setup as follows:
+* '''Breeding Pen'''
+** Obtain a breeding pair of [[Spider (player-owned farm)|spiders]] by killing spiders within the [[Lumbridge Catacombs]]. '''Do this immediately at 64 Farming as this will be your main source of beans.'''
+** Place these spiders in the breeding pen.
+** If you have breeding yaks or dragons, replace your spiders with those.
+* '''Small Pen'''
+** [[Chinchompa (player-owned farm)|Chinchompas]] (preferably [[Carnivorous chinchompa (player-owned farm)|red]]) in the small pens
+* '''Medium Pen'''
+** Move spiders that are bred into medium pens (do not place food in the medium pens until medium pen breeding is unlocked)
+** Sell all bred spiders (preferably when adolescent).
+** ''(Once medium pen breeding is unlocked, you can swap out 1 of your medium pens for a breeding pair of [[Zygomite (player-owned farm)|zygomites]] (not [[Gloomshroom zygomite|gloomshrooms]]). You do not need to feed them but can if you want)''
+* '''Large Pen'''
+** [[Yak (player-owned farm)|Yaks]] > [[Dragon (player-owned farm)|dragons]] in large pens
+''Once you have obtained all of the listed shop unlocks, you should stop selling animals as adolescent, and instead let them grow to elders (to maximise XP).''
+
+'''Note:''' If you get a [[Strawberry cow|strawberry]]/[[Vanilla cow|vanilla]]/[[chocolate cow]] from Adam Antite, bank them. You will need them for the [[Contract Claws]] mystery.
+
+==Mining and Smithing training==
+This miniguide will explain the quickest way to train your Smithing to 80.
+
+''If you are planning to train smithing past 80, you should do a mixture of Banite smithing and corrupted ores.''
+
+'''Note:''' All Smithing training should be done at the [[Artisans' workshop]], preferably on world 70.
+
+===Collecting the ores & smithing bars===
+Collect and smith the following items:
+
+* '''Levels 40-50'''
+** Mine 248 [[Adamantite ore]] and 248 [[Luminite]]
+** Smith 5 [[Adamant burial set]]
+** Smith 1 adamant full helm +2
+* '''Levels 50-70'''
+** Mine 1750 [[Runite ore]] and 1750 [[Luminite]]
+** Smith 18 [[Runite burial set]]
+* '''Levels 70-80'''
+** Mine 1536 [[Necronium ore]] and 1536 [[Phasmatite]]
+** Smith 8 [[Necronium burial set]]
+** ''Note: You may need a 9th set if you forget to purchase XP-boosting rewards.''
+
+===Reward upgrades===
+Rewards from the [[Artisans' Workshop Reward Shop]] should be purchased in the following order:
+
+{| class="wikitable lighttable align-center-1"
+!Order
+!Unlocks
+|-
+| 1
+| Solemn Smith I (60 Smithing)
+|-
+| 2
+| Golden Cannon (71 Smithing)
+|-
+| 3
+| Royale Cannon (79 Smithing)
+|}
+''If you go for 99/110 Smithing, you should purchase unlocks in the following order:''
+# [[Blacksmith's outfit]]
+# Solemn Smith upgrades
+# Quick repairs and Rep''air expert (only if actively smithing)
+# Ceremonial sword orders
+# Ceremonial swordsmith I-V
+# Dwarven cannon upgrades
+# Cosmetic armour sets
+
+==Archaeology training==
+This miniguide will explain the quickest way to train your Archaeology to 95/99 whilst simultaneously working toward unlocking the [[Qualification - Guildmaster]] [[qualification]].
+
+===Mysteries===
+These Mysteries should be completed whenever you have the level to complete them:
+
+{| class="wikitable lighttable align-center-1"
+!Order
+! Mystery
+! Level
+|-
+|1
+|[[Breaking the Seal]]
+|{{Skillreq|Archaeology|12}}
+|-
+|2
+|[[Prison Break]]
+|{{Skillreq|Archaeology|12}}
+|-
+|3
+|[[Eyes in Their Stars]]
+|{{Skillreq|Archaeology|24}}
+|-
+|4
+|[[Embrace the Chaos]]
+|{{Skillreq|Archaeology|29}}
+|-
+|5
+|[[Contract Claws]]
+|{{Skillreq|Archaeology|29}}
+|-
+|6
+|[[Secrets of the Monolith]]
+|{{Skillreq|Archaeology|40}}
+|-
+|7
+|[[Fallen Angels]]
+|{{Skillreq|Archaeology|42}}
+|-
+|8
+|[[Queen of the Icyene]]
+|{{Skillreq|Archaeology|42}}
+|-
+|9
+|[[Time Served]]
+|{{Skillreq|Archaeology|47}}
+|-
+|10
+|[[Fall and Rise]]
+|{{Skillreq|Archaeology|61}}
+|-
+|11
+|[[Dagon Bye]]
+|{{Skillreq|Archaeology|68}}
+|-
+|12
+|[[Atonement]]
+|{{Skillreq|Archaeology|70}}
+|-
+|13
+|[[Leap of Faith]]
+|{{Skillreq|Archaeology|70}}
+|-
+|14
+|[[The Dour of Bable]]
+|{{Skillreq|Archaeology|72}}
+|-
+|15
+|[[The Spy Who Loved Metal]]
+|{{Skillreq|Archaeology|76}}
+|-
+|16
+|[[Wing Out]]
+|{{Skillreq|Archaeology|76}}
+|-
+|17
+|[[The First Commander]]
+|{{Skillreq|Archaeology|76}}
+|-
+|18
+|[[Into the Forge]]
+|{{Skillreq|Archaeology|83}}
+|-
+|19
+|[[Out of the Crucible]]
+|{{Skillreq|Archaeology|83}}
+|-
+|20
+|[[Howl's Floating Workshop]]
+|{{Skillreq|Archaeology|95}}
+|-
+|}
+
+===Collections===
+These collections should be completed whenever you have the level to complete them:
+
+{| class="wikitable lighttable align-center-1"
+!Order
+! Collection
+! Level
+|-
+|1
+|[[Zarosian I]]
+|{{Skillreq|Archaeology|25}}
+|-
+|2
+|[[Museum - Zarosian I]]
+|{{Skillreq|Archaeology|25}}
+|-
+|3
+|[[Zamorakian I]]
+|{{Skillreq|Archaeology|36}}
+|-
+|4
+|[[Museum - Zamorakian I]]
+|{{Skillreq|Archaeology|36}}
+|-
+|5
+|[[Saradominist I]]
+|{{Skillreq|Archaeology|56}}
+|-
+|6
+|[[Museum - Saradominist I]]
+|{{Skillreq|Archaeology|56}}
+|-
+|7
+|[[Museum - Zarosian V]]
+|{{Skillreq|Archaeology|62}}
+|-
+|8
+|[[Museum - Zarosian VI]]
+|{{Skillreq|Archaeology|64}}
+|-
+|9
+|[[Finery of the Inquisition]]
+|{{Skillreq|Archaeology|64}}
+|-
+|10
+|[[Museum - Zarosian VII]]
+|{{Skillreq|Archaeology|67}}
+|-
+|11
+|[[Entertaining the Masses]]
+|{{Skillreq|Archaeology|67}}
+|-
+|12
+|[[Religious Iconography]]
+|{{Skillreq|Archaeology|67}}
+|-
+|13
+|[[Urns of the Empire]]
+|{{Skillreq|Archaeology|67}}
+|-
+|14
+|[[Blingy Fings]]
+|{{Skillreq|Archaeology|69}}
+|-
+|15
+|[[Saradominist II]]
+|{{Skillreq|Archaeology|72}}
+|-
+|16
+|[[Museum - Saradominist II]]
+|{{Skillreq|Archaeology|72}}
+|-
+|17
+|[[Smoky Fings]]
+|{{Skillreq|Archaeology|81}}
+|-
+|18
+|[[Zarosian II]]
+|{{Skillreq|Archaeology|81}}
+|-
+|19
+|[[Museum - Zarosian II]]
+|{{Skillreq|Archaeology|81}}
+|-
+|20
+|[[Zamorakian II]]
+|{{Skillreq|Archaeology|81}}
+|-
+|21
+|[[Museum - Zamorakian II]]
+|{{Skillreq|Archaeology|81}}
+|-
+|22
+|[[Armadylean I]]
+|{{Skillreq|Archaeology|81}}
+|-
+|23
+|[[Museum - Armadylean I]]
+|{{Skillreq|Archaeology|81}}
+|-
+|24
+|[[Green Gobbo Goodies I]]
+|{{Skillreq|Archaeology|83}}
+|-
+|25
+|[[Red Rum Relics I]]
+|{{Skillreq|Archaeology|94}}
+|-
+|}
+
+===Training methods===
+{| class="wikitable lighttable align-center-1"
+! Levels
+! Notes
+|-
+|1-76
+|Train using the best available [[Excavation hotspot]]. Only do this if you have no mysteries/collections available to complete.
+|-
+|76-83
+|Complete 46 Green Gobbo Goodies I collections.
+|-
+|83+
+|Complete 7 Armadylean I collections.
+* ''This will give you enough Howl's Workshop fragments to unlock all of the ancient Archaeology rewards.''
+|-
+|83-99
+|Complete 100 Red Rum I collections.
+|-
+|}
+
+[[Category:Ironman Mode]]
+[[Category:Guides]]

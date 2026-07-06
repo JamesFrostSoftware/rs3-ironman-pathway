@@ -1,0 +1,14 @@
+.env
+.env.local
+node_modules/
+server/node_modules/
+tools/.cache/
+tools/**/__pycache__/
+**/__pycache__/
+*.pyc
+tmp-wiki.json
+
+# Wiki bundle binaries (~486 MB total — too large for GitHub; not needed for the web tracker)
+bundle/data/wiki.rs3wi
+bundle/data/wiki.rs3wg
+bundle/data/wiki.rs3nav

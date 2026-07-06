@@ -1,0 +1,1967 @@
+{
+  "source": "C:\\Users\\james\\Projects\\rs3-ironman-pathway\\data\\original-pathway-source.wikitext",
+  "parts": {
+    "part1": [
+      {
+        "rowId": "Start Female",
+        "activity": "Create an account.",
+        "notes": ""
+      },
+      {
+        "rowId": "Tutorial Island",
+        "activity": "Skip Tutorial Island",
+        "notes": ""
+      },
+      {
+        "rowId": "Find Circus",
+        "activity": "Open the minigames tab in the adventures screen to locate Balthazar Beauregard's Big Top Bonanza. When you reach the circus, complete the agility minigame to unlock Surge and Escape.",
+        "notes": ""
+      },
+      {
+        "rowId": "Skip Basic Challenges",
+        "activity": "Talk to Challenge Mistress Fara and skip all of the basic challenges.",
+        "notes": ""
+      },
+      {
+        "rowId": "Dwarven Army Axe",
+        "activity": "Obtain the Dwarven army axe by speaking to Major Mary Rancour",
+        "notes": ""
+      },
+      {
+        "rowId": "Wicked Hood",
+        "activity": "Obtain the wicked hood from Tam McGrubor.",
+        "notes": ""
+      },
+      {
+        "rowId": "Back to Burthorpe",
+        "activity": "Teleport to the Burthorpe lodestone.",
+        "notes": "To make things easier in future steps, fulfil the following whilst in burthorpe:"
+      },
+      {
+        "rowId": "Activate Taverley",
+        "activity": "Activate the Taverley lodestone.",
+        "notes": ""
+      },
+      {
+        "rowId": "Go to Daemonheim",
+        "activity": "Sail to Daemonheim.",
+        "notes": ""
+      },
+      {
+        "rowId": "Go to Al Kharid",
+        "activity": "Talk to the Fremennik shipmaster 1 to sail to Al Kharid.",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Al Kharid",
+        "activity": "Activate the Al Kharid lodestone.",
+        "notes": ""
+      },
+      {
+        "rowId": "One Piercing Note",
+        "activity": "One Piercing Note (One Piercing Note/Quick guide)",
+        "notes": "Unlocks the transfigure, sacrifice, and devotion abilities."
+      },
+      {
+        "rowId": "Activate Lumbridge",
+        "activity": "Activate the Lumbridge lodestone.",
+        "notes": ""
+      },
+      {
+        "rowId": "The Blood Pact",
+        "activity": "The Blood Pact (The Blood Pact/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "The Restless Ghost",
+        "activity": "The Restless Ghost (The Restless Ghost/Quick guide)",
+        "notes": "Keep the ghostspeak amulet."
+      },
+      {
+        "rowId": "Cook's Assistant",
+        "activity": "Cook's Assistant (Cook's Assistant/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "15 Crafting",
+        "activity": "Level your crafting to 15.",
+        "notes": ""
+      },
+      {
+        "rowId": "Go shopping Lumbridge GS",
+        "activity": "Purchase the following items from the Lumbridge general store:",
+        "notes": ""
+      },
+      {
+        "rowId": "Go shopping Beefy Bill",
+        "activity": "Purchase the following items from Beefy Bill:",
+        "notes": ""
+      },
+      {
+        "rowId": "Get Milk",
+        "activity": "Fill 4 buckets with milk from the cows next to Beefy Bill.",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Varrock",
+        "activity": "Activate the Varrock lodestone.",
+        "notes": ""
+      },
+      {
+        "rowId": "Go to Arch Guild",
+        "activity": "Head east to the Archaeology Guild",
+        "notes": ""
+      },
+      {
+        "rowId": "Arch Tutorial",
+        "activity": "Complete the Archaeology tutorial at the Varrock Dig Site.",
+        "notes": ""
+      },
+      {
+        "rowId": "Anachronia start",
+        "activity": "Travel to Anachronia on The Stormbreaker.",
+        "notes": ""
+      },
+      {
+        "rowId": "Herby Werby",
+        "activity": "Complete a run of Herby Werby.",
+        "notes": "You should do this activity every week."
+      },
+      {
+        "rowId": "Activate Anachronia",
+        "activity": "Build the Anachronia lodestone.",
+        "notes": ""
+      },
+      {
+        "rowId": "Return to Taverley",
+        "activity": "Return to Taverley.",
+        "notes": ""
+      },
+      {
+        "rowId": "Violet is Blue",
+        "activity": "Violet is Blue (Violet is Blue/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Violet is Blue Too",
+        "activity": "Violet is Blue Too (Violet is Blue Too/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Wolf Whistle",
+        "activity": "Wolf Whistle (Wolf Whistle/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Druidic Ritual",
+        "activity": "Druidic Ritual (Druidic Ritual/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Death Plateau",
+        "activity": "Death Plateau (Death Plateau/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Supply and Demand",
+        "activity": "Complete 5 Supply and Demand deliveries.",
+        "notes": ""
+      },
+      {
+        "rowId": "Whats mine is Yours",
+        "activity": "What's Mine is Yours (What's Mine is Yours/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "lvl 10 cooking",
+        "activity": "Catch and cook 50 raw shrimp.",
+        "notes": ""
+      },
+      {
+        "rowId": "Bake pies",
+        "activity": "Bake one redberry pie and smelt two iron bars for The Knight's Sword.",
+        "notes": ""
+      },
+      {
+        "rowId": "Stronghold of Security",
+        "activity": "Complete the first three floors of the Stronghold of Security for 10,000 coins.",
+        "notes": ""
+      },
+      {
+        "rowId": "Get Ashes",
+        "activity": "Cut and burn 20 logs and pick up the Ashes",
+        "notes": ""
+      },
+      {
+        "rowId": "Necromancy quest",
+        "activity": "Necromancy! (Necromancy!/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Get 24 Necro",
+        "activity": "Train your Necromancy to level 24 inside the City of Um troll cave.",
+        "notes": "Necromancy 24"
+      },
+      {
+        "rowId": "Lesser necroplasm",
+        "activity": "Perform 7 lesser necroplasm rituals",
+        "notes": "This will give the required materials for Lesser unensouled bars later."
+      },
+      {
+        "rowId": "Kili Row",
+        "activity": "Kili Row (Kili Row/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Rune Mythos",
+        "activity": "Rune Mythos (Rune Mythos/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Gunnars Ground",
+        "activity": "Gunnar's Ground (Gunnar's Ground/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Demon Slayer",
+        "activity": "Demon Slayer (Demon Slayer/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Ernest the Chicken",
+        "activity": "Ernest the Chicken (Ernest the Chicken/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Swept Away",
+        "activity": "Swept Away (Swept Away/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "QP die 25",
+        "activity": "Claim your 25 Quest Points reward from May's Quest Caravan",
+        "notes": ""
+      },
+      {
+        "rowId": "Buy 3 hatchets",
+        "activity": "Purchase a steel hatchet, mithril hatchet, and adamant hatchet from Bob's Brilliant Axes",
+        "notes": ""
+      },
+      {
+        "rowId": "Gather planks and limestone bricks",
+        "activity": "Gather 116 Plank, 120 Oak plank, and 386 Limestone brick",
+        "notes": "Planks can be created at the Workshop (Fort Forinthry) after rescuing Bill during New Foundations by either sawing them yourself or paying Bill to do so."
+      },
+      {
+        "rowId": "New Foundations",
+        "activity": "New Foundations (New Foundations/Quick guide)",
+        "notes": "construction 41"
+      },
+      {
+        "rowId": "FF Lodestone",
+        "activity": "Build the Fort Forinthry lodestone by interacting with the building table (Fort Forinthry blueprints) and selecting \"Miscellaneous\" from the drop-down menu.",
+        "notes": "construction 41"
+      },
+      {
+        "rowId": "Town Hall T1",
+        "activity": "Build your Town Hall (Tier 1) for rested experience.",
+        "notes": ""
+      },
+      {
+        "rowId": "Magic 55",
+        "activity": "Train your Magic to level 55 in the Shattered Worlds minigame.",
+        "notes": ""
+      },
+      {
+        "rowId": "Ranged 45",
+        "activity": "Train your Ranged to level 45 in the Shattered Worlds minigame.",
+        "notes": "How to train effectively:"
+      },
+      {
+        "rowId": "The Knights Sword",
+        "activity": "The Knight's Sword (The Knight's Sword/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Mining for Necro",
+        "activity": "Mine 42 iron ore and 14 coal ore, then smelt fourteen iron bars and steel bars (Death Skull equipment upgrades).",
+        "notes": "-data-rowid = \"Lesser communion\""
+      },
+      {
+        "rowId": "Skellington",
+        "activity": "Unlock the Command Skeleton Warrior talent from the Talent tree.",
+        "notes": ""
+      },
+      {
+        "rowId": "Lesser Ensoul",
+        "activity": "Complete 14 lesser ensoul material rituals to obtain lesser ensouled bars to upgrade your necromancy weapons.",
+        "notes": "This will give you enough ensouled bars to upgrade your equipment up until level 50."
+      },
+      {
+        "rowId": "Lesser Ensoul 2",
+        "activity": "Complete 38 lesser ensoul material rituals to obtain 28 Lesser ensouled cloth and 10 Lesser ensouled thread.",
+        "notes": ""
+      },
+      {
+        "rowId": "Necro gear 20",
+        "activity": "Upgrade your necromancy armour and weapons to level 20.",
+        "notes": ""
+      },
+      {
+        "rowId": "Easy Um",
+        "activity": "Easy Underworld achievements (Easy Underworld achievements)",
+        "notes": ""
+      },
+      {
+        "rowId": "Go to Ardougne",
+        "activity": "Travel to Ardougne",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Ardougne",
+        "activity": "Activate the Ardougne lodestone.",
+        "notes": ""
+      },
+      {
+        "rowId": "Beehives",
+        "activity": "Complete the Player-owned farm tutorial(Player-owned_farm_tutorial/Quick_guide) at the Manor Farm.",
+        "notes": ""
+      },
+      {
+        "rowId": "POF Start",
+        "activity": "You can now start to work on your farm.",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Seers Village",
+        "activity": "Activate the Seers' Village lodestone",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Catherby",
+        "activity": "Activate the Catherby lodestone",
+        "notes": ""
+      },
+      {
+        "rowId": "Gather FF materials 1",
+        "activity": "Obtain the following:",
+        "notes": "Recommended:"
+      },
+      {
+        "rowId": "FF Command Center and Chapel",
+        "activity": "Go to Fort Forinthry and build the following:",
+        "notes": ""
+      },
+      {
+        "rowId": "Murder On the Border",
+        "activity": "Murder on the Border (Murder on the Border/Quick guide)",
+        "notes": "Assassin scales to combat level, use Necromancy"
+      },
+      {
+        "rowId": "Unwelcome Guests",
+        "activity": "Unwelcome Guests (Unwelcome Guests/Quick guide)",
+        "notes": "You will build the following during the quest"
+      },
+      {
+        "rowId": "FF Grove",
+        "activity": "Build the following while at Fort Forinthry:",
+        "notes": ""
+      },
+      {
+        "rowId": "Get Reaper",
+        "activity": "Get a reaper assignment from Death inside of Death's office",
+        "notes": "How to get Croesus kills effectively at a low level:"
+      },
+      {
+        "rowId": "Get Onions",
+        "activity": "Collect 6 onions from behind Draynor bank",
+        "notes": ""
+      },
+      {
+        "rowId": "Buy some leaf",
+        "activity": "Purchase 1010 woad leaf from Wyson the gardener in the Falador Garden.",
+        "notes": ""
+      },
+      {
+        "rowId": "Die to Aggie",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Goblin Diplomacy",
+        "activity": "Goblin Diplomacy (Goblin Diplomacy/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Monks Friend",
+        "activity": "Monk's Friend (Monk's Friend/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Earth Talisman",
+        "activity": "Run south and enter the Clock Tower (building) using the north door, then go down the ladder in the north room.",
+        "notes": "The drop rate for an earth talisman from a giant spider is 1/10."
+      },
+      {
+        "rowId": "Go Shopping Aubury",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Brian",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Void Mage",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Runecrafting 50",
+        "activity": "Train your Runecrafting to level 50",
+        "notes": ""
+      },
+      {
+        "rowId": "Missing Presumed Deaths",
+        "activity": "Missing, Presumed Death (Missing, Presumed Death/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Gertrudes Cat",
+        "activity": "Gertrude's Cat (Gertrude's Cat/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Priest in Peril",
+        "activity": "Priest in Peril (Priest in Peril/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Canifis",
+        "activity": "Activate the Canifis lodestone",
+        "notes": ""
+      },
+      {
+        "rowId": "Sheep Herder",
+        "activity": "Sheep Herder (Sheep Herder/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Join Cult",
+        "activity": "Hazeel Cult (Hazeel Cult/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Obtain food legally",
+        "activity": "Steal and bank 2 inventories of food from the Baker's stall (Ardougne)",
+        "notes": ""
+      },
+      {
+        "rowId": "Waterfall Quest",
+        "activity": "Waterfall Quest (Waterfall Quest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Get clean water",
+        "activity": "Repair the Water filtration system at Het's Oasis",
+        "notes": ""
+      },
+      {
+        "rowId": "Merlins Crystal",
+        "activity": "Merlin's Crystal (Merlin's Crystal/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Holy Grail",
+        "activity": "Holy Grail (Holy Grail/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Nemi Forest daily",
+        "activity": "You can now start to complete the Nemi Forest daily",
+        "notes": ""
+      },
+      {
+        "rowId": "God statues monthly",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Stolen Hearts",
+        "activity": "Stolen Hearts (Stolen Hearts/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Diamon in the Rough",
+        "activity": "Diamond in the Rough (Diamond in the Rough/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Rune Hatchet",
+        "activity": "Go to the Champions' Guild and buy a rune hatchet from Scavvo's Rune Store",
+        "notes": ""
+      },
+      {
+        "rowId": "Jack of Spades",
+        "activity": "The Jack of Spades (The Jack of Spades/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Pingu",
+        "activity": "You can now start completing Penguin Hide and Seek weekly",
+        "notes": ""
+      },
+      {
+        "rowId": "Gather Acadia in Menaphos",
+        "activity": "While in Menaphos Imperial District gather 768 Acadia logs giving reputation to Imperial Faction",
+        "notes": "Make sure to right click Imperial faction (overlay in Menaphos) and set active!"
+      },
+      {
+        "rowId": "Dead and Buried",
+        "activity": "Dead and Buried (Dead and Buried/Quick guide)",
+        "notes": "Enemies scale to combat level, use Necromancy"
+      },
+      {
+        "rowId": "FF Kitchen and Chapel T2",
+        "activity": "While in Fort Forinthry build:",
+        "notes": "Requires:"
+      },
+      {
+        "rowId": "Choppy chop willow",
+        "activity": "Obtain 5 Willow logs by chopping Willow",
+        "notes": ""
+      },
+      {
+        "rowId": "Icthlarins Little Helper",
+        "activity": "Icthlarin's Little Helper (Icthlarin's Little Helper/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Once Upon a Slime",
+        "activity": "Once Upon a Slime (Once Upon a Slime/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Tribal Totem",
+        "activity": "Tribal Totem (Tribal Totem/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Jungle Potion",
+        "activity": "Jungle Potion (Jungle Potion/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Recruitment Drive",
+        "activity": "Recruitment Drive (Recruitment Drive/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Dig Site",
+        "activity": "The Dig Site (The Dig Site/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Witchs House",
+        "activity": "Witch's House (Witch's House/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Lost Tribe",
+        "activity": "The Lost Tribe (The Lost Tribe/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Tourist Trap",
+        "activity": "The Tourist Trap (The Tourist Trap/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Circus weekly",
+        "activity": "You can now start completing the Circus weekly",
+        "notes": ""
+      },
+      {
+        "rowId": "Murder Mystery",
+        "activity": "Murder Mystery (Murder Mystery/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Plague City",
+        "activity": "Plague City (Plague City/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Biohazard",
+        "activity": "Biohazard (Biohazard/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fight Arena",
+        "activity": "Fight Arena (Fight Arena/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Yanille",
+        "activity": "Activate the Yanille lodestone",
+        "notes": ""
+      },
+      {
+        "rowId": "Tree Gnome Village",
+        "activity": "Tree Gnome Village (Tree Gnome Village/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Grand Tree",
+        "activity": "The Grand Tree (The Grand Tree/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Funch",
+        "activity": "If you did not get a fruit blast at the end of The Dig Site,",
+        "notes": ""
+      },
+      {
+        "rowId": "Observatory Quest",
+        "activity": "Observatory Quest (Observatory Quest/Quick guide)",
+        "notes": "Optional: Use the noticeboard in the quest start area to complete Star Seeker"
+      },
+      {
+        "rowId": "RFD 1",
+        "activity": "Recipe for Disaster: Another Cook's Quest (Recipe for Disaster: Another Cook's Quest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Nature Spirit",
+        "activity": "Nature Spirit (Nature Spirit/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Creature of Fenkenstrain",
+        "activity": "Creature of Fenkenstrain (Creature of Fenkenstrain/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "EWW 1",
+        "activity": "Elemental Workshop I (Elemental Workshop I/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "EWW 2",
+        "activity": "Elemental Workshop II (Elemental Workshop II/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Sea Slug",
+        "activity": "Sea Slug (Sea Slug/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fishing Contest",
+        "activity": "Fishing Contest (Fishing Contest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Shilo Village",
+        "activity": "Shilo Village (Shilo Village/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fishing 53",
+        "activity": "Train your Fishing to level 53",
+        "notes": ""
+      },
+      {
+        "rowId": "Cook many fish",
+        "activity": "Cook all of your Trout and Salmon",
+        "notes": ""
+      },
+      {
+        "rowId": "Shades of Morton",
+        "activity": "Shades of Mort'ton (Shades of Mort'ton/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Big Bird Hunter",
+        "activity": "Big Chompy Bird Hunting (Big Chompy Bird Hunting/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Activate Ooglog",
+        "activity": "Activate the Oo'glog lodestone",
+        "notes": ""
+      },
+      {
+        "rowId": "Zogre Flesh Eaters",
+        "activity": "Zogre Flesh Eaters (Zogre Flesh Eaters/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Troll invasion run",
+        "activity": "Complete an easy run of Troll Invasion",
+        "notes": ""
+      },
+      {
+        "rowId": "Home ownership",
+        "activity": "Purchase a house from the Varrock Estate Agent",
+        "notes": ""
+      },
+      {
+        "rowId": "Varrock Museum Quiz",
+        "activity": "Complete the Varrock Museum Quiz",
+        "notes": ""
+      },
+      {
+        "rowId": "The Golem",
+        "activity": "The Golem (The Golem/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Shadow of the Storm",
+        "activity": "Shadow of the Storm (Shadow of the Storm/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Dave",
+        "activity": "Recipe for Disaster: Freeing Evil Dave (Recipe for Disaster: Freeing Evil Dave/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Daves day out",
+        "activity": "Evil Dave's Big Day Out (Evil Dave's Big Day Out/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Beneath Cursed Tides",
+        "activity": "Beneath Cursed Tides (Beneath Cursed Tides/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Giant Oyster monthly",
+        "activity": "Complete the Giant Oyster.",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Marvellous Mysticism",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Dragon almost Slayer",
+        "activity": "Complete Dragon Slayer up until the point you have the Anti-dragon shield",
+        "notes": "Steps to obtain the shield:"
+      },
+      {
+        "rowId": "Prayer 37",
+        "activity": "Train your prayer to level 37",
+        "notes": ""
+      },
+      {
+        "rowId": "Dragon Slayer actually this time",
+        "activity": "Dragon Slayer (Dragon Slayer/Quick guide)",
+        "notes": "To make the Elvarg fight as easy and safe as possible:"
+      },
+      {
+        "rowId": "Slayer 35",
+        "activity": "Train Slayer to 35",
+        "notes": "Slayer 35"
+      },
+      {
+        "rowId": "Smoking Kills",
+        "activity": "Smoking Kills (Smoking Kills/Quick guide)",
+        "notes": "Slayer 36"
+      },
+      {
+        "rowId": "Magic 60",
+        "activity": "Train Slayer to 40",
+        "notes": ""
+      },
+      {
+        "rowId": "Mage Arena mini",
+        "activity": "Complete the Mage Arena miniquest",
+        "notes": "Use a Lever for quick access to the mage arena and to avoid running past the monsters in the wilderness."
+      },
+      {
+        "rowId": "Guthix Cape",
+        "activity": "Enter the Sparkling Pool and claim the Guthix cape and Guthix staff",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Lundail",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Divine Storming",
+        "activity": "Cast Divine Storm spell 100 times on Battle mage inside of the mage arena (Wilderness).",
+        "notes": ""
+      },
+      {
+        "rowId": "Shadow over Ashdale",
+        "activity": "A Shadow over Ashdale (A Shadow over Ashdale/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Agoroth weekly",
+        "activity": "You can now start completing Agoroth weekly.",
+        "notes": ""
+      },
+      {
+        "rowId": "In Search of the Myreque",
+        "activity": "In Search of the Myreque (In Search of the Myreque/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "In Aid of the Myreque",
+        "activity": "In Aid of the Myreque (In Aid of the Myreque/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Buyers and Cellars",
+        "activity": "Buyers and Cellars (Buyers and Cellars/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "From Tiny Acorns mini",
+        "activity": "From Tiny Acorns (miniquest) (From Tiny Acorns (miniquest)/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "The Feud",
+        "activity": "The Feud (The Feud/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hets flowers",
+        "activity": "Build all 4 flower baskets at Het's Oasis",
+        "notes": "To obtain the materials:"
+      },
+      {
+        "rowId": "Thieving 41",
+        "activity": "Train your Thieving to level 41",
+        "notes": ""
+      },
+      {
+        "rowId": "Lost Her Marbles mini",
+        "activity": "Lost Her Marbles (miniquest) (Lost Her Marbles (miniquest)/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Thieving 53",
+        "activity": "Train your Thieving to level 53",
+        "notes": "Method:"
+      },
+      {
+        "rowId": "Carnillean Rising",
+        "activity": "Carnillean Rising (Carnillean Rising/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "DoD Coining",
+        "activity": "Dimension of Disaster: Coin of the Realm (Dimension of Disaster: Coin of the Realm/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "DoD Demon Slaying",
+        "activity": "Dimension of Disaster: Demon Slayer (Dimension of Disaster: Demon Slayer/Quick guide)",
+        "notes": "To make the Agrith Naar fight as easy and safe as possible:"
+      },
+      {
+        "rowId": "Divination 20",
+        "activity": "Complete the Memorial to Guthix tutorial",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunter 29",
+        "activity": "Train your Hunter to level 29",
+        "notes": ""
+      },
+      {
+        "rowId": "Eagles' Peak",
+        "activity": "Eagles' Peak (Eagles' Peak/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunter 45",
+        "activity": "Train your Hunter to level 45",
+        "notes": ""
+      },
+      {
+        "rowId": "Cold War",
+        "activity": "Cold War (Cold War/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunt For Red Raktuber",
+        "activity": "Hunt for Red Raktuber (Hunt for Red Raktuber/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fletching 25",
+        "activity": "Train your Fletching to level 25",
+        "notes": ""
+      },
+      {
+        "rowId": "Fremennik Trials",
+        "activity": "The Fremennik Trials (The Fremennik Trials/Quick guide)",
+        "notes": "You can get the raw shark from Temple Trekking or the Swarm fishing spot (requires 68 Fishing)"
+      },
+      {
+        "rowId": "Monkey Madness",
+        "activity": "Monkey Madness (Monkey Madness/Quick guide)",
+        "notes": "HCIM with low Constitution levels can buy antipoison potions from the survival shop on Anachronia, or alternatively, from Jiminua's general store on Karamja."
+      },
+      {
+        "rowId": "Gnome XPP",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Haunted Mine",
+        "activity": "Haunted Mine (Haunted Mine/Quick guide)",
+        "notes": "Using Glowing fungus and the Underworld Grimoire 1 is a great way to [[Ashes#Obtaining ashes|obtain ashes]]."
+      },
+      {
+        "rowId": "Lair of Tarn",
+        "activity": "Lair of Tarn Razorlor (miniquest) (Lair of Tarn Razorlor (miniquest)/Quick guide)",
+        "notes": "Use Tarn's diary on your Salve amulet, this will now be your best necromancy necklace item against all undead creatures."
+      },
+      {
+        "rowId": "Darkness of Hallowvale",
+        "activity": "The Darkness of Hallowvale (The Darkness of Hallowvale/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Firemaking 50",
+        "activity": "Train your Firemaking to level 50",
+        "notes": ""
+      },
+      {
+        "rowId": "Troll Stronghold",
+        "activity": "Troll Stronghold (Troll Stronghold/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Troll Romance",
+        "activity": "Troll Romance (Troll Romance/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Nurmof",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Dung Tokens 2000",
+        "activity": "Obtain 2000 Dungeoneering tokens by training Dungeoneering",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Gem bag",
+        "activity": "Purchase a Gem bag from the Dungeoneering/Rewards for 2000 Dungeoneering tokens",
+        "notes": ""
+      },
+      {
+        "rowId": "Mining 60",
+        "activity": "",
+        "notes": "Method to train Mining:"
+      },
+      {
+        "rowId": "Shield of Arrav",
+        "activity": "Shield of Arrav (Shield of Arrav/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Lost City",
+        "activity": "Lost City (Lost City/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Heroes Quest",
+        "activity": "Heroes' Quest (Heroes' Quest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Throne of Miscellania",
+        "activity": "Throne of Miscellania (Throne of Miscellania/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Royal Trouble",
+        "activity": "Royal Trouble (Royal Trouble/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Managing Miscellania weekly",
+        "activity": "You can now start completing the Managing Miscellania weekly",
+        "notes": ""
+      },
+      {
+        "rowId": "Tears of Guthix quest",
+        "activity": "Tears of Guthix (quest) (Tears of Guthix (quest)/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Tears of Guthix weekly",
+        "activity": "You can now start completing the Tears of Guthix weekly",
+        "notes": "You should do this activity every week"
+      },
+      {
+        "rowId": "Pirates Treasure",
+        "activity": "Pirate's Treasure (Pirate's Treasure/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Prayer 47",
+        "activity": "Train your prayer to level 47",
+        "notes": "Obtain dragon bones by killing green dragons or blue dragons (HCIM). Remember to equip your anti-dragon shield"
+      },
+      {
+        "rowId": "Ghosts Ahoy",
+        "activity": "Ghosts Ahoy (Ghosts Ahoy/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Rum Deal",
+        "activity": "Rum Deal (Rum Deal/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Smithing 50",
+        "activity": "Train your Smithing to level 50",
+        "notes": "Recommended: Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Mining_and_Smithing_training|Efficient Mining and Smithing training]] section for guidance"
+      },
+      {
+        "rowId": "Necromancy 60",
+        "activity": "Train your Necromancy to level 60.",
+        "notes": "You can choose to train at Banshees, Fetid zombies, Flesh crawlers or Ghosts until level 60."
+      },
+      {
+        "rowId": "Vessel of the Harbinger",
+        "activity": "Vessel of the Harbinger (Vessel of the Harbinger/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Cabin Fever",
+        "activity": "Cabin Fever (Cabin Fever/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Legacy of Seergaze",
+        "activity": "Legacy of Seergaze (Legacy of Seergaze/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Underground pass",
+        "activity": "Underground Pass (Underground Pass/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Death to the Dergeshuun",
+        "activity": "Death to the Dorgeshuun (Death to the Dorgeshuun/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Giant Dwarf",
+        "activity": "The Giant Dwarf (The Giant Dwarf/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Another Slice of HAM",
+        "activity": "Another Slice of H.A.M. (Another Slice of H.A.M./Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Land of the Goblins",
+        "activity": "Land of the Goblins (Land of the Goblins/Quick guide)",
+        "notes": "How to obtain clean toadflax:"
+      },
+      {
+        "rowId": "Chosen Commander",
+        "activity": "The Chosen Commander (The Chosen Commander/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Family Crest",
+        "activity": "Family Crest (Family Crest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Temple of Ikov",
+        "activity": "Temple of Ikov (Temple of Ikov/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Thieving 62",
+        "activity": "Train your Thieving to level 62",
+        "notes": "Method to train Thieving: Low-level pickpocket targets. See [[Thieving training#Pickpocketing target progression|thieving training]] page for pickpocketing target progression. This is substantially faster than thieves guild doors since the thieving rework."
+      },
+      {
+        "rowId": "A Guild of Our Own mini",
+        "activity": "A Guild of Our Own (miniquest) (A Guild of Our Own (miniquest)/Quick guide)",
+        "notes": "To obtain grimy irit:"
+      },
+      {
+        "rowId": "Thieving 90",
+        "activity": "Train your Thieving to level 90",
+        "notes": ""
+      },
+      {
+        "rowId": "Ports daily",
+        "activity": "You can now start completing the Player-Owned Ports daily",
+        "notes": "You should do this activity every day"
+      },
+      {
+        "rowId": "One Small Favour",
+        "activity": "One Small Favour (One Small Favour/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": null,
+        "activity": "King's Ransom (King's Ransom/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Desert Treasure",
+        "activity": "Desert Treasure (Desert Treasure/Quick guide)",
+        "notes": "To obtain Magic Logs:"
+      },
+      {
+        "rowId": "Magic 65",
+        "activity": "Train your Magic to level 65. (66 for Magic Guild Weekly Rune shop stock.)",
+        "notes": "Recommended: Do this by killing Ogres located west of the Yanille lodestone"
+      },
+      {
+        "rowId": "AA",
+        "activity": "Ancient Awakening (Ancient Awakening/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fort T1 cont",
+        "activity": "Build the following:",
+        "notes": "construction 61"
+      },
+      {
+        "rowId": "Lunar Diplomacy",
+        "activity": "Lunar Diplomacy (Lunar Diplomacy/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Ports rep 6000",
+        "activity": "Get 6000 Menaphos reputation in the Port district",
+        "notes": "Make sure to right click port faction (overlay in Menaphos) and set active!"
+      },
+      {
+        "rowId": "Fishing 68",
+        "activity": "Train your Fishing to level 68",
+        "notes": "Do this in the Menaphos Port district. Deposit fish in the deposit box."
+      },
+      {
+        "rowId": "Cook many more fish",
+        "activity": "Cook all the raw food that you obtained whilst getting 68 Fishing",
+        "notes": "Remember to use Cooking gauntlets + Dwarven Army Axe"
+      },
+      {
+        "rowId": "Housing of Parliament",
+        "activity": "Housing of Parliament (Housing of Parliament/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Some like it Cold",
+        "activity": "Some Like It Cold (Some Like It Cold/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Back to the Freezer",
+        "activity": "Back to the Freezer (Back to the Freezer/Quick guide)",
+        "notes": "Come back for the Invention lamp after completing the Invention Tutorial"
+      },
+      {
+        "rowId": "Rune Mysteries",
+        "activity": "Rune Mysteries (Rune Mysteries/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Rune Memories",
+        "activity": "Rune Memories (Rune Memories/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Enter the Abyss mini",
+        "activity": "Enter the Abyss (miniquest) (Enter the Abyss (miniquest)/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Agility 56",
+        "activity": "Train your Agility to level 56",
+        "notes": "Recommended: Train at the Wilderness Agility Course. Remember to bring a Demonic Skull"
+      },
+      {
+        "rowId": "Regicide",
+        "activity": "Regicide (Regicide/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunter 50",
+        "activity": "Train your Hunter to level 50",
+        "notes": "Method To train Hunter:"
+      },
+      {
+        "rowId": "Hunter 62",
+        "activity": "Train your Hunter to level 62",
+        "notes": "Method To train Hunter:"
+      },
+      {
+        "rowId": "Hunter 63",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunter 67",
+        "activity": "",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunter 90",
+        "activity": "Recommended Optional: Train your Hunter to level 99",
+        "notes": "Method to train Hunter:"
+      },
+      {
+        "rowId": "Many sussy kills",
+        "activity": "Optional: Get T70 Necromancy armour and weapons",
+        "notes": "Full Set:"
+      }
+    ],
+    "part2": [
+      {
+        "rowId": "Go Shopping Keldagrim",
+        "activity": "Purchase the following items from the Crossbow Shop (Keldagrim) in Keldagrim",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Quartermaster",
+        "activity": "Purchase the following items from the Quartermaster's Stores",
+        "notes": ""
+      },
+      {
+        "rowId": "Get Vanquished",
+        "activity": "Obtain Vanquish from May.",
+        "notes": ""
+      },
+      {
+        "rowId": "Magic 80",
+        "activity": "Train your Magic to level 80",
+        "notes": "Method to train Magic:"
+      },
+      {
+        "rowId": "Defence 80",
+        "activity": "Train your Defence to level 80",
+        "notes": "Method to train Defence:"
+      },
+      {
+        "rowId": "Ranged 80",
+        "activity": "Train your Range to level 80",
+        "notes": "Method to train Range:"
+      },
+      {
+        "rowId": "Attack 80",
+        "activity": "Train your Attack to level 80",
+        "notes": "Method to train Attack:"
+      },
+      {
+        "rowId": "Stronk 80",
+        "activity": "Train your Strength to level 80",
+        "notes": "Method to train Strength:"
+      },
+      {
+        "rowId": "Summoning 37",
+        "activity": "Train your Summoning to level 37",
+        "notes": "Method to obtain charms:"
+      },
+      {
+        "rowId": "Buy BD",
+        "activity": "Obtain 63,000,000 Shattered anima and purchase the Bladed Dive ability from Shattered Worlds",
+        "notes": ""
+      }
+    ],
+    "part3": [
+      {
+        "rowId": "Visions of Havenhythe",
+        "activity": "Visions of Havenhythe (Visions of Havenhythe/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hearts of Sanguine",
+        "activity": "Hearts of Sanguine (Hearts of Sanguine/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Roving Elves",
+        "activity": "Roving Elves (Roving Elves/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "MEP1",
+        "activity": "Mourning's End Part I (Mourning's End Part I/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "MEP2",
+        "activity": "Mourning's End Part II (Mourning's End Part II/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Impressing the Locals",
+        "activity": "Impressing the Locals (Impressing the Locals/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Bringing Home the Bacon",
+        "activity": "Bringing Home the Bacon (Bringing Home the Bacon/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Legends Quest",
+        "activity": "Legends' Quest (Legends' Quest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Goblins",
+        "activity": "Recipe for Disaster: Freeing the Goblin Generals (Recipe for Disaster: Freeing the Goblin Generals/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Lumbridge",
+        "activity": "Recipe for Disaster: Freeing the Lumbridge Sage (Recipe for Disaster: Freeing the Lumbridge Sage/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Dwarf",
+        "activity": "Recipe for Disaster: Freeing the Mountain Dwarf (Recipe for Disaster: Freeing the Mountain Dwarf/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Pete",
+        "activity": "Recipe for Disaster: Freeing Pirate Pete (Recipe for Disaster: Freeing Pirate Pete/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Skrach",
+        "activity": "Recipe for Disaster: Freeing Skrach Uglogwee (Recipe for Disaster: Freeing Skrach Uglogwee/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Monkey",
+        "activity": "Recipe for Disaster: Freeing King Awowogei (Recipe for Disaster: Freeing King Awowogei/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD Amik Varze",
+        "activity": "Recipe for Disaster: Freeing Sir Amik Varze (Recipe for Disaster: Freeing Sir Amik Varze/Quick guide)",
+        "notes": "Note: You will have to farm a sweetcorn"
+      },
+      {
+        "rowId": "Bar Crawl mini",
+        "activity": "Bar Crawl (miniquest) (Bar Crawl (miniquest)/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Horror from the Deep",
+        "activity": "Horror from the Deep (Horror from the Deep/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "RFD End",
+        "activity": "Recipe for Disaster: Defeating the Culinaromancer (Recipe for Disaster: Defeating the Culinaromancer/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Eadgars Ruse",
+        "activity": "Eadgar's Ruse (Eadgar's Ruse/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Dream Mentor",
+        "activity": "Dream Mentor (Dream Mentor/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "My Arms Big Adventure",
+        "activity": "My Arm's Big Adventure (My Arm's Big Adventure/Quick guide)",
+        "notes": "Note: You can make super compost from pineapples found just north of the Karamja lodestone"
+      },
+      {
+        "rowId": "Smoking Kills",
+        "activity": "If you didn't do it earlier",
+        "notes": ""
+      },
+      {
+        "rowId": "Eyes of Glouphrie",
+        "activity": "The Eyes of Glouphrie (The Eyes of Glouphrie/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Path of Glouphrie",
+        "activity": "The Path of Glouphrie (The Path of Glouphrie/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Knight Waves",
+        "activity": "Knight Waves training ground",
+        "notes": ""
+      },
+      {
+        "rowId": "What Lies Below",
+        "activity": "What Lies Below (What Lies Below/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunt for Surok mini",
+        "activity": "The Hunt for Surok (miniquest) (The Hunt for Surok (miniquest)/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hand in the Sand",
+        "activity": "The Hand in the Sand (The Hand in the Sand/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Garden of Tranquillity",
+        "activity": "Garden of Tranquillity (Garden of Tranquillity/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Tale of the Muspah",
+        "activity": "The Tale of the Muspah (The Tale of the Muspah/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Missing My Mummy",
+        "activity": "Missing My Mummy (Missing My Mummy/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Tail of Two Cats",
+        "activity": "A Tail of Two Cats (A Tail of Two Cats/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Great Brain Robbery",
+        "activity": "The Great Brain Robbery (The Great Brain Robbery/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fairy Tale 1",
+        "activity": "A Fairy Tale I - Growing Pains (A Fairy Tale I - Growing Pains/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fairy Tale 2",
+        "activity": "A Fairy Tale II - Cure a Queen (A Fairy Tale II - Cure a Queen/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fairy Tale 3",
+        "activity": "A Fairy Tale III - Battle at Ork's Rift (A Fairy Tale III - Battle at Ork's Rift/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Enakhras Lament",
+        "activity": "Enakhra's Lament (Enakhra's Lament/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "All Fired Up",
+        "activity": "All Fired Up (All Fired Up/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "World Wakes",
+        "activity": "The World Wakes (The World Wakes/Quick guide)",
+        "notes": "Destroy all of the reward lamps (they can be reclaimed later)"
+      },
+      {
+        "rowId": "Making History",
+        "activity": "Making History (Making History/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Meeting History",
+        "activity": "Meeting History (Meeting History/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Dishonour among Thieves",
+        "activity": "Dishonour among Thieves (Dishonour among Thieves/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "You Are it",
+        "activity": "You Are It (You Are It/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Needle Skips",
+        "activity": "The Needle Skips (The Needle Skips/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Desperate Times",
+        "activity": "Desperate Times (Desperate Times/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Imp Catcher",
+        "activity": "Imp Catcher (Imp Catcher/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Wanted",
+        "activity": "Wanted! (Wanted!/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Quiet Before the Swarm",
+        "activity": "Quiet Before the Swarm (Quiet Before the Swarm/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Heart of Stone",
+        "activity": "Heart of Stone (Heart of Stone/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Tai Bwo Wannai Trio",
+        "activity": "Tai Bwo Wannai Trio (Tai Bwo Wannai Trio/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Dwarf Cannon",
+        "activity": "Dwarf Cannon (Dwarf Cannon/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Death of Chivalry",
+        "activity": "The Death of Chivalry (The Death of Chivalry/Quick guide)",
+        "notes": ""
+      }
+    ],
+    "part4": [
+      {
+        "rowId": "Dung token 143k",
+        "activity": "Obtain 128,500 Dungeoneering token by training Dungeoneering",
+        "notes": ""
+      },
+      {
+        "rowId": "Go Shopping Dung",
+        "activity": "Purchase the following from the Dungeoneering/Rewards:",
+        "notes": ""
+      },
+      {
+        "rowId": "Magic 90",
+        "activity": "Train your Magic to level 90",
+        "notes": ""
+      },
+      {
+        "rowId": "Defence 90",
+        "activity": "Train your Defence to level 90",
+        "notes": ""
+      },
+      {
+        "rowId": "Necromancy 90",
+        "activity": "Train your Necromancy to level 90",
+        "notes": "Optional: Can level your Smithing and Crafting along the way to upgrade your Necromancy gear as you go"
+      },
+      {
+        "rowId": "Range 90",
+        "activity": "Train your Range to level 90",
+        "notes": ""
+      },
+      {
+        "rowId": "Attack 90",
+        "activity": "Train your Attack to level 90",
+        "notes": ""
+      },
+      {
+        "rowId": "Stronk 90",
+        "activity": "Train your Strength to level 90",
+        "notes": ""
+      },
+      {
+        "rowId": "Summoning 75",
+        "activity": "Train your Summoning to level 75",
+        "notes": "Method to obtain charms:"
+      },
+      {
+        "rowId": "Prayer 75",
+        "activity": "Train your Prayer to level 75",
+        "notes": "Obtain noted dragon bones by killing Vindicta & Gorvek"
+      }
+    ],
+    "part5": [
+      {
+        "rowId": "Woodcutting 61",
+        "activity": "Train your Woodcutting to level 61",
+        "notes": "Method to train Woodcutting:"
+      },
+      {
+        "rowId": "As a First Resort",
+        "activity": "As a First Resort (As a First Resort/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fletching 52",
+        "activity": "Train your Fletching to level 52",
+        "notes": "Method to train Fletching"
+      },
+      {
+        "rowId": "Catapult Construction",
+        "activity": "Catapult Construction (Catapult Construction/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "A Void Dance",
+        "activity": "A Void Dance (A Void Dance/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Rexy time",
+        "activity": "Obtain a Dragon hatchet by killing Dagannoth Rex",
+        "notes": ""
+      },
+      {
+        "rowId": "Woodcutting 79",
+        "activity": "Train your Woodcutting to level 79",
+        "notes": "Method to train Woodcutting:"
+      },
+      {
+        "rowId": "Firemaking 75",
+        "activity": "Train your Firemaking to level 75",
+        "notes": "Do this by burning the Maple logs and Acadia logs from your bank"
+      },
+      {
+        "rowId": "Smithing 80",
+        "activity": "If you did not get it earlier,",
+        "notes": "Recommended: Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Mining and Smithing training|Efficient Mining and Smithing training]] section for guidance"
+      },
+      {
+        "rowId": "Defender of Varrock",
+        "activity": "Defender of Varrock (Defender of Varrock/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Devious Minds",
+        "activity": "Devious Minds (Devious Minds/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Crafting 76",
+        "activity": "Train your Crafting to level 76",
+        "notes": "Method to train Crafting:"
+      },
+      {
+        "rowId": "Agility 77",
+        "activity": "Train your Agility to level 77",
+        "notes": "Method to train Agility:"
+      },
+      {
+        "rowId": "Slayer 67",
+        "activity": "Train your Slayer to level 67",
+        "notes": "Optional: Unlock Tuska's Wrath at Anima Islands minigame"
+      },
+      {
+        "rowId": "Slayer points 300",
+        "activity": "Obtain 300 Slayer points",
+        "notes": ""
+      },
+      {
+        "rowId": "Broad arrow making",
+        "activity": "Purchase the ability to craft broad arrows from a slayer master",
+        "notes": ""
+      },
+      {
+        "rowId": "Fletching 75",
+        "activity": "Train your Fletching to level 75",
+        "notes": "Method to train Fletching:"
+      },
+      {
+        "rowId": "Easy Wildy cheevos",
+        "activity": "Complete the Easy Wilderness achievements",
+        "notes": ""
+      },
+      {
+        "rowId": "Medium Wildy cheevos",
+        "activity": "Complete the Medium Wilderness achievements",
+        "notes": ""
+      },
+      {
+        "rowId": "Branches of Darkmeyer",
+        "activity": "The Branches of Darkmeyer (The Branches of Darkmeyer/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Kindred Spirits",
+        "activity": "Kindred Spirits (Kindred Spirits/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "While Guthix Sleeps",
+        "activity": "While Guthix Sleeps (While Guthix Sleeps/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Spirit of Summer",
+        "activity": "Spirit of Summer (Spirit of Summer/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Summers End",
+        "activity": "Summer's End (Summer's End/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hard Wildy Cheevos",
+        "activity": "Complete the Hard Wilderness achievements",
+        "notes": ""
+      },
+      {
+        "rowId": "Curse of Arrav",
+        "activity": "The Curse of Arrav (The Curse of Arrav/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Temple at Senntisten",
+        "activity": "The Temple at Senntisten (The Temple at Senntisten/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Rocking Out",
+        "activity": "Rocking Out (Rocking Out/Quick guide)",
+        "notes": "Optional: Keepsake the Prisoner outfit while on the island if you wish to keep it"
+      },
+      {
+        "rowId": "The Slug Menace",
+        "activity": "The Slug Menace (The Slug Menace/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Ritual of the Mahjarrat",
+        "activity": "Ritual of the Mahjarrat (Ritual of the Mahjarrat/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Guthix Lampage",
+        "activity": "Reclaim the 3 Ancient lamp from Guthix's Cave",
+        "notes": ""
+      },
+      {
+        "rowId": "Construction 70",
+        "activity": "Train your Construction to level 70",
+        "notes": "Method to train Construction:"
+      },
+      {
+        "rowId": "Construction 79",
+        "activity": "Train your Construction to level 79",
+        "notes": "Method to train Construction:"
+      },
+      {
+        "rowId": "Within the Light",
+        "activity": "Within the Light (Within the Light/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Dung 75",
+        "activity": "Train your Dungeoneering to level 75",
+        "notes": ""
+      },
+      {
+        "rowId": "Plagues End",
+        "activity": "Plague's End (Plague's End/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Hunter 76",
+        "activity": "Train your Hunter to level 76",
+        "notes": "Method to train Hunter:"
+      },
+      {
+        "rowId": "One of a Kind",
+        "activity": "One of a Kind (One of a Kind/Quick guide)",
+        "notes": "Post-Quest: Speak to the Submerged Statue on Entrana for 25,000 bonus XP."
+      },
+      {
+        "rowId": "Slayer 78",
+        "activity": "Train your Slayer to level 78",
+        "notes": ""
+      },
+      {
+        "rowId": "Lord of Vampyrium",
+        "activity": "The Lord of Vampyrium (The Lord of Vampyrium/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Sliske Lamping",
+        "activity": "Reclaim the 30,000 experience lamp from Sliske inside of the Empyrean Citadel.",
+        "notes": ""
+      },
+      {
+        "rowId": "Herblore 80",
+        "activity": "Train your Herblore to level 80",
+        "notes": "Method to train Herblore:"
+      },
+      {
+        "rowId": "River of Blood",
+        "activity": "River of Blood (River of Blood/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Archaeology 74",
+        "activity": "Train your Archaeology to level 74",
+        "notes": "Check out the [[Ironman Mode/Strategies/Efficient Ironman Pathway Guide#Archaeology training|Efficient Archaeology training]] section for guidance"
+      },
+      {
+        "rowId": "Vault of Shadows",
+        "activity": "The Vault of Shadows (The Vault of Shadows/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Desperate Measures",
+        "activity": "Desperate Measures (Desperate Measures/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Desperate Creatures",
+        "activity": "Desperate Creatures (Desperate Creatures/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Raksha, the Shadow Colossus (quest)",
+        "activity": "Raksha, the Shadow Colossus (quest) (Raksha, the Shadow Colossus (quest))",
+        "notes": ""
+      },
+      {
+        "rowId": "Azzanadras Quest",
+        "activity": "Azzanadra's Quest (Azzanadra's Quest/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Battle of the Monolith",
+        "activity": "Battle of the Monolith (Battle of the Monolith/Quick guide)",
+        "notes": "You can skill during this miniquest using the bank inside of the Digsite Exam Centre"
+      },
+      {
+        "rowId": "City of Senntisten",
+        "activity": "City of Senntisten (City of Senntisten/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Eye of Het 1",
+        "activity": "Eye of Het I (Eye of Het I/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Eye of Het 2",
+        "activity": "Eye of Het II (Eye of Het II/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Sins of the Father",
+        "activity": "Sins of the Father (Sins of the Father/Quick guide)",
+        "notes": "This quest requires either 85 Smithing/Runecrafting/Invention or Crafting"
+      },
+      {
+        "rowId": "Extinction",
+        "activity": "Extinction (Extinction/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Void Stares Back",
+        "activity": "The Void Stares Back (The Void Stares Back/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Mighty Fall",
+        "activity": "The Mighty Fall (The Mighty Fall/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Nomads Requiem",
+        "activity": "Nomad's Requiem (Nomad's Requiem/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Nomads Elegy",
+        "activity": "Nomad's Elegy (Nomad's Elegy/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Barbarian Training",
+        "activity": "Complete Barbarian Training",
+        "notes": ""
+      },
+      {
+        "rowId": "Heros Welcome",
+        "activity": "Hero's Welcome (Hero's Welcome/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Fate of the Gods",
+        "activity": "Fate of the Gods (Fate of the Gods/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Crafting 83",
+        "activity": "Train your Crafting to level 83",
+        "notes": "Train by playing Harps in Prifddinas"
+      },
+      {
+        "rowId": "ToG Bowl upgrade",
+        "activity": "Upgrade your Ornate bowl",
+        "notes": ""
+      },
+      {
+        "rowId": "Agility 80",
+        "activity": "Train your Agility to level 80",
+        "notes": "Method to train Agility:"
+      },
+      {
+        "rowId": "Prayer 80",
+        "activity": "Train your Prayer to level 80",
+        "notes": "Methods to train Prayer:"
+      },
+      {
+        "rowId": "Prayer Lamp Guthix",
+        "activity": "Reclaim the 250,000 Prayer XP lamp from Guthixian High Druid",
+        "notes": "Requires level 80 Prayer to use"
+      },
+      {
+        "rowId": "Slayer 80",
+        "activity": "Train your Slayer to level 80",
+        "notes": ""
+      },
+      {
+        "rowId": "The Light Within",
+        "activity": "The Light Within (The Light Within/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Children of Mah",
+        "activity": "Children of Mah (Children of Mah/Quick guide)",
+        "notes": ""
+      },
+      {
+        "rowId": "Sliskes Endgame",
+        "activity": "Sliske's Endgame (Sliske's Endgame/Quick guide)",
+        "notes": "}"
+      }
+    ]
+  },
+  "counts": {
+    "part1": 246,
+    "part2": 10,
+    "part3": 52,
+    "part4": 10,
+    "part5": 71
+  }
+}
