@@ -36,13 +36,36 @@ git push -u origin main
 
 Replace `YOUR_USERNAME` with your GitHub username.
 
-3. **Enable Pages**:
+3. **Enable Pages** (important — use **branch** deploy, not Actions):
+
    - Repo → **Settings** → **Pages**
-   - **Build and deployment** → Source: **Deploy from a branch**
+   - **Build and deployment** → Source: **Deploy from a branch** ← not “GitHub Actions”
    - Branch: **main** → folder **/ (root)** → Save
    - Wait 1–2 minutes; your site will be at:
 
    `https://YOUR_USERNAME.github.io/rs3-ironman-pathway/`
+
+   For this repo: [https://jamesfrostsoftware.github.io/rs3-ironman-pathway/](https://jamesfrostsoftware.github.io/rs3-ironman-pathway/)
+
+### Pages workflow stuck or “failed to cancel”
+
+If **Actions** shows `pages build and deployment` **Queued** forever, or cancel fails — that is a GitHub platform issue, not your code. Copilot is right: the tracker is plain HTML/CSS/JS and does not need a build.
+
+**Fix (recommended):**
+
+1. **Settings** → **Pages**
+2. Under **Build and deployment**, change **Source** from **GitHub Actions** to **Deploy from a branch**
+3. Pick **main** and **/ (root)**, then **Save**
+4. Ignore the old queued run (it may never start; you often cannot cancel queued runs)
+5. After ~1–2 minutes, open your Pages URL — you should see a green “Last deployed” time on the Pages settings tab
+
+**If branch deploy also fails:**
+
+- **Settings** → **Actions** → **General** → ensure “Allow all actions” (or at least allow GitHub-owned actions)
+- Confirm the repo is **Public** (private Pages needs a paid plan unless you have GitHub Pro)
+- Re-save Pages settings (toggle branch to something else, Save, then back to **main** / root)
+
+**You do not need any `.github/workflows` file** for this project. Delete custom Pages workflows if you added one by mistake — branch deploy serves `index.html` directly.
 
 ### What works on GitHub Pages
 
