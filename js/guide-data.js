@@ -1,10 +1,12 @@
 import { quickGuideUrl, wikiPageUrl } from './user-profile.js';
+import { getQuestRequirements } from './quest-requirements.js';
 
 function q(name, notes = '', skills = [], extras = {}) {
+  const wikiReqs = getQuestRequirements(name);
   return {
     title: name,
     notes,
-    skills,
+    skills: wikiReqs.length ? wikiReqs : skills,
     wiki: extras.wiki || quickGuideUrl(name),
     tags: extras.tags || ['quest'],
     repeat: extras.repeat || null,
@@ -142,7 +144,7 @@ export const GUIDE_PARTS = [
       step('Travel to Ardougne & activate lodestone', 'Pull Edgeville↔Wilderness levers for fast travel (no PvP unless toggled).', [], { tags: ['lodestone'] }),
       pof(
         'PoF prep: verify 17 Farming & 20 Construction',
-        'You have Farming 17 and Construction 65 — ready for Manor Farm. Bank oak planks for small pens (10 oak + 75 steel nails each).',
+        'You need Farming 17 and Construction 20 for Manor Farm. Bank oak planks for small pens (10 oak + 75 steel nails each).',
         [
           { skill: 'Farming', level: 17 },
           { skill: 'Construction', level: 20 },
@@ -240,8 +242,8 @@ export const GUIDE_PARTS = [
       q('Merlin\'s Crystal', 'Keep replaying for hair clips (Desert Treasure prep).', [{ skill: 'Prayer', level: 31 }]),
       pvm(
         'Enhanced Excalibur (hard Seers\' Village achievements)',
-        'After Merlin\'s Crystal — complete hard Seers tasks when ready; elite doubles heal duration.',
-        [{ skill: 'Prayer', level: 31 }],
+        'After Merlin\'s Crystal — complete hard Seers\' Village tasks when ready; elite doubles heal duration.',
+        [],
         { wiki: 'https://runescape.wiki/w/Enhanced_Excalibur' }
       ),
       q('Holy Grail', '1 XP lamp Strength.', [{ skill: 'Prayer', level: 15 }]),
@@ -424,7 +426,7 @@ export const GUIDE_PARTS = [
       prep(
         'Chop mahogany & smith rune nails for PoF large pen',
         'See Materials box below. Return to large pen deed when Farming 49.',
-        [{ skill: 'Woodcutting', level: 50 }, { skill: 'Smithing', level: 85 }]
+        [{ skill: 'Woodcutting', level: 50 }, { skill: 'Smithing', level: 50 }]
       ),
       q('Haunted Mine', '', [{ skill: 'Agility', level: 57 }]),
       q('Lair of Tarn Razorlor (miniquest)', 'Use diary on Salve amulet.', [{ skill: 'Slayer', level: 40 }]),
@@ -441,15 +443,15 @@ export const GUIDE_PARTS = [
       step('Buy adamant & rune pickaxes; train DG for 2000 tokens', 'High complexity small floors.', [{ skill: 'Dungeoneering', level: 5 }]),
       step('Buy Gem bag (2000 DG tokens)', '', [{ skill: 'Dungeoneering', level: 5 }]),
       step('Train Mining to 60 & Crafting to 61', 'Al Kharid uncommon gem rocks + gem bag.', [{ skill: 'Mining', level: 60 }, { skill: 'Crafting', level: 61 }]),
-      q('Shield of Arrav', '', [{ skill: 'Mining', level: 61 }]),
+      q('Shield of Arrav', '', []),
       q('Lost City', '', [{ skill: 'Crafting', level: 61 }]),
       q('Heroes\' Quest', '', [{ skill: 'Cooking', level: 61 }]),
-      q('Throne of Miscellania', '', [{ skill: 'Agility', level: 61 }]),
+      q('Throne of Miscellania', '', []),
       q('Royal Trouble', '', [{ skill: 'Agility', level: 61 }]),
       step('Start Managing Miscellania weekly', 'Mahogany full bar; maple remainder. Requires mahogany from prep step or kingdom trees.', [], { tags: ['weekly'], repeat: 'weekly' }),
       q('Tears of Guthix (quest)', '', [{ skill: 'Mining', level: 61 }]),
       step('Start Tears of Guthix weekly', 'Juna in Lumbridge Swamp Caves.', [], { tags: ['weekly'], repeat: 'weekly' }),
-      q('Pirate\'s Treasure', '', [{ skill: 'Cooking', level: 61 }]),
+      q('Pirate\'s Treasure', '', []),
       step('Train Prayer to 47', 'Dragon bones at Chaos altar.', [{ skill: 'Prayer', level: 47 }]),
       q('Ghosts Ahoy', '', [{ skill: 'Prayer', level: 47 }]),
       q('Rum Deal', '', [{ skill: 'Fishing', level: 61 }]),
@@ -481,12 +483,12 @@ export const GUIDE_PARTS = [
       step('Train Thieving to 90', '', [{ skill: 'Thieving', level: 90 }]),
       step('Start Player-Owned Ports daily', 'Requires 90 in one port skill.', [{ skill: 'Any Port Skill', level: 90 }], { tags: ['daily'], repeat: 'daily' }),
       q('One Small Favour', '', [{ skill: 'Agility', level: 61 }]),
-      q('King\'s Ransom', '', [{ skill: 'Defence', level: 61 }]),
-      q('Desert Treasure', 'Unlock safecrack (Thieves\' Guild). Buy/master lockpick. Hair clips from replaying Merlin\'s Crystal.', [{ skill: 'Thieving', level: 61 }]),
+      q('King\'s Ransom', '', []),
+      q('Desert Treasure', 'Unlock safecrack (Thieves\' Guild). Buy/master lockpick. Hair clips from replaying Merlin\'s Crystal.', []),
       q(
         'Contact!',
         'Keris — hard Desert achievements for Kalphite King/Queen.',
-        [{ skill: 'Thieving', level: 65 }],
+        [],
         { tags: ['pvm', 'quest'] }
       ),
       step(
@@ -494,7 +496,7 @@ export const GUIDE_PARTS = [
         'Original pathway order: after Desert Treasure, before Ancient Awakening. Ogres west of Yanille lodestone recommended.',
         [{ skill: 'Magic', level: 65 }]
       ),
-      q('Ancient Awakening', 'Required before Botanist\'s Workbench at Fort Forinthry.', [{ skill: 'Prayer', level: 61 }]),
+      q('Ancient Awakening', 'Required before Botanist\'s Workbench at Fort Forinthry.', []),
       step(
         'Build Fort Forinthry: Botanist\'s Workbench T1',
         'Requires Ancient Awakening complete. Unlocks herb cleaning and potion decanting at the fort.',
@@ -504,12 +506,12 @@ export const GUIDE_PARTS = [
       step('Get 6000 Menaphos Port reputation', 'Soulobby FC + soul obelisks; fish with faction active.', [{ skill: 'Fishing', level: 61 }]),
       step('Train Fishing to 68', '', [{ skill: 'Fishing', level: 68 }]),
       step('Cook all raw fish from Menaphos training', 'Cooking gauntlets + Dwarven Army Axe.', [{ skill: 'Cooking', level: 68 }]),
-      q('Housing of Parliament', '', [{ skill: 'Construction', level: 61 }]),
+      q('Housing of Parliament', '', []),
       q('Some Like It Cold', '', [{ skill: 'Thieving', level: 61 }]),
-      q('Back to the Freezer', 'Claim Invention lamp from Chuck after Invention tutorial (later).', [{ skill: 'Thieving', level: 61 }]),
+      q('Back to the Freezer', 'Claim Invention lamp from Chuck after Invention tutorial (later).', []),
       q('Rune Mysteries', '', [{ skill: 'Runecrafting', level: 1 }]),
       q('Rune Memories', '', [{ skill: 'Runecrafting', level: 1 }]),
-      q('Enter the Abyss', '', [{ skill: 'Runecrafting', level: 61 }]),
+      q('Enter the Abyss', '', []),
       step('Train Agility to 56', 'Wilderness course (regular) or Northern Anachronia (HCIM).', [{ skill: 'Agility', level: 56 }]),
       q('Regicide', '', [{ skill: 'Agility', level: 56 }]),
       step('Train Hunter to 62 (guide checkpoint)', '', [{ skill: 'Hunter', level: 62 }]),
@@ -620,25 +622,19 @@ export const GUIDE_PARTS = [
       q('Hearts of Sanguine', 'Unlocks Silverquill / havensilver bolts.', []),
       q('Roving Elves', 'Requires Regicide (done in Part 1).', [{ skill: 'Agility', level: 56 }]),
       q('Mourning\'s End Part I', '', [{ skill: 'Ranged', level: 60 }]),
-      q('Mourning\'s End Part II', '', [{ skill: 'Thieving', level: 70 }]),
-      q('Impressing the Locals', '', [{ skill: 'Agility', level: 70 }]),
-      q(
-        'Curse of the Black Stone',
-        '10% damage reduction in Temple of Aminishi, Dragonkin Laboratory & Shadow Reef.',
-        [{ skill: 'Agility', level: 70 }],
-        { tags: ['pvm', 'quest'] }
-      ),
-      q('Bringing Home the Bacon', '', [{ skill: 'Summoning', level: 60 }]),
+      q('Mourning\'s End Part II', '', []),
+      q('Impressing the Locals', '', []),
+      q('Bringing Home the Bacon', '', []),
       q('Legends\' Quest', '', [{ skill: 'Magic', level: 80 }]),
-      q('Recipe for Disaster: Freeing the Goblin Generals', '', [{ skill: 'Agility', level: 70 }]),
+      q('Recipe for Disaster: Freeing the Goblin Generals', '', []),
       q('Recipe for Disaster: Freeing the Lumbridge Sage', '', [{ skill: 'Cooking', level: 70 }]),
-      q('Recipe for Disaster: Freeing the Mountain Dwarf', '', [{ skill: 'Fishing', level: 70 }]),
+      q('Recipe for Disaster: Freeing the Mountain Dwarf', '', []),
       q('Recipe for Disaster: Freeing Pirate Pete', '', [{ skill: 'Agility', level: 70 }]),
       q('Recipe for Disaster: Freeing Skrach Uglogwee', '', [{ skill: 'Cooking', level: 70 }]),
       q('Recipe for Disaster: Freeing King Awowogei', '', [{ skill: 'Cooking', level: 70 }]),
-      q('Recipe for Disaster: Freeing Sir Amik Varze', 'Farm a sweetcorn.', [{ skill: 'Cooking', level: 70 }]),
-      q('Bar Crawl (miniquest)', '', [{ skill: 'Attack', level: 70 }]),
-      q('Horror from the Deep', 'Choose god book (Wisdom if stationary, Law if moving).', [{ skill: 'Magic', level: 80 }]),
+      q('Recipe for Disaster: Freeing Sir Amik Varze', 'Farm a sweetcorn.', []),
+      q('Bar Crawl (miniquest)', '', []),
+      q('Horror from the Deep', 'Choose god book (Wisdom if stationary, Law if moving).', []),
       prep(
         'Collect 4 torn god pages for Illuminate',
         'One page each from Guthix/Saradomin/Zamorak/Bandos emissaries (reputation grind). See god emissaries page for locations.',
@@ -653,7 +649,7 @@ export const GUIDE_PARTS = [
       ),
       q('Recipe for Disaster: Defeating the Culinaromancer', '', [{ skill: 'Cooking', level: 70 }]),
       q('Eadgar\'s Ruse', '', [{ skill: 'Herblore', level: 80 }]),
-      q('Dream Mentor', '', [{ skill: 'Magic', level: 80 }]),
+      q('Dream Mentor', '', []),
       prep(
         'Gather pineapples for My Arm\'s Big Adventure',
         'North of Karamja lodestone: pick pineapples from patches → make supercompost in bin (needed during quest).',
@@ -674,32 +670,32 @@ export const GUIDE_PARTS = [
       q('Garden of Tranquillity', 'Plant seeds from gather step during quest.', [{ skill: 'Farming', level: 80 }]),
       q('The Tale of the Muspah', '', [{ skill: 'Magic', level: 80 }]),
       q('Missing My Mummy', '', [{ skill: 'Magic', level: 80 }]),
-      q('A Tail of Two Cats', '', [{ skill: 'Magic', level: 80 }]),
+      q('A Tail of Two Cats', '', []),
       q('The Great Brain Robbery', '', [{ skill: 'Crafting', level: 80 }]),
       prep(
         'Gather crops for A Fairy Tale I - Growing Pains',
         'If Falador allotment patches are empty: cabbage, onion, potato, wheat seeds + compost + secateurs. Quest inspects and cures diseased crops on those patches.',
         [{ skill: 'Farming', level: 17 }]
       ),
-      q('A Fairy Tale I - Growing Pains', 'Uses allotment crops/seeds from gather step.', [{ skill: 'Farming', level: 80 }]),
+      q('A Fairy Tale I - Growing Pains', 'Uses allotment crops/seeds from gather step.', []),
       q('A Fairy Tale II - Cure a Queen', '', [{ skill: 'Thieving', level: 80 }]),
       q('A Fairy Tale III - Battle at Ork\'s Rift', '', [{ skill: 'Magic', level: 80 }]),
       q('Enakhra\'s Lament', '', [{ skill: 'Magic', level: 80 }]),
       q('All Fired Up', '', [{ skill: 'Firemaking', level: 80 }]),
-      q('The World Wakes', 'Destroy lamps — reclaim later. Unlock Death\'s Swiftness & Sunshine; add to ability bar for bosses.', [{ skill: 'Magic', level: 80 }]),
+      q('The World Wakes', 'Destroy lamps — reclaim later. Unlock Death\'s Swiftness & Sunshine; add to ability bar for bosses.', []),
       q('Making History', '', [{ skill: 'Prayer', level: 80 }]),
       q('Meeting History', '', [{ skill: 'Farming', level: 80 }]),
       q('Dishonour among Thieves', '', [{ skill: 'Agility', level: 80 }]),
-      q('You Are It', '', [{ skill: 'Thieving', level: 80 }]),
-      q('The Needle Skips', '', [{ skill: 'Crafting', level: 80 }]),
-      q('Desperate Times', '', [{ skill: 'Magic', level: 80 }]),
-      q('Imp Catcher', '', [{ skill: 'Magic', level: 80 }]),
-      q('Wanted!', '', [{ skill: 'Slayer', level: 80 }]),
-      q('Quiet Before the Swarm', '', [{ skill: 'Slayer', level: 80 }]),
-      q('Heart of Stone', '', [{ skill: 'Magic', level: 80 }]),
-      q('Tai Bwo Wannai Trio', '', [{ skill: 'Agility', level: 80 }]),
-      q('Dwarf Cannon', '', [{ skill: 'Agility', level: 80 }]),
-      q('The Death of Chivalry', '', [{ skill: 'Attack', level: 80 }]),
+      q('You Are It', '', []),
+      q('The Needle Skips', '', []),
+      q('Desperate Times', '', []),
+      q('Imp Catcher', '', []),
+      q('Wanted!', '', []),
+      q('Quiet Before the Swarm', '', []),
+      q('Heart of Stone', '', []),
+      q('Tai Bwo Wannai Trio', '', []),
+      q('Dwarf Cannon', '', []),
+      q('The Death of Chivalry', '', []),
     ],
   },
   {
@@ -709,31 +705,17 @@ export const GUIDE_PARTS = [
     steps: [
       step('128,500 DG tokens — Charming imp, Bonecrusher, Twisted bird skull, Gem bag upgrade', '', [{ skill: 'Dungeoneering', level: 5 }]),
       pvm(
-        'Buy Ring of vigour (50,000 DG tokens)',
-        'Make passive after Extinction warped gem — essential for bossing.',
-        [{ skill: 'Dungeoneering', level: 5 }],
-        { wiki: 'https://runescape.wiki/w/Ring_of_vigour' }
-      ),
-      pvm(
         'Buy Spirit cape (45,000 DG tokens)',
-        'Permanently reduces familiar special move cost by 20%.',
+        'Permanently reduces familiar special move cost by 20% — buy before Summoning training.',
         [{ skill: 'Dungeoneering', level: 5 }],
         { wiki: 'https://runescape.wiki/w/Spirit_cape' }
       ),
-      pvm(
-        'War\'s Retreat — progress War\'s Wares unlocks',
-        '10 kills: campfire. 100: teleport. 200: boss portal. 500: Altar of War. 1000: cooldown reset. 2000: adrenaline crystals.',
-        [],
-        { wiki: 'https://runescape.wiki/w/War%27s_Retreat' }
-      ),
       step('Train Summoning to 75', '', [{ skill: 'Summoning', level: 75 }]),
-      prep(
-        'Kill Vindicta for noted dragon bones',
-        'Requires Ritual of the Mahjarrat + quest progression. Noted bones for Prayer 75 grind.',
-        [{ skill: 'Combat', level: 85 }],
-        { wiki: 'https://runescape.wiki/w/Vindicta' }
+      step(
+        'Train Prayer to 75',
+        'Use dragon bones from blues/greens until Ritual of the Mahjarrat unlocks Vindicta (Part 5). Then farm noted bones there.',
+        [{ skill: 'Prayer', level: 75 }]
       ),
-      step('Train Prayer to 75', 'Use noted dragon bones from Vindicta; Chaos altar or Ectofuntus (HCIM).', [{ skill: 'Prayer', level: 75 }]),
       step('Train Magic to 90', '', [{ skill: 'Magic', level: 90 }]),
       step('Train Defence to 90', '', [{ skill: 'Defence', level: 90 }]),
       step('Train Necromancy to 90', 'Optional: smith/craft gear upgrades along the way.', [{ skill: 'Necromancy', level: 90 }]),
@@ -771,7 +753,13 @@ export const GUIDE_PARTS = [
       q('The Temple at Senntisten', '', [{ skill: 'Prayer', level: 77 }]),
       q('Rocking Out', '', [{ skill: 'Agility', level: 77 }]),
       q('The Slug Menace', '', [{ skill: 'Slayer', level: 77 }]),
-      q('Ritual of the Mahjarrat', '', [{ skill: 'Agility', level: 77 }]),
+      q('Ritual of the Mahjarrat', '', []),
+      prep(
+        'Kill Vindicta for noted dragon bones',
+        'Requires Ritual of the Mahjarrat. Noted bones for Prayer 80+ grinds and daily farming.',
+        [{ skill: 'Combat', level: 85 }],
+        { wiki: 'https://runescape.wiki/w/Vindicta' }
+      ),
       step('Reclaim 3 Ancient lamps from Guthix\'s Cave', '', []),
       step('Train Construction to 70 then 79', 'Contracts or Fort Forinthry.', [{ skill: 'Construction', level: 79 }]),
       q('Within the Light', '', [{ skill: 'Agility', level: 77 }]),
@@ -780,7 +768,7 @@ export const GUIDE_PARTS = [
       q(
         'Beneath Scabaras\' Sands',
         'Primed keris — consecrated keris after 200 elite profane scabarites.',
-        [{ skill: 'Slayer', level: 80 }],
+        [],
         { tags: ['pvm', 'quest'] }
       ),
       q('One of a Kind', '', [{ skill: 'Hunter', level: 76 }]),
@@ -789,40 +777,22 @@ export const GUIDE_PARTS = [
       step('Train Herblore to 80', '', [{ skill: 'Herblore', level: 80 }]),
       q('River of Blood', '', [{ skill: 'Agility', level: 77 }]),
       step('Train Archaeology to 74', 'See archaeology miniguide.', [{ skill: 'Archaeology', level: 74 }]),
-      q('The Vault of Shadows', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Desperate Measures', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Desperate Creatures', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Raksha, the Shadow Colossus (quest)', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Azzanadra\'s Quest', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Battle of the Monolith', 'Can skill at Digsite Exam Centre bank.', [{ skill: 'Archaeology', level: 74 }]),
-      q('City of Senntisten', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Eye of Het I', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Eye of Het II', '', [{ skill: 'Archaeology', level: 74 }]),
-      q('Sins of the Father', '', [{ skill: 'Agility', level: 77 }]),
-      q('Extinction', 'Combine warped gem with Ring of vigour for passive effect (no slot needed).', [{ skill: 'Agility', level: 77 }]),
-      q(
-        'Succession',
-        'Dive ability + Infernal Puzzle Box on toolbelt. Infernus & Wilderness damage bonuses.',
-        [{ skill: 'Agility', level: 77 }],
-        { tags: ['pvm', 'quest'] }
-      ),
-      q(
-        'Daughter of Chaos',
-        'Upgrades Infernal Puzzle Box — reduced environmental damage in Infernus.',
-        [{ skill: 'Agility', level: 77 }],
-        { tags: ['pvm', 'quest'] }
-      ),
-      q(
-        'Song from the Depths',
-        'Reduced incoming damage vs Queen Black Dragon.',
-        [{ skill: 'Magic', level: 90 }],
-        { tags: ['pvm', 'quest'] }
-      ),
-      q(
-        'Twilight of the Gods',
-        '10% damage reduction vs Zamorak, Lord of Chaos.',
-        [{ skill: 'Magic', level: 90 }],
-        { tags: ['pvm', 'quest'] }
+      q('The Vault of Shadows', '', []),
+      q('Desperate Measures', '', []),
+      q('Desperate Creatures', '', []),
+      q('Raksha, the Shadow Colossus (quest)', '', []),
+      q('Azzanadra\'s Quest', '', []),
+      q('Battle of the Monolith', 'Can skill at Digsite Exam Centre bank.', []),
+      q('City of Senntisten', '', []),
+      q('Eye of Het I', '', []),
+      q('Eye of Het II', '', []),
+      q('Sins of the Father', '', []),
+      q('Extinction', 'Combine warped gem with Ring of vigour for passive effect (buy vigour step below).', []),
+      pvm(
+        'Buy Ring of vigour (50,000 DG tokens)',
+        'Combine with warped gem from Extinction — essential passive for bossing.',
+        [{ skill: 'Dungeoneering', level: 5 }],
+        { wiki: 'https://runescape.wiki/w/Ring_of_vigour' }
       ),
       q('The Void Stares Back', '', [{ skill: 'Magic', level: 90 }]),
       q('The Mighty Fall', '', [{ skill: 'Agility', level: 77 }]),
@@ -838,8 +808,8 @@ export const GUIDE_PARTS = [
       step('Reclaim 250k Prayer XP lamp from Guthixian High Druid', 'Requires 80 Prayer to use.', [{ skill: 'Prayer', level: 80 }]),
       step('Train Slayer to 80', '', [{ skill: 'Slayer', level: 80 }]),
       q('The Light Within', '', [{ skill: 'Agility', level: 80 }]),
-      q('Children of Mah', '', [{ skill: 'Agility', level: 80 }]),
-      q('Sliske\'s Endgame', '', [{ skill: 'Agility', level: 80 }]),
+      q('Children of Mah', '', []),
+      q('Sliske\'s Endgame', '', []),
     ],
   },
   {
@@ -860,11 +830,47 @@ export const GUIDE_PARTS = [
       step('Create 3000 Sign of the porter IV', '', [{ skill: 'Divination', level: 80 }]),
       step('Train Archaeology to 95', '', [{ skill: 'Archaeology', level: 95 }]),
       step('Obtain 2 dragon mattocks in Big Game Hunter', 'Prioritise Bagrada rex for vuln bombs at PoF. Corbicula rex & malletops PoF = PvM perks when ready.', [{ skill: 'Hunter', level: 76 }]),
+      q(
+        'Curse of the Black Stone',
+        '10% damage reduction in Temple of Aminishi, Dragonkin Laboratory & Shadow Reef.',
+        [],
+        { tags: ['pvm', 'quest'] }
+      ),
       pvm(
         'Elite dungeon chest upgrade (750,000 DG tokens)',
         'Bank inside EDs; bosses always roll 20% double-loot chance.',
         [{ skill: 'Dungeoneering', level: 5 }],
         { wiki: 'https://runescape.wiki/w/Dungeoneering#Rewards' }
+      ),
+      pvm(
+        'War\'s Retreat — progress War\'s Wares unlocks',
+        '10 kills: campfire. 100: teleport. 200: boss portal. 500: Altar of War. 1000: cooldown reset. 2000: adrenaline crystals.',
+        [{ skill: 'Combat', level: 85 }],
+        { wiki: 'https://runescape.wiki/w/War%27s_Retreat' }
+      ),
+      q(
+        'Succession',
+        'Dive ability + Infernal Puzzle Box on toolbelt. Infernus & Wilderness damage bonuses.',
+        [],
+        { tags: ['pvm', 'quest'] }
+      ),
+      q(
+        'Daughter of Chaos',
+        'Upgrades Infernal Puzzle Box — reduced environmental damage in Infernus.',
+        [],
+        { tags: ['pvm', 'quest'] }
+      ),
+      q(
+        'Song from the Depths',
+        'Reduced incoming damage vs Queen Black Dragon.',
+        [],
+        { tags: ['pvm', 'quest'] }
+      ),
+      q(
+        'Twilight of the Gods',
+        '10% damage reduction vs Zamorak, Lord of Chaos.',
+        [],
+        { tags: ['pvm', 'quest'] }
       ),
       q(
         'The Brink of Extinction',

@@ -1,0 +1,1916 @@
+/**
+ * Wiki minimum skill requirements for quests (from bundle export).
+ * Regenerate: python tools/export_quest_reqs.py && python tools/build_quest_requirements_js.py
+ */
+
+/** @type {Record<string, Array<{ skill: string, level: number }>>} */
+export const QUEST_REQUIREMENTS = 
+{
+  "One Piercing Note": [],
+  "The Blood Pact": [],
+  "The Restless Ghost": [],
+  "Cook's Assistant": [],
+  "Violet is Blue": [],
+  "Violet is Blue Too": [],
+  "Wolf Whistle": [],
+  "Druidic Ritual": [],
+  "Death Plateau": [],
+  "What's Mine is Yours": [
+    {
+      "skill": "Smithing",
+      "level": 5
+    }
+  ],
+  "Gunnar's Ground": [
+    {
+      "skill": "Crafting",
+      "level": 5
+    }
+  ],
+  "The Knight's Sword": [
+    {
+      "skill": "Mining",
+      "level": 10
+    }
+  ],
+  "Necromancy!": [],
+  "Kili Row": [],
+  "Rune Mythos": [],
+  "Demon Slayer": [],
+  "Ernest the Chicken": [],
+  "Swept Away": [],
+  "New Foundations": [],
+  "Murder on the Border": [],
+  "Unwelcome Guests": [],
+  "Goblin Diplomacy": [],
+  "Monk's Friend": [],
+  "Missing, Presumed Death": [],
+  "Gertrude's Cat": [],
+  "Priest in Peril": [],
+  "Sheep Herder": [],
+  "Hazeel Cult": [],
+  "Waterfall Quest": [],
+  "Merlin's Crystal": [],
+  "Holy Grail": [
+    {
+      "skill": "Attack",
+      "level": 30
+    }
+  ],
+  "Stolen Hearts": [],
+  "Diamond in the Rough": [],
+  "The Jack of Spades": [],
+  "Dead and Buried": [],
+  "Icthlarin's Little Helper": [],
+  "Once Upon a Slime": [],
+  "Tribal Totem": [
+    {
+      "skill": "Thieving",
+      "level": 21
+    }
+  ],
+  "Jungle Potion": [
+    {
+      "skill": "Herblore",
+      "level": 3
+    }
+  ],
+  "Recruitment Drive": [
+    {
+      "skill": "Herblore",
+      "level": 3
+    }
+  ],
+  "The Dig Site": [
+    {
+      "skill": "Agility",
+      "level": 10
+    },
+    {
+      "skill": "Herblore",
+      "level": 10
+    },
+    {
+      "skill": "Thieving",
+      "level": 25
+    }
+  ],
+  "Witch's House": [],
+  "The Lost Tribe": [
+    {
+      "skill": "Agility",
+      "level": 13
+    },
+    {
+      "skill": "Mining",
+      "level": 17
+    },
+    {
+      "skill": "Thieving",
+      "level": 13
+    }
+  ],
+  "The Tourist Trap": [
+    {
+      "skill": "Fletching",
+      "level": 10
+    },
+    {
+      "skill": "Smithing",
+      "level": 20
+    }
+  ],
+  "Murder Mystery": [],
+  "Plague City": [],
+  "Biohazard": [],
+  "Fight Arena": [],
+  "Tree Gnome Village": [],
+  "The Grand Tree": [
+    {
+      "skill": "Agility",
+      "level": 25
+    }
+  ],
+  "Observatory Quest": [],
+  "Recipe for Disaster: Another Cook's Quest": [
+    {
+      "skill": "Cooking",
+      "level": 10
+    }
+  ],
+  "Nature Spirit": [
+    {
+      "skill": "Crafting",
+      "level": 18
+    },
+    {
+      "skill": "Divination",
+      "level": 22
+    },
+    {
+      "skill": "Mining",
+      "level": 20
+    },
+    {
+      "skill": "Smithing",
+      "level": 20
+    }
+  ],
+  "Creature of Fenkenstrain": [
+    {
+      "skill": "Crafting",
+      "level": 20
+    },
+    {
+      "skill": "Thieving",
+      "level": 25
+    }
+  ],
+  "Elemental Workshop I": [
+    {
+      "skill": "Crafting",
+      "level": 20
+    },
+    {
+      "skill": "Mining",
+      "level": 20
+    },
+    {
+      "skill": "Smithing",
+      "level": 20
+    }
+  ],
+  "Elemental Workshop II": [
+    {
+      "skill": "Magic",
+      "level": 20
+    },
+    {
+      "skill": "Smithing",
+      "level": 30
+    }
+  ],
+  "Sea Slug": [
+    {
+      "skill": "Firemaking",
+      "level": 30
+    }
+  ],
+  "Fishing Contest": [
+    {
+      "skill": "Fishing",
+      "level": 10
+    }
+  ],
+  "Shilo Village": [
+    {
+      "skill": "Agility",
+      "level": 32
+    },
+    {
+      "skill": "Crafting",
+      "level": 20
+    }
+  ],
+  "Shades of Mort'ton": [
+    {
+      "skill": "Crafting",
+      "level": 20
+    },
+    {
+      "skill": "Firemaking",
+      "level": 6
+    },
+    {
+      "skill": "Herblore",
+      "level": 15
+    }
+  ],
+  "Big Chompy Bird Hunting": [
+    {
+      "skill": "Cooking",
+      "level": 30
+    },
+    {
+      "skill": "Fletching",
+      "level": 5
+    },
+    {
+      "skill": "Ranged",
+      "level": 30
+    }
+  ],
+  "Zogre Flesh Eaters": [],
+  "The Golem": [
+    {
+      "skill": "Crafting",
+      "level": 20
+    },
+    {
+      "skill": "Thieving",
+      "level": 25
+    }
+  ],
+  "Shadow of the Storm": [
+    {
+      "skill": "Crafting",
+      "level": 30
+    }
+  ],
+  "Recipe for Disaster: Freeing Evil Dave": [
+    {
+      "skill": "Cooking",
+      "level": 25
+    }
+  ],
+  "Evil Dave's Big Day Out": [],
+  "Beneath Cursed Tides": [
+    {
+      "skill": "Attack",
+      "level": 30
+    },
+    {
+      "skill": "Cooking",
+      "level": 30
+    },
+    {
+      "skill": "Firemaking",
+      "level": 30
+    },
+    {
+      "skill": "Magic",
+      "level": 30
+    },
+    {
+      "skill": "Mining",
+      "level": 30
+    },
+    {
+      "skill": "Smithing",
+      "level": 30
+    },
+    {
+      "skill": "Strength",
+      "level": 30
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 30
+    }
+  ],
+  "Dragon Slayer": [],
+  "Broken Home": [],
+  "Smoking Kills": [
+    {
+      "skill": "Crafting",
+      "level": 25
+    },
+    {
+      "skill": "Slayer",
+      "level": 35
+    }
+  ],
+  "A Shadow over Ashdale": [],
+  "In Search of the Myreque": [
+    {
+      "skill": "Agility",
+      "level": 25
+    }
+  ],
+  "In Aid of the Myreque": [
+    {
+      "skill": "Crafting",
+      "level": 25
+    },
+    {
+      "skill": "Magic",
+      "level": 7
+    },
+    {
+      "skill": "Mining",
+      "level": 15
+    }
+  ],
+  "Buyers and Cellars": [
+    {
+      "skill": "Thieving",
+      "level": 5
+    }
+  ],
+  "From Tiny Acorns (miniquest)": [
+    {
+      "skill": "Thieving",
+      "level": 24
+    }
+  ],
+  "The Feud": [
+    {
+      "skill": "Thieving",
+      "level": 30
+    }
+  ],
+  "Lost Her Marbles (miniquest)": [
+    {
+      "skill": "Thieving",
+      "level": 41
+    }
+  ],
+  "Carnillean Rising": [
+    {
+      "skill": "Construction",
+      "level": 31
+    },
+    {
+      "skill": "Thieving",
+      "level": 33
+    }
+  ],
+  "Dimension of Disaster: Coin of the Realm": [],
+  "Dimension of Disaster: Demon Slayer": [],
+  "Eagles' Peak": [
+    {
+      "skill": "Hunter",
+      "level": 27
+    }
+  ],
+  "Cold War": [
+    {
+      "skill": "Agility",
+      "level": 30
+    },
+    {
+      "skill": "Construction",
+      "level": 34
+    },
+    {
+      "skill": "Crafting",
+      "level": 30
+    },
+    {
+      "skill": "Hunter",
+      "level": 10
+    },
+    {
+      "skill": "Thieving",
+      "level": 15
+    }
+  ],
+  "Hunt for Red Raktuber": [
+    {
+      "skill": "Construction",
+      "level": 45
+    },
+    {
+      "skill": "Hunter",
+      "level": 45
+    },
+    {
+      "skill": "Thieving",
+      "level": 38
+    }
+  ],
+  "The Fremennik Trials": [
+    {
+      "skill": "Crafting",
+      "level": 40
+    },
+    {
+      "skill": "Fletching",
+      "level": 25
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 40
+    }
+  ],
+  "Monkey Madness": [],
+  "Haunted Mine": [
+    {
+      "skill": "Agility",
+      "level": 15
+    },
+    {
+      "skill": "Crafting",
+      "level": 35
+    }
+  ],
+  "Lair of Tarn Razorlor (miniquest)": [
+    {
+      "skill": "Slayer",
+      "level": 40
+    }
+  ],
+  "The Darkness of Hallowvale": [
+    {
+      "skill": "Agility",
+      "level": 26
+    },
+    {
+      "skill": "Construction",
+      "level": 5
+    },
+    {
+      "skill": "Crafting",
+      "level": 32
+    },
+    {
+      "skill": "Magic",
+      "level": 33
+    },
+    {
+      "skill": "Mining",
+      "level": 20
+    },
+    {
+      "skill": "Strength",
+      "level": 40
+    },
+    {
+      "skill": "Thieving",
+      "level": 22
+    }
+  ],
+  "Troll Stronghold": [
+    {
+      "skill": "Agility",
+      "level": 15
+    },
+    {
+      "skill": "Thieving",
+      "level": 30
+    }
+  ],
+  "Troll Romance": [
+    {
+      "skill": "Agility",
+      "level": 28
+    }
+  ],
+  "Shield of Arrav": [],
+  "Lost City": [
+    {
+      "skill": "Crafting",
+      "level": 31
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 36
+    }
+  ],
+  "Heroes' Quest": [
+    {
+      "skill": "Cooking",
+      "level": 53
+    },
+    {
+      "skill": "Defence",
+      "level": 25
+    },
+    {
+      "skill": "Fishing",
+      "level": 53
+    },
+    {
+      "skill": "Herblore",
+      "level": 25
+    },
+    {
+      "skill": "Mining",
+      "level": 50
+    }
+  ],
+  "Throne of Miscellania": [],
+  "Royal Trouble": [
+    {
+      "skill": "Agility",
+      "level": 40
+    },
+    {
+      "skill": "Slayer",
+      "level": 40
+    }
+  ],
+  "Tears of Guthix (quest)": [
+    {
+      "skill": "Crafting",
+      "level": 20
+    },
+    {
+      "skill": "Firemaking",
+      "level": 49
+    },
+    {
+      "skill": "Mining",
+      "level": 20
+    }
+  ],
+  "Pirate's Treasure": [],
+  "Ghosts Ahoy": [
+    {
+      "skill": "Agility",
+      "level": 25
+    },
+    {
+      "skill": "Cooking",
+      "level": 20
+    }
+  ],
+  "Rum Deal": [
+    {
+      "skill": "Crafting",
+      "level": 42
+    },
+    {
+      "skill": "Farming",
+      "level": 40
+    },
+    {
+      "skill": "Fishing",
+      "level": 50
+    },
+    {
+      "skill": "Prayer",
+      "level": 47
+    },
+    {
+      "skill": "Slayer",
+      "level": 42
+    }
+  ],
+  "Vessel of the Harbinger": [],
+  "Requiem for a Dragon": [],
+  "Cabin Fever": [
+    {
+      "skill": "Agility",
+      "level": 42
+    },
+    {
+      "skill": "Crafting",
+      "level": 45
+    },
+    {
+      "skill": "Ranged",
+      "level": 40
+    },
+    {
+      "skill": "Smithing",
+      "level": 50
+    }
+  ],
+  "Legacy of Seergaze": [
+    {
+      "skill": "Agility",
+      "level": 29
+    },
+    {
+      "skill": "Construction",
+      "level": 20
+    },
+    {
+      "skill": "Crafting",
+      "level": 47
+    },
+    {
+      "skill": "Firemaking",
+      "level": 40
+    },
+    {
+      "skill": "Magic",
+      "level": 49
+    },
+    {
+      "skill": "Mining",
+      "level": 35
+    },
+    {
+      "skill": "Slayer",
+      "level": 31
+    }
+  ],
+  "Underground Pass": [
+    {
+      "skill": "Ranged",
+      "level": 25
+    }
+  ],
+  "Death to the Dorgeshuun": [
+    {
+      "skill": "Agility",
+      "level": 23
+    },
+    {
+      "skill": "Thieving",
+      "level": 23
+    }
+  ],
+  "The Giant Dwarf": [
+    {
+      "skill": "Crafting",
+      "level": 12
+    },
+    {
+      "skill": "Firemaking",
+      "level": 16
+    },
+    {
+      "skill": "Magic",
+      "level": 33
+    },
+    {
+      "skill": "Thieving",
+      "level": 14
+    }
+  ],
+  "Another Slice of H.A.M.": [
+    {
+      "skill": "Attack",
+      "level": 15
+    },
+    {
+      "skill": "Prayer",
+      "level": 25
+    }
+  ],
+  "Land of the Goblins": [
+    {
+      "skill": "Agility",
+      "level": 36
+    },
+    {
+      "skill": "Fishing",
+      "level": 36
+    },
+    {
+      "skill": "Herblore",
+      "level": 37
+    },
+    {
+      "skill": "Prayer",
+      "level": 30
+    },
+    {
+      "skill": "Thieving",
+      "level": 36
+    }
+  ],
+  "The Chosen Commander": [
+    {
+      "skill": "Agility",
+      "level": 46
+    },
+    {
+      "skill": "Strength",
+      "level": 46
+    },
+    {
+      "skill": "Thieving",
+      "level": 46
+    }
+  ],
+  "Family Crest": [
+    {
+      "skill": "Crafting",
+      "level": 40
+    },
+    {
+      "skill": "Magic",
+      "level": 59
+    },
+    {
+      "skill": "Mining",
+      "level": 40
+    },
+    {
+      "skill": "Smithing",
+      "level": 40
+    }
+  ],
+  "Temple of Ikov": [
+    {
+      "skill": "Ranged",
+      "level": 40
+    },
+    {
+      "skill": "Thieving",
+      "level": 42
+    }
+  ],
+  "A Guild of Our Own (miniquest)": [
+    {
+      "skill": "Agility",
+      "level": 40
+    },
+    {
+      "skill": "Herblore",
+      "level": 46
+    },
+    {
+      "skill": "Thieving",
+      "level": 62
+    }
+  ],
+  "One Small Favour": [
+    {
+      "skill": "Agility",
+      "level": 36
+    },
+    {
+      "skill": "Crafting",
+      "level": 25
+    },
+    {
+      "skill": "Herblore",
+      "level": 18
+    },
+    {
+      "skill": "Smithing",
+      "level": 30
+    }
+  ],
+  "King's Ransom": [],
+  "Desert Treasure": [
+    {
+      "skill": "Firemaking",
+      "level": 50
+    },
+    {
+      "skill": "Magic",
+      "level": 50
+    },
+    {
+      "skill": "Slayer",
+      "level": 10
+    },
+    {
+      "skill": "Thieving",
+      "level": 53
+    }
+  ],
+  "Contact!": [],
+  "Ancient Awakening": [],
+  "Lunar Diplomacy": [
+    {
+      "skill": "Crafting",
+      "level": 61
+    },
+    {
+      "skill": "Defence",
+      "level": 40
+    },
+    {
+      "skill": "Firemaking",
+      "level": 49
+    },
+    {
+      "skill": "Herblore",
+      "level": 5
+    },
+    {
+      "skill": "Magic",
+      "level": 65
+    },
+    {
+      "skill": "Mining",
+      "level": 60
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 55
+    }
+  ],
+  "Housing of Parliament": [],
+  "Some Like It Cold": [
+    {
+      "skill": "Construction",
+      "level": 50
+    },
+    {
+      "skill": "Crafting",
+      "level": 56
+    },
+    {
+      "skill": "Fishing",
+      "level": 65
+    },
+    {
+      "skill": "Thieving",
+      "level": 50
+    }
+  ],
+  "Back to the Freezer": [],
+  "Rune Mysteries": [],
+  "Rune Memories": [],
+  "Enter the Abyss": [],
+  "Regicide": [
+    {
+      "skill": "Agility",
+      "level": 56
+    }
+  ],
+  "Animal Magnetism": [
+    {
+      "skill": "Crafting",
+      "level": 19
+    },
+    {
+      "skill": "Ranged",
+      "level": 30
+    },
+    {
+      "skill": "Slayer",
+      "level": 18
+    },
+    {
+      "skill": "Thieving",
+      "level": 15
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 35
+    }
+  ],
+  "Visions of Havenhythe": [],
+  "Hearts of Sanguine": [],
+  "Roving Elves": [],
+  "Mourning's End Part I": [
+    {
+      "skill": "Ranged",
+      "level": 60
+    },
+    {
+      "skill": "Thieving",
+      "level": 50
+    }
+  ],
+  "Mourning's End Part II": [],
+  "Impressing the Locals": [],
+  "Curse of the Black Stone": [],
+  "Bringing Home the Bacon": [
+    {
+      "skill": "Construction",
+      "level": 14
+    },
+    {
+      "skill": "Farming",
+      "level": 14
+    },
+    {
+      "skill": "Summoning",
+      "level": 14
+    }
+  ],
+  "Legends' Quest": [
+    {
+      "skill": "Agility",
+      "level": 50
+    },
+    {
+      "skill": "Crafting",
+      "level": 50
+    },
+    {
+      "skill": "Herblore",
+      "level": 45
+    },
+    {
+      "skill": "Magic",
+      "level": 56
+    },
+    {
+      "skill": "Mining",
+      "level": 52
+    },
+    {
+      "skill": "Prayer",
+      "level": 42
+    },
+    {
+      "skill": "Smithing",
+      "level": 50
+    },
+    {
+      "skill": "Strength",
+      "level": 50
+    },
+    {
+      "skill": "Thieving",
+      "level": 50
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 50
+    }
+  ],
+  "Recipe for Disaster: Freeing the Goblin Generals": [],
+  "Recipe for Disaster: Freeing the Lumbridge Sage": [
+    {
+      "skill": "Cooking",
+      "level": 40
+    }
+  ],
+  "Recipe for Disaster: Freeing the Mountain Dwarf": [],
+  "Recipe for Disaster: Freeing Pirate Pete": [
+    {
+      "skill": "Cooking",
+      "level": 31
+    }
+  ],
+  "Recipe for Disaster: Freeing Skrach Uglogwee": [
+    {
+      "skill": "Cooking",
+      "level": 41
+    },
+    {
+      "skill": "Firemaking",
+      "level": 20
+    }
+  ],
+  "Recipe for Disaster: Freeing King Awowogei": [
+    {
+      "skill": "Agility",
+      "level": 48
+    },
+    {
+      "skill": "Cooking",
+      "level": 70
+    }
+  ],
+  "Recipe for Disaster: Freeing Sir Amik Varze": [],
+  "Bar Crawl (miniquest)": [],
+  "Horror from the Deep": [
+    {
+      "skill": "Agility",
+      "level": 35
+    }
+  ],
+  "Recipe for Disaster: Defeating the Culinaromancer": [
+    {
+      "skill": "Cooking",
+      "level": 10
+    }
+  ],
+  "Eadgar's Ruse": [
+    {
+      "skill": "Herblore",
+      "level": 31
+    }
+  ],
+  "Dream Mentor": [],
+  "My Arm's Big Adventure": [
+    {
+      "skill": "Farming",
+      "level": 29
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 10
+    }
+  ],
+  "The Eyes of Glouphrie": [
+    {
+      "skill": "Construction",
+      "level": 5
+    },
+    {
+      "skill": "Magic",
+      "level": 46
+    }
+  ],
+  "The Path of Glouphrie": [
+    {
+      "skill": "Agility",
+      "level": 45
+    },
+    {
+      "skill": "Ranged",
+      "level": 47
+    },
+    {
+      "skill": "Slayer",
+      "level": 56
+    },
+    {
+      "skill": "Strength",
+      "level": 60
+    },
+    {
+      "skill": "Thieving",
+      "level": 56
+    }
+  ],
+  "What Lies Below": [
+    {
+      "skill": "Runecrafting",
+      "level": 35
+    }
+  ],
+  "The Hunt for Surok (miniquest)": [
+    {
+      "skill": "Mining",
+      "level": 42
+    },
+    {
+      "skill": "Prayer",
+      "level": 43
+    }
+  ],
+  "The Hand in the Sand": [
+    {
+      "skill": "Crafting",
+      "level": 49
+    },
+    {
+      "skill": "Thieving",
+      "level": 17
+    }
+  ],
+  "Garden of Tranquillity": [
+    {
+      "skill": "Farming",
+      "level": 25
+    }
+  ],
+  "The Tale of the Muspah": [
+    {
+      "skill": "Firemaking",
+      "level": 6
+    },
+    {
+      "skill": "Magic",
+      "level": 10
+    },
+    {
+      "skill": "Mining",
+      "level": 8
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 10
+    }
+  ],
+  "Missing My Mummy": [
+    {
+      "skill": "Construction",
+      "level": 35
+    },
+    {
+      "skill": "Cooking",
+      "level": 35
+    },
+    {
+      "skill": "Crafting",
+      "level": 35
+    },
+    {
+      "skill": "Magic",
+      "level": 35
+    },
+    {
+      "skill": "Prayer",
+      "level": 35
+    }
+  ],
+  "A Tail of Two Cats": [],
+  "The Great Brain Robbery": [
+    {
+      "skill": "Construction",
+      "level": 30
+    },
+    {
+      "skill": "Crafting",
+      "level": 16
+    },
+    {
+      "skill": "Prayer",
+      "level": 50
+    }
+  ],
+  "A Fairy Tale I - Growing Pains": [],
+  "A Fairy Tale II - Cure a Queen": [
+    {
+      "skill": "Farming",
+      "level": 49
+    },
+    {
+      "skill": "Herblore",
+      "level": 57
+    },
+    {
+      "skill": "Thieving",
+      "level": 40
+    }
+  ],
+  "A Fairy Tale III - Battle at Ork's Rift": [
+    {
+      "skill": "Crafting",
+      "level": 36
+    },
+    {
+      "skill": "Farming",
+      "level": 54
+    },
+    {
+      "skill": "Thieving",
+      "level": 51
+    }
+  ],
+  "Enakhra's Lament": [
+    {
+      "skill": "Crafting",
+      "level": 50
+    },
+    {
+      "skill": "Firemaking",
+      "level": 45
+    },
+    {
+      "skill": "Magic",
+      "level": 13
+    }
+  ],
+  "All Fired Up": [
+    {
+      "skill": "Firemaking",
+      "level": 43
+    }
+  ],
+  "The World Wakes": [],
+  "Making History": [
+    {
+      "skill": "Crafting",
+      "level": 24
+    }
+  ],
+  "Meeting History": [
+    {
+      "skill": "Herblore",
+      "level": 3
+    }
+  ],
+  "Dishonour among Thieves": [
+    {
+      "skill": "Agility",
+      "level": 30
+    },
+    {
+      "skill": "Thieving",
+      "level": 30
+    }
+  ],
+  "You Are It": [],
+  "The Needle Skips": [],
+  "Desperate Times": [],
+  "Imp Catcher": [],
+  "Wanted!": [],
+  "Quiet Before the Swarm": [
+    {
+      "skill": "Attack",
+      "level": 35
+    },
+    {
+      "skill": "Strength",
+      "level": 42
+    }
+  ],
+  "Heart of Stone": [
+    {
+      "skill": "Magic",
+      "level": 35
+    },
+    {
+      "skill": "Runecrafting",
+      "level": 25
+    }
+  ],
+  "Tai Bwo Wannai Trio": [
+    {
+      "skill": "Agility",
+      "level": 15
+    },
+    {
+      "skill": "Cooking",
+      "level": 30
+    },
+    {
+      "skill": "Fishing",
+      "level": 5
+    }
+  ],
+  "Dwarf Cannon": [],
+  "The Death of Chivalry": [
+    {
+      "skill": "Prayer",
+      "level": 65
+    },
+    {
+      "skill": "Strength",
+      "level": 80
+    }
+  ],
+  "As a First Resort": [
+    {
+      "skill": "Firemaking",
+      "level": 51
+    },
+    {
+      "skill": "Hunter",
+      "level": 48
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 58
+    }
+  ],
+  "Catapult Construction": [
+    {
+      "skill": "Construction",
+      "level": 44
+    },
+    {
+      "skill": "Fletching",
+      "level": 42
+    }
+  ],
+  "A Void Dance": [
+    {
+      "skill": "Construction",
+      "level": 47
+    },
+    {
+      "skill": "Herblore",
+      "level": 49
+    },
+    {
+      "skill": "Hunter",
+      "level": 46
+    },
+    {
+      "skill": "Mining",
+      "level": 47
+    },
+    {
+      "skill": "Summoning",
+      "level": 48
+    },
+    {
+      "skill": "Thieving",
+      "level": 54
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 52
+    }
+  ],
+  "Defender of Varrock": [
+    {
+      "skill": "Agility",
+      "level": 51
+    },
+    {
+      "skill": "Hunter",
+      "level": 51
+    },
+    {
+      "skill": "Mining",
+      "level": 59
+    },
+    {
+      "skill": "Smithing",
+      "level": 54
+    }
+  ],
+  "Devious Minds": [
+    {
+      "skill": "Fletching",
+      "level": 50
+    },
+    {
+      "skill": "Runecrafting",
+      "level": 50
+    },
+    {
+      "skill": "Smithing",
+      "level": 65
+    }
+  ],
+  "The Branches of Darkmeyer": [
+    {
+      "skill": "Agility",
+      "level": 63
+    },
+    {
+      "skill": "Crafting",
+      "level": 64
+    },
+    {
+      "skill": "Farming",
+      "level": 63
+    },
+    {
+      "skill": "Fletching",
+      "level": 70
+    },
+    {
+      "skill": "Magic",
+      "level": 70
+    },
+    {
+      "skill": "Slayer",
+      "level": 67
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 76
+    }
+  ],
+  "Kindred Spirits": [
+    {
+      "skill": "Agility",
+      "level": 60
+    },
+    {
+      "skill": "Crafting",
+      "level": 60
+    },
+    {
+      "skill": "Herblore",
+      "level": 60
+    },
+    {
+      "skill": "Smithing",
+      "level": 60
+    }
+  ],
+  "While Guthix Sleeps": [
+    {
+      "skill": "Agility",
+      "level": 25
+    },
+    {
+      "skill": "Attack",
+      "level": 99
+    },
+    {
+      "skill": "Defence",
+      "level": 40
+    },
+    {
+      "skill": "Farming",
+      "level": 65
+    },
+    {
+      "skill": "Herblore",
+      "level": 65
+    },
+    {
+      "skill": "Hunter",
+      "level": 55
+    },
+    {
+      "skill": "Magic",
+      "level": 75
+    },
+    {
+      "skill": "Strength",
+      "level": 99
+    },
+    {
+      "skill": "Summoning",
+      "level": 23
+    },
+    {
+      "skill": "Thieving",
+      "level": 60
+    }
+  ],
+  "Spirit of Summer": [
+    {
+      "skill": "Construction",
+      "level": 40
+    },
+    {
+      "skill": "Farming",
+      "level": 26
+    },
+    {
+      "skill": "Prayer",
+      "level": 35
+    },
+    {
+      "skill": "Summoning",
+      "level": 19
+    }
+  ],
+  "Summer's End": [
+    {
+      "skill": "Firemaking",
+      "level": 47
+    },
+    {
+      "skill": "Hunter",
+      "level": 35
+    },
+    {
+      "skill": "Mining",
+      "level": 45
+    },
+    {
+      "skill": "Prayer",
+      "level": 55
+    },
+    {
+      "skill": "Summoning",
+      "level": 23
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 37
+    }
+  ],
+  "The Curse of Arrav": [
+    {
+      "skill": "Agility",
+      "level": 61
+    },
+    {
+      "skill": "Mining",
+      "level": 64
+    },
+    {
+      "skill": "Ranged",
+      "level": 64
+    },
+    {
+      "skill": "Slayer",
+      "level": 37
+    },
+    {
+      "skill": "Strength",
+      "level": 64
+    },
+    {
+      "skill": "Summoning",
+      "level": 41
+    },
+    {
+      "skill": "Thieving",
+      "level": 66
+    }
+  ],
+  "The Temple at Senntisten": [
+    {
+      "skill": "Prayer",
+      "level": 50
+    }
+  ],
+  "Rocking Out": [
+    {
+      "skill": "Agility",
+      "level": 60
+    },
+    {
+      "skill": "Crafting",
+      "level": 66
+    },
+    {
+      "skill": "Smithing",
+      "level": 69
+    },
+    {
+      "skill": "Thieving",
+      "level": 63
+    }
+  ],
+  "The Slug Menace": [
+    {
+      "skill": "Crafting",
+      "level": 30
+    },
+    {
+      "skill": "Runecrafting",
+      "level": 30
+    },
+    {
+      "skill": "Slayer",
+      "level": 30
+    },
+    {
+      "skill": "Thieving",
+      "level": 30
+    }
+  ],
+  "Ritual of the Mahjarrat": [
+    {
+      "skill": "Agility",
+      "level": 77
+    },
+    {
+      "skill": "Crafting",
+      "level": 76
+    },
+    {
+      "skill": "Mining",
+      "level": 76
+    }
+  ],
+  "Within the Light": [
+    {
+      "skill": "Agility",
+      "level": 69
+    },
+    {
+      "skill": "Fletching",
+      "level": 70
+    },
+    {
+      "skill": "Ranged",
+      "level": 75
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 75
+    }
+  ],
+  "Plague's End": [
+    {
+      "skill": "Agility",
+      "level": 75
+    },
+    {
+      "skill": "Construction",
+      "level": 75
+    },
+    {
+      "skill": "Crafting",
+      "level": 75
+    },
+    {
+      "skill": "Dungeoneering",
+      "level": 75
+    },
+    {
+      "skill": "Herblore",
+      "level": 75
+    },
+    {
+      "skill": "Mining",
+      "level": 75
+    },
+    {
+      "skill": "Prayer",
+      "level": 75
+    },
+    {
+      "skill": "Ranged",
+      "level": 75
+    },
+    {
+      "skill": "Summoning",
+      "level": 75
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 75
+    }
+  ],
+  "Beneath Scabaras' Sands": [],
+  "One of a Kind": [
+    {
+      "skill": "Divination",
+      "level": 40
+    },
+    {
+      "skill": "Dungeoneering",
+      "level": 67
+    },
+    {
+      "skill": "Magic",
+      "level": 81
+    },
+    {
+      "skill": "Summoning",
+      "level": 74
+    }
+  ],
+  "The Lord of Vampyrium": [
+    {
+      "skill": "Attack",
+      "level": 75
+    },
+    {
+      "skill": "Constitution",
+      "level": 75
+    },
+    {
+      "skill": "Construction",
+      "level": 79
+    },
+    {
+      "skill": "Defence",
+      "level": 75
+    },
+    {
+      "skill": "Hunter",
+      "level": 76
+    },
+    {
+      "skill": "Slayer",
+      "level": 78
+    },
+    {
+      "skill": "Strength",
+      "level": 75
+    }
+  ],
+  "River of Blood": [
+    {
+      "skill": "Attack",
+      "level": 78
+    },
+    {
+      "skill": "Constitution",
+      "level": 80
+    },
+    {
+      "skill": "Firemaking",
+      "level": 76
+    },
+    {
+      "skill": "Fletching",
+      "level": 75
+    },
+    {
+      "skill": "Herblore",
+      "level": 80
+    },
+    {
+      "skill": "Magic",
+      "level": 78
+    },
+    {
+      "skill": "Mining",
+      "level": 72
+    },
+    {
+      "skill": "Ranged",
+      "level": 78
+    }
+  ],
+  "The Vault of Shadows": [],
+  "Desperate Measures": [],
+  "Desperate Creatures": [],
+  "Raksha, the Shadow Colossus (quest)": [],
+  "Azzanadra's Quest": [],
+  "Battle of the Monolith": [],
+  "City of Senntisten": [],
+  "Eye of Het I": [],
+  "Eye of Het II": [],
+  "Sins of the Father": [],
+  "Extinction": [],
+  "Succession": [],
+  "Daughter of Chaos": [],
+  "Song from the Depths": [
+    {
+      "skill": "Constitution",
+      "level": 80
+    }
+  ],
+  "Twilight of the Gods": [],
+  "The Void Stares Back": [
+    {
+      "skill": "Attack",
+      "level": 78
+    },
+    {
+      "skill": "Construction",
+      "level": 70
+    },
+    {
+      "skill": "Crafting",
+      "level": 70
+    },
+    {
+      "skill": "Defence",
+      "level": 25
+    },
+    {
+      "skill": "Firemaking",
+      "level": 71
+    },
+    {
+      "skill": "Magic",
+      "level": 80
+    },
+    {
+      "skill": "Smithing",
+      "level": 70
+    },
+    {
+      "skill": "Strength",
+      "level": 78
+    },
+    {
+      "skill": "Summoning",
+      "level": 55
+    }
+  ],
+  "The Mighty Fall": [
+    {
+      "skill": "Attack",
+      "level": 79
+    },
+    {
+      "skill": "Constitution",
+      "level": 78
+    },
+    {
+      "skill": "Defence",
+      "level": 72
+    },
+    {
+      "skill": "Slayer",
+      "level": 69
+    },
+    {
+      "skill": "Strength",
+      "level": 79
+    }
+  ],
+  "Nomad's Requiem": [
+    {
+      "skill": "Construction",
+      "level": 60
+    },
+    {
+      "skill": "Hunter",
+      "level": 65
+    },
+    {
+      "skill": "Magic",
+      "level": 75
+    },
+    {
+      "skill": "Mining",
+      "level": 66
+    },
+    {
+      "skill": "Prayer",
+      "level": 70
+    }
+  ],
+  "Nomad's Elegy": [
+    {
+      "skill": "Construction",
+      "level": 75
+    },
+    {
+      "skill": "Mining",
+      "level": 75
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 75
+    }
+  ],
+  "Hero's Welcome": [
+    {
+      "skill": "Divination",
+      "level": 60
+    },
+    {
+      "skill": "Mining",
+      "level": 67
+    },
+    {
+      "skill": "Slayer",
+      "level": 62
+    },
+    {
+      "skill": "Smithing",
+      "level": 67
+    }
+  ],
+  "Fate of the Gods": [
+    {
+      "skill": "Agility",
+      "level": 73
+    },
+    {
+      "skill": "Divination",
+      "level": 75
+    },
+    {
+      "skill": "Magic",
+      "level": 79
+    },
+    {
+      "skill": "Slayer",
+      "level": 76
+    },
+    {
+      "skill": "Summoning",
+      "level": 67
+    }
+  ],
+  "The Light Within": [
+    {
+      "skill": "Agility",
+      "level": 80
+    },
+    {
+      "skill": "Crafting",
+      "level": 80
+    },
+    {
+      "skill": "Divination",
+      "level": 80
+    },
+    {
+      "skill": "Herblore",
+      "level": 80
+    },
+    {
+      "skill": "Prayer",
+      "level": 80
+    },
+    {
+      "skill": "Slayer",
+      "level": 80
+    },
+    {
+      "skill": "Woodcutting",
+      "level": 80
+    }
+  ],
+  "Children of Mah": [],
+  "Sliske's Endgame": [],
+  "The Brink of Extinction": [
+    {
+      "skill": "Mining",
+      "level": 72
+    },
+    {
+      "skill": "Smithing",
+      "level": 80
+    }
+  ],
+  "The Elder Kiln": [
+    {
+      "skill": "Agility",
+      "level": 60
+    },
+    {
+      "skill": "Magic",
+      "level": 75
+    },
+    {
+      "skill": "Mining",
+      "level": 40
+    }
+  ]
+}
+;
+
+export function getQuestRequirements(title) {
+  return QUEST_REQUIREMENTS[title] ? [...QUEST_REQUIREMENTS[title]] : [];
+}

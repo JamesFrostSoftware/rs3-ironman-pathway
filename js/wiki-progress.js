@@ -108,7 +108,7 @@ const AUTO_CHECK_SKIP = new Set([
 ]);
 
 /** Bump when guide structure changes — triggers progress remigration. */
-export const GUIDE_DATA_VERSION = 8;
+export const GUIDE_DATA_VERSION = 9;
 
 /** Last original wiki Part 1 step completed before current step 128. */
 export const WIKI_ANCHOR_TITLE = 'Shilo Village';

@@ -139,6 +139,15 @@ function meetsRequirements(step) {
     if (!skill) {
       if (req.skill === 'Combat' && USER_PROFILE.combatLevel < req.level) return false;
       if (req.skill === 'Quest Points' && USER_PROFILE.questPoints < req.level) return false;
+      if (req.skill === 'Any Port Skill') {
+        const portSkills = [
+          'Agility', 'Cooking', 'Construction', 'Divination', 'Dungeoneering', 'Farming',
+          'Fishing', 'Herblore', 'Hunter', 'Magic', 'Mining', 'Prayer', 'Ranged',
+          'Runecrafting', 'Slayer', 'Smithing', 'Summoning', 'Thieving', 'Woodcutting',
+          'Attack', 'Strength', 'Defence',
+        ];
+        if (!portSkills.some((s) => (USER_PROFILE.skills[s] ?? 0) >= req.level)) return false;
+      }
       continue;
     }
     const have = USER_PROFILE.skills[skill];
@@ -379,6 +388,18 @@ function renderSkillReqs(skills) {
         const met = USER_PROFILE.questPoints >= req.level;
         const label = `${req.level} QP (${USER_PROFILE.questPoints})`;
         return `<span class="req-skill ${met ? 'met' : 'unmet'}" data-tip="${escapeHtml(met ? TIPS.reqMet(label) : TIPS.reqUnmet(label))}">${label}</span>`;
+      }
+      if (req.skill === 'Any Port Skill') {
+        const portSkills = [
+          'Agility', 'Cooking', 'Construction', 'Divination', 'Dungeoneering', 'Farming',
+          'Fishing', 'Herblore', 'Hunter', 'Magic', 'Mining', 'Prayer', 'Ranged',
+          'Runecrafting', 'Slayer', 'Smithing', 'Summoning', 'Thieving', 'Woodcutting',
+          'Attack', 'Strength', 'Defence',
+        ];
+        const best = Math.max(...portSkills.map((s) => USER_PROFILE.skills[s] ?? 0));
+        const met = best >= req.level;
+        const label = `${req.level} any port skill (${best})`;
+        return `<span class="req-skill ${met ? 'met' : 'unmet'}" data-tip="${escapeHtml(met ? TIPS.reqMet(label) : TIPS.reqUnmet(label))}">${escapeHtml(label)}</span>`;
       }
       const skill = normalizeSkillName(req.skill);
       if (!skill) {
